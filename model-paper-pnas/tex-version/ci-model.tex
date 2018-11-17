@@ -1,0 +1,191 @@
+\documentclass[9pt,twocolumn,twoside]{pnas-new}
+% Use the lineno option to display guide line numbers if required
+
+\templatetype{pnasresearcharticle} % Choose template 
+% {pnasresearcharticle} = Template for a two-column research article
+% {pnasmathematics} %= Template for a one-column mathematics article
+% {pnasinvited} %= Template for a PNAS invited submission
+
+\title{Context-dependent selection as the keystone in the somatic evolution of cancer}
+
+% Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
+\author[1,2]{Vibishan B.}
+\author[1,2,*]{Milind G. Watve} 
+%\author[a]{Author Three}
+
+\affil[1]{Department of Biology, Indian Institute of Science Education and Research (IISER), Pune}
+%\affil[b]{Affiliation Two}
+%\affil[c]{Affiliation Three}
+
+% Please give the surname of the lead author for the running footer
+\leadauthor{Vibishan/Watve} 
+
+% Please add here a significance statement to explain the relevance of your work
+\significancestatement{Authors must submit a 120-word maximum statement about the significance of their research paper written at a level understandable to an undergraduate educated scientist outside their field of speciality. The primary goal of the Significance Statement is to explain the relevance of the work in broad context to a broad readership. The Significance Statement appears in the paper itself and is required for all research papers.}
+
+% Please include corresponding author, author contribution and author declaration information
+%\authorcontributions{Both authors conceptualised the work. V.B. wrote the code, and both authors analysed the data and wrote the manuscript.}
+\authordeclaration{The authors declare that there are no conflicts of interest}
+\equalauthors{\textsuperscript{2}V.B. and M.G.W. contributed equally to this work.}
+\correspondingauthor{\textsuperscript{*}To whom correspondence should be addressed. E-mail: milind@iiserpune.ac.in}
+
+% Keywords are not mandatory, but authors are strongly encouraged to provide them. If provided, please include two to five keywords, separated by the pipe symbol, e.g:
+\keywords{Somatic evolution $|$ Mutation accumulation $|$ Epidemiology $|$ Cancer etiology $|$} 
+
+\begin{abstract}
+Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
+\end{abstract}
+
+\dates{This manuscript was compiled on \today}
+\doi{\url{www.pnas.org/cgi/doi/10.1073/pnas.XXXXXXXXXX}}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{firststyle}
+\ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
+
+% If your first paragraph (i.e. with the \dropcap) contains a list environment (quote, quotation, theorem, definition, enumerate, itemize...), the line after the list may have some extra indentation. If this is the case, add \parshape=0 to the end of the list environment.
+\dropcap{O}ver the past 60 years or so, ideas in the field of cancer epidemiology have evolved significantly, with the first models starting from the Armitage-Doll multi-stage models \cite{ARMITAGE1954}, which were essentially statistical fits to available data of age-specific incidence, and predicted a power law relationship of cancer risk with age. The connection between the multiple stages and sequential genetic mutation events was established definitively for retinoblastoma with the two-hit hypothesis \cite{Knudson1971}. This finding has since directed a lot of attention to mutational processes and genetic instability within cells as fundamental forces in cancer, and their signatures in population-level datasets. Tomasetti et al. have made the argument for cancer risk being largely determined by random mutations \cite{Tomasetti78, Tomasetti2017}. Others have studied the impact of selectively-neutral or deleterious passenger mutations on the expansion and progression of advantageous mutant clones \cite{McFarland2013}, mutation accumulation rates across tissue types \cite{Blokzijl2016}, or dependencies between mutations \cite{Mina2017}. On the other hand, an old debate in the theory of evolution is how the simple process of random mutations and natural selection can lead to compled structures such as the eye, that need coordinated action of several genes. This is often perceived as a monkey-on-a-typewriter paradox \cite{Dawkins1996}-how likely is it that a monkey sitting at a typewriter and hitting keys at random would end up typing a meaningful sentence? The problem of cancer is qualitatively similar to this, but quantitatively even more difficult. No single mutation is known to make a cell cancerous. All cancers are necessarily a combination of different types of genomic changes including point mutations, aneuploidy, and other chromosomal aberrations. The cancer phenotype has a large number of distinguishing characeters, encapsulated by the notion of the ``hallmarks'' of cancer \cite{Hanahan2000, Schafer2008, Hanahan2011}, and the wide range of these characterisitics that the hallmarks include make it astonishing that so many alterations in cell properties come together in cancers purely out of chance, especially since most cancers must evolve independently in each individual organism.
+
+Within the level of the organism, clonal expansion is another process that is implicated in carcinogenesis. Every component mutation on the way to a cancerous phenotype causes the mutant clone to expand, and as the mutant population increases, the probability of a second component mutation increases proportionately \cite{Nowell1976}. Implicit in this theory is the assumption that every component mutation has a selective advantage over the normal cell. Since most changes involved in carcinogenesis relate to evading growth regulatory mechanisms, it is considered logical that any mutation that allows for such evasion will have a natural selective advantage. However, the final word is far from conclusive on the view that cells with component mutations are always at an advantage, and evidence has been accumulating over the past few years that the fitness advantage of a mutant is largely dependent on the tissue micro-environment \cite{Hanahan2012, Pietras2010}. Studies in mice \cite{Cao2010} and humans \cite{Rundqvist2013} have demonstrated the effect of contingent factors, such as behavioural profiles and lifestyle parameters, on cancer progression. Such findings provide clear indications that the selective forces which determine mutant clone fitness can vary considerably across individual organisms, leading to \textit{context-dependent clonal expansion} of potentially oncogenic mutants. This aspect of cancer progression, that moves beyond mutagenesis, has also seen some modeling effort in the past few years, towards attributing cancer risk to environmental factors \cite{Hochberg2017}, or other forms of selection \cite{Nagy2007, Caulin2011}. These efforts reveal the incorporation of additional complexity to causal factors underlying cancer, although a thoroughly unified picture of cancer etiology is still emerging. So far however, what we identify here as context-dependent clonal expansion has not been incorporated explicitly in models of cancer incidence.
+
+Across biological levels then, there at least three processes that seem to play a major role in cancer progression and etiology: (1) random mutagenesis, or the ``bad luck'' hypothesis, (2) expansion of mutant clones within organisms, and (3) context-dependent selection acting across organisms. Since well-curated data is available for human cancer incidence patterns, we develop models of these three processes, and compare their predictions with the epidemiological picture of cancer in the human population. This also includes an examination of how these different models explain the well-known Peto's paradox \cite{Peto1975}, and the observed relationships with stem cell number \cite{Tomasetti78, Tomasetti2017} and mutation rates \cite{Hao2016}.
+
+\section*{The ``bad luck'' model}
+
+This hypothesis assumes that the required set of driver mutations accumulate in a cell by chance alone. This may happen over a period of time, or in a single large-scale event, like chromothripsis \cite{Stephens2011}.
+
+Consider an organism with a population of $n$ stem cells, each with a mutation rate per cellular generation per genome, $p$. The probability that at least one cell acquires one mutation at a given point of time can be given as $1-(1-p)^{n}$. If $k$ such mutations are requried for cancer onset, the probability of cancer according to the bad luck model can be given as below, based on an algebraic formulation \cite{Calabrese2010}:
+
+\begin{equation}
+	\label{E1}
+	p_{can} = 1-(1-p^{k})^{n}
+\end{equation}
+
+For the sake of simplicity, we have ignored the cost of lethal and/or passenger mutations, and assume that the mutations occur together at any given point of time; although the model predictions change qualitatively, we see that the latter assumption does not affect the general inferences we draw.
+
+On the whole, the algebraic form of \ref{E1} predicts a threshold relationship of $p_{can}$ with both $n$ and $p$; 
+
+\subsection*{Author Affiliations}
+
+Include department, institution, and complete address, with the ZIP/postal code, for each author. Use lower case letters to match authors with institutions, as shown in the example. Authors with an ORCID ID may supply this information at submission.
+
+\subsection*{Submitting Manuscripts}
+
+All authors must submit their articles at \href{http://www.pnascentral.org/cgi-bin/main.plex}{PNAScentral}. If you are using Overleaf to write your article, you can use the ``Submit to PNAS'' option in the top bar of the editor window. 
+
+\subsection*{Format}
+
+Many authors find it useful to organize their manuscripts with the following order of sections;  Title, Author Affiliation, Keywords, Abstract, Significance Statement, Results, Discussion, Materials and methods, Acknowledgments, and References. Other orders and headings are permitted.
+
+\subsection*{Manuscript Length}
+
+PNAS generally uses a two-column format averaging 67 characters, including spaces, per line. The maximum length of a Direct Submission research article is six pages and a Direct Submission Plus research article is ten pages including all text, spaces, and the number of characters displaced by figures, tables, and equations.  When submitting tables, figures, and/or equations in addition to text, keep the text for your manuscript under 39,000 characters (including spaces) for Direct Submissions and 72,000 characters (including spaces) for Direct Submission Plus.
+
+\subsection*{References}
+
+References should be cited in numerical order as they appear in text; this will be done automatically via bibtex, e.g.. All references should be included in the main manuscript file.  
+
+\subsection*{Data Archival}
+
+PNAS must be able to archive the data essential to a published article. Where such archiving is not possible, deposition of data in public databases, such as GenBank, ArrayExpress, Protein Data Bank, Unidata, and others outlined in the Information for Authors, is acceptable.
+
+\subsection*{Language-Editing Services}
+Prior to submission, authors who believe their manuscripts would benefit from professional editing are encouraged to use a language-editing service (see list at www.pnas.org/site/authors/language-editing.xhtml). PNAS does not take responsibility for or endorse these services, and their use has no bearing on acceptance of a manuscript for publication. 
+
+%\begin{figure}%[tbhp]
+%\centering
+%\includegraphics[width=.8\linewidth]{frog}
+%\caption{Placeholder image of a frog with a long example caption to show justification setting.}
+%\label{fig:frog}
+%\end{figure}
+
+
+%\begin{SCfigure*}[\sidecaptionrelwidth][t]
+%\centering
+%\includegraphics[width=11.4cm,height=11.4cm]{frog}
+%\caption{This caption would be placed at the side of the figure, rather than below it.}\label{fig:side}
+%\end{SCfigure*}
+
+\subsection*{Digital Figures}
+
+Only TIFF, EPS, and high-resolution PDF for Mac or PC are allowed for figures that will appear in the main text, and images must be final size. Authors may submit U3D or PRC files for 3D images; these must be accompanied by 2D representations in TIFF, EPS, or high-resolution PDF format.  Color images must be in RGB (red, green, blue) mode. Include the font files for any text. 
+
+Figures and Tables should be labelled and referenced in the standard way using the \verb|\label{}| and \verb|\ref{}| commands.
+
+Figure \ref{fig:frog} shows an example of how to insert a column-wide figure. To insert a figure wider than one column, please use the \verb|\begin{figure*}...\end{figure*}| environment. Figures wider than one column should be sized to 11.4 cm or 17.8 cm wide. Use \verb|\begin{SCfigure*}...\end{SCfigure*}| for a wide figure with side captions.
+
+\subsection*{Tables}
+In addition to including your tables within this manuscript file, PNAS requires that each table be uploaded to the submission separately as a â€œTableâ€ file.  Please ensure that each table .tex file contains a preamble, the \verb|\begin{document}| command, and the \verb|\end{document}| command. This is necessary so that the submission system can convert each file to PDF.
+
+\subsection*{Single column equations}
+
+Authors may use 1- or 2-column equations in their article, according to their preference.
+
+To allow an equation to span both columns, use the \verb|\begin{figure*}...\end{figure*}| environment mentioned above for figures.
+
+Note that the use of the \verb|widetext| environment for equations is not recommended, and should not be used. 
+
+%\begin{figure*}[bt!]
+%\begin{align*}
+%(x+y)^3&=(x+y)(x+y)^2\\
+%      &=(x+y)(x^2+2xy+y^2) \numberthis \label{eqn:example} \\
+%      &=x^3+3x^2y+3xy^3+x^3. 
+%\end{align*}
+%\end{figure*}
+
+
+\begin{table}%[tbhp]
+\centering
+\caption{Comparison of the fitted potential energy surfaces and ab initio benchmark electronic energy calculations}
+\begin{tabular}{lrrr}
+Species & CBS & CV & G3 \\
+\midrule
+1. Acetaldehyde & 0.0 & 0.0 & 0.0 \\
+2. Vinyl alcohol & 9.1 & 9.6 & 13.5 \\
+3. Hydroxyethylidene & 50.8 & 51.2 & 54.0\\
+\bottomrule
+\end{tabular}
+
+\addtabletext{nomenclature for the TSs refers to the numbered species in the table.}
+\end{table}
+
+\subsection*{Supporting Information (SI)}
+
+Authors should submit SI as a single separate PDF file, combining all text, figures, tables, movie legends, and SI references.  PNAS will publish SI uncomposed, as the authors have provided it.  Additional details can be found here: \href{http://www.pnas.org/page/authors/journal-policies}{policy on SI}.  For SI formatting instructions click \href{https://www.pnascentral.org/cgi-bin/main.plex?form_type=display_auth_si_instructions}{here}.  The PNAS Overleaf SI template can be found \href{https://www.overleaf.com/latex/templates/pnas-template-for-supplementary-information/wqfsfqwyjtsd}{here}.  Refer to the SI Appendix in the manuscript at an appropriate point in the text. Number supporting figures and tables starting with S1, S2, etc.
+
+Authors who place detailed materials and methods in an SI Appendix must provide sufficient detail in the main text methods to enable a reader to follow the logic of the procedures and results and also must reference the SI methods. If a paper is fundamentally a study of a new method or technique, then the methods must be described completely in the main text.
+
+\subsubsection*{SI Datasets} 
+
+Supply Excel (.xls), RTF, or PDF files. This file type will be published in raw format and will not be edited or composed.
+
+
+\subsubsection*{SI Movies}
+
+Supply Audio Video Interleave (avi), Quicktime (mov), Windows Media (wmv), animated GIF (gif), or MPEG files and submit a brief legend for each movie in a Word or RTF file. All movies should be submitted at the desired reproduction size and length. Movies should be no more than 10 MB in size.
+
+
+\subsubsection*{3D Figures}
+
+Supply a composable U3D or PRC file so that it may be edited and composed. Authors may submit a PDF file but please note it will be published in raw format and will not be edited or composed.
+
+
+\matmethods{Please describe your materials and methods here. This can be more than one paragraph, and may contain subsections and equations as required. Authors should include a statement in the methods section describing how readers will be able to access the data in the paper. 
+
+\subsection*{Subsection for Method}
+Example text for subsection.
+}
+
+\showmatmethods{} % Display the Materials and Methods section
+
+\acknow{Please include your acknowledgments here, set in a single paragraph. Please do not include any acknowledgments in the Supporting Information, or anywhere else in the manuscript.}
+
+\showacknow{} % Display the acknowledgments section
+
+% Bibliography
+\bibliography{ci-model}
+\bibliographystyle{pnas-new.bst}
+
+\end{document}
