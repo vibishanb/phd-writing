@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: ci-model.aux
 The style file: pnas-new.bst
-Illegal, another \bibstyle command---line 85 of file ci-model.aux
+Illegal, another \bibstyle command---line 101 of file ci-model.aux
  : \bibstyle
  :          {pnas-new.bst}
 I'm skipping whatever remains of this command
@@ -11,45 +11,45 @@ Database file #1: ci-model.bib
 while executing---line 971 of file pnas-new.bst
 Warning--empty title in Hanahan2012
 Warning--there's a number but no volume in Hao2016
-You've used 25 entries,
+You've used 36 entries,
             1837 wiz_defined-function locations,
-            664 strings with 9570 characters,
-and the built_in function-call counts, 5834 in all, are:
-= -- 521
-> -- 237
-< -- 2
-+ -- 74
-- -- 49
-* -- 517
-:= -- 860
-add.period$ -- 49
-call.type$ -- 25
-change.case$ -- 24
+            746 strings with 12134 characters,
+and the built_in function-call counts, 8542 in all, are:
+= -- 751
+> -- 377
+< -- 3
++ -- 115
+- -- 79
+* -- 763
+:= -- 1262
+add.period$ -- 71
+call.type$ -- 36
+change.case$ -- 34
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 264
-empty$ -- 567
-format.name$ -- 49
-if$ -- 1256
+cite$ -- 38
+duplicate$ -- 380
+empty$ -- 821
+format.name$ -- 79
+if$ -- 1843
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 25
-newline$ -- 102
-num.names$ -- 25
-pop$ -- 40
+int.to.str$ -- 36
+missing$ -- 37
+newline$ -- 146
+num.names$ -- 36
+pop$ -- 55
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 135
+skip$ -- 202
 stack$ -- 0
-substring$ -- 543
-swap$ -- 66
-text.length$ -- 2
+substring$ -- 779
+swap$ -- 94
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 72
-width$ -- 27
-write$ -- 248
+while$ -- 103
+width$ -- 38
+write$ -- 358
 (There were 2 error messages)

@@ -76,11 +76,6 @@ Rundqvist H, et~al. (2013) {Effect of Acute Exercise on Prostate Cancer Cell
   Growth}.
 \newblock {\em PLoS ONE} 8(7):e67579.
 
-\bibitem{Hochberg2017}
-Hochberg ME, Noble RJ (2017) {A framework for how environment contributes to
-  cancer risk}.
-\newblock {\em Ecology Letters} 20(2):117--134.
-
 \bibitem{Nagy2007}
 Nagy JD, Victor EM, Cropper JH (2007) {Why don't all whales have cancer? A
   novel hypothesis resolving Peto's paradox}.
@@ -89,6 +84,11 @@ Nagy JD, Victor EM, Cropper JH (2007) {Why don't all whales have cancer? A
 \bibitem{Caulin2011}
 Caulin AF, Maley CC (2011) {Peto's Paradox: Evolution's prescription for cancer
   prevention}.
+
+\bibitem{Hochberg2017}
+Hochberg ME, Noble RJ (2017) {A framework for how environment contributes to
+  cancer risk}.
+\newblock {\em Ecology Letters} 20(2):117--134.
 
 \bibitem{AmericanCancerSociety2016}
 {American Cancer Society} (2016) {Cancer Facts {\&} Figures 2016}.
@@ -104,6 +104,21 @@ Hao D, Wang L, Di Lj (2016) {Distinct mutation accumulation rates among tissues
   determine the variation in cancer risk}.
 \newblock {\em Nature Publishing Group} (January):1--5.
 
+\bibitem{Frank2007}
+Frank SA (2007) {\em {Dynamics of Cancer. Incidence, Inheritance, and
+  Evolution}}.
+\newblock (Princeton University Press), pp. 1--378.
+
+\bibitem{Noble2015}
+Noble R, Kaltz O, Hochberg ME (2015) {Peto's paradox and human cancers}.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences} 370(1673):20150104.
+
+\bibitem{Tollis2017b}
+Tollis M, Boddy AM, Maley CC (2017) {Peto's Paradox: How has evolution solved
+  the problem of cancer prevention?}
+\newblock {\em BMC Biology} 15(1):60.
+
 \bibitem{Stephens2011}
 Stephens PJ, et~al. (2011) {Massive genomic rearrangement acquired in a single
   catastrophic event during cancer development}.
@@ -113,6 +128,51 @@ Stephens PJ, et~al. (2011) {Massive genomic rearrangement acquired in a single
 Calabrese P, Shibata D (2010) {A simple algebraic cancer equation: calculating
   how cancers may arise with normal mutation rates}.
 \newblock {\em BMC Cancer} 10(1):3.
+
+\bibitem{Durrett2010}
+Durrett R, Foo J, Leder K, Mayberry J, Michor F (2010) {Evolutionary dynamics
+  of tumor progression with random fitness values}.
+\newblock {\em Theoretical Population Biology} 78(1):54--66.
+
+\bibitem{Haslam2001}
+Haslam SZ, Woodward TL (2001) {Tumour-stromal interactions Reciprocal
+  regulation of extracellular matrix proteins and ovarian steroid activity in
+  the mammary gland}.
+\newblock {\em Breast Cancer Research} 3(6):365.
+
+\bibitem{Woodward2000}
+Woodward TL, Xie J, Fendrick JL, Haslam SZ (2000) {Proliferation of Mouse
+  Mammary Epithelial Cells in Vitro: Interactions among Epidermal Growth
+  Factor, Insulin-Like Growth Factor I, Ovarian Hormones, and Extracellular
+  Matrix Proteins 1}.
+\newblock {\em Endocrinology} 141(10):3578--3586.
+
+\bibitem{DICKSON1987}
+Dickson RB, Lippman ME (1987) {Estrogenic Regulation of Growth and Polypeptide
+  Growth Factor Secretion in Human Breast Carcinoma}.
+\newblock {\em Endocrine Reviews} 8(1):29--43.
+
+\bibitem{Freund2003}
+Freund A, et~al. (2003) {IL-8 expression and its possible relationship with
+  estrogen-receptor-negative status of breast cancer cells}.
+\newblock {\em Oncogene} 22(2):256--265.
+
+\bibitem{Hansen2000}
+Hansen R, Bissell MJ (2000) {Tissue architecture and breast cancer: the role of
+  extracellular matrix and steroid hormones}.
+\newblock {\em Endocrine Related Cancer} 7(2):95--113.
+
+\bibitem{Cabarcas2011a}
+Cabarcas SM, Mathews LA, Farrar WL (2011) {The cancer stem cell niche-there
+  goes the neighborhood?}
+\newblock {\em International Journal of Cancer} 129(10):2315--2327.
+
+\bibitem{Garcia1992}
+Garcia M, Derocq D, Freiss G, Rochefort H (1992) {Activation of estrogen
+  receptor transfected into a receptor-negative breast cancer cell line
+  decreases the metastatic and invasive potential of the cells.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America} 89(23):11538--42.
 
 \bibitem{Archetti2015}
 Archetti M, Ferraro DA, Christofori G (2015) {Heterogeneity for IGF-II
