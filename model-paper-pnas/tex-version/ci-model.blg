@@ -7,49 +7,46 @@ Illegal, another \bibstyle command---line 109 of file ci-model.aux
  :          {pnas-new.bst}
 I'm skipping whatever remains of this command
 Database file #1: ci-model.bib
-`title' is a missing field, not a string, for entry Hanahan2012
-while executing---line 971 of file pnas-new.bst
-Warning--empty title in Hanahan2012
 Warning--there's a number but no volume in Hao2016
-You've used 36 entries,
+You've used 37 entries,
             1837 wiz_defined-function locations,
-            746 strings with 12134 characters,
-and the built_in function-call counts, 8542 in all, are:
-= -- 751
-> -- 377
+            755 strings with 12544 characters,
+and the built_in function-call counts, 8712 in all, are:
+= -- 765
+> -- 382
 < -- 3
-+ -- 115
-- -- 79
-* -- 763
-:= -- 1262
-add.period$ -- 71
-call.type$ -- 36
-change.case$ -- 34
++ -- 117
+- -- 80
+* -- 777
+:= -- 1291
+add.period$ -- 73
+call.type$ -- 37
+change.case$ -- 35
 chr.to.int$ -- 0
 cite$ -- 38
-duplicate$ -- 380
-empty$ -- 821
-format.name$ -- 79
-if$ -- 1843
+duplicate$ -- 390
+empty$ -- 840
+format.name$ -- 80
+if$ -- 1880
 int.to.chr$ -- 0
-int.to.str$ -- 36
-missing$ -- 37
-newline$ -- 146
-num.names$ -- 36
+int.to.str$ -- 37
+missing$ -- 38
+newline$ -- 150
+num.names$ -- 37
 pop$ -- 55
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 202
+skip$ -- 205
 stack$ -- 0
-substring$ -- 779
-swap$ -- 94
+substring$ -- 788
+swap$ -- 96
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 103
-width$ -- 38
-write$ -- 358
-(There were 2 error messages)
+warning$ -- 1
+while$ -- 105
+width$ -- 39
+write$ -- 369
+(There was 1 error message)
