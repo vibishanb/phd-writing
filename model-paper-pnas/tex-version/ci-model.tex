@@ -33,7 +33,7 @@
 \keywords{Somatic evolution $|$ Mutation accumulation $|$ Epidemiology $|$ Cancer etiology $|$} 
 
 \begin{abstract}
-Somatic evolution of cancer involves a series of mutations and accompanying genomic, epigenomic and physiological changes in one or more clones of cells. Whether the mutations accumulate by chance alone (``bad luck'' hypothesis) or necessarily involve selection on intermediate mutants leading to clonal expansion is unclear. An implicit assumption in clonal expansion is that any mutation leading to partial loss of regulation of cell proliferation will give a selective advantage to the mutant. However, a number of experiments show that an intermediate pre-cancer mutant has only a conditional selective advantage; given that tissue microenvironmental conditions are differ across individual organisms, the selective advantage to a mutant will be widely distributed over the population of organisms. We comparatively evaluate the three models, namely ``bad luck'', context-independent selection and context-dependent selection with respect to their ability to predict patterns in total incidence, age-specific incidence, and their ability to explain Peto’s and related paradoxes. Results show that the number of stem cells and mutation rates are unlikely to be rate limiting in human cancers, and that context dependence is necessary and sufficient to explain all the observed epidemiological patterns. This implies that the susceptibility to cancer can be substantially different across individuals, and cancer is not sheer bad luck. A wide range of physiological, genetic and behavioural factors influence the tissue micro-environment, and could therefore be the source of this context dependence in somatic evolution of cancer. The identification and targeting of these micro-environmental factors that influence the dynamics of selection offer new possibilities for cancer prevention.
+Somatic evolution of cancer involves a series of mutations, and attendant changes, in one or more clones of cells. Unlike a ``bad luck'' type model, the notion of clonal expansion adds competition-driven selection to the supposedly random process of somatic mutagenesis, with the implicit assumption that any mutation leading to partial loss of regulation of cell proliferation will give a selective advantage to the mutant. However, a number of experiments show that an intermediate pre-cancer mutant has only a conditional selective advantage; given that tissue microenvironmental conditions differ across individual organisms, this selective advantage to a mutant should be widely distributed over the population of organisms. We evaluate three models, namely ``bad luck'', context-independent, and -dependent selection, in a comparative framework, on their ability to predict patterns in total incidence, age-specific incidence, and their ability to explain Peto’s paradox. Results show that context dependence is necessary and sufficient to explain observed epidemiological patterns, and that cancer incidence is largely selection-limited, as opposed to the mutation-centric, ``bad luck'' view. A wide range of physiological, genetic and behavioural factors influence the tissue micro-environment, and could therefore be the source of this context dependence in somatic evolution of cancer. The identification and targeting of these micro-environmental factors that influence the dynamics of selection offer new possibilities for cancer prevention. Our work also seeks to renew interest in the comparative evaluation framework, whose application has seen a lull in cancer literature, despite the possibilities of rejection it offers for potential theories of carcinogenesis.
 \end{abstract}
 
 \dates{This manuscript was compiled on \today}
@@ -135,15 +135,14 @@ As opposed to the context-independent selection model, the context-dependent mod
 \begin{figure*}[tbhp]
 	\centering
 	\includegraphics[width=.8\linewidth]{fig4.png}
-	\caption{Incidence patterns from the context-dependent selection model over the range of (A-D) $n$, and (E-H) $p$. From left to right in each row, the plots are of (A, E) age-specific crude incidence per 100000 vs age, (B, F) cumulative incidence for the simulated population vs age, (C, G) age at which half the maximum incidence is reached vs $log(n)$ or $log(p)$, and (D, H) the maximum cumulative incidence, $I_{max}$ vs $n$ or $p$. Inset legends for the age curves are $log(n)$ and $log(p)$ in the top and bottom row respectively. For A-D, $p=5.603*10^{-9}$, and for C-H, $n=1.785*10^{8}$. Insets for the incidence curves show $log(n)$ and $log(p)$ in the top and bottom rows respectively. Growth rates progress linearly from $g_{0}=0.007$ to $g_{k}=0.007*\mu$, where $\mu$ is normally-distributed random variable with $\overline{\mu}=0$ and $\sigma=3$, and $k=5$.}
+	\caption{Incidence patterns from the context-dependent selection model over the range of (A-D) $n$, and (E-H) $p$. From left to right in each row, the plots are of (A, E) age-specific crude incidence per 100000 vs age, (B, F) cumulative incidence for the simulated population vs age, (C, G) age at which half the maximum incidence is reached vs $log(n)$ or $log(p)$, and (D, H) the maximum cumulative incidence, $I_{max}$ vs $n$ or $p$. Inset legends for the age curves are $log(n)$ and $log(p)$ in the top and bottom row respectively. For A-D, $p=5.603*10^{-9}$, and for C-H, $n=1.785*10^{8}$. Insets for the incidence curves show $log(n)$ and $log(p)$ in the top and bottom rows respectively. Growth rates progress linearly from $g_{0}=0.007$ to $g_{k}=0.007*\mu$, where $\mu$ is normally-distributed random variable with $\overline{\mu}=3$ and $\sigma=5$, and $k=5$.}
 	\label{fig4}
 \end{figure*}
 
 \section*{Sensitivity of predictions}
-For all the simulations so far, we have assumed $k=5$ under all conditions, randomizing only the other parameters. Real populations, on the other hand, could potentially be a heterogenous mix of $k$ across organisms, which might affect the model predictions. To explore this possibility, we co-randomized $k$ with either $n$ or $p$ while maintaining the same growth rate progression, and looked at the association of $log(n)$ or $log(p)$ with the time taken for cancer onset. The time taken to cance is a useful parameter as it describes temporal mutation accumulation dynamics directly, while allowing for some limited inference regarding total incidence in the population. If time taken to cancer is largely small, population incidence is likely to be large in the given parameter space.
-Broadly, we find that cancer incidence is significant only up to maximum $k=10$. Increasing $k$ also reduces total incidence and shifts the observed time to cancer to later in life (Figure \ref{figS1}), as expected based on mutation accumulation. We also find that the magnitude of $k$ could modulate the strength of the association $n$, and to a lesser extent, with $p$. Doing the same for the context-dependent case, we randomized $g$ as explained earlier, along with either $k$ and $n$, or $k$ and $p$. Remarkably, introducing $g$ as a random variable leads to most of the variance in time to cancer being explained by $g$, and to some extent, $n$. Together, this indicates that independent of the kind of selection assumed in the model, $k$ influences the expected effect of $n$, $p$ and $g$ on time to cancer, and that $g$, when randomized, is a stronger predictor than $p$ or $n$ alone.
+For all the simulations so far, we have assumed $k=5$ under all conditions, randomizing only the other parameters. Real populations, on the other hand, could potentially be a heterogenous mix of $k$ across organisms, which might affect the model predictions. To explore this possibility, we co-randomized $k$ with either $n$ or $p$ while maintaining the same growth rate progression, and looked at the association of $log(n)$ or $log(p)$ with the time taken for cancer onset. Our results suggest that, independent of the kind of selection assumed in the model, the effects of $n$, $p$ or $g$ are only observed when considered one value of $k$ at a time (Figures \ref{figS2.1}-\ref{figS2.4}). This is relevant to the study of similar patterns that do not show up at the whole population level, but may become apparent if the population stratified by the number of driver mutations, which in turn is known to vary across cancer types.
 
-We have also assumed a normal distribution for the growth rate progression in the simulations so far. Realistic estimates of the distribution of somatic mutant growth rates are currently unknown, but heavy-tailed distributions like the Gumbel distribution have been considered a possibility \cite{Durrett2010}. We have reevaluated the predictions of the context-dependent selection model, for two distributions of $g$, Gumbel and uniform. We find that the shape of the distribution does not affect the nature of the relationships predicted by the model, although some quantitative differences ocur as expected (Figure \ref{figS3}.
+We have also assumed a normal distribution for the growth rate progression in the simulations so far. Realistic estimates of the distribution of somatic mutant growth rates are currently unknown, but heavy-tailed distributions like the Gumbel distribution have been considered a possibility \cite{Durrett2010}. We have reevaluated the predictions of the context-dependent selection model, for two distributions of $g$, Gumbel and uniform. We find that the shape of the distribution does not affect the nature of the relationships predicted by the model, although some quantitative differences ocur as expected (Supplementary material, \ref{S1 Figures}).
 
 
 
@@ -152,6 +151,7 @@ We have also assumed a normal distribution for the growth rate progression in th
 \begin{table*}[tbhp]
 \centering
 \caption{Summary of model predictions vs observed trends}
+\label{Table 1}
 \begin{tabular}{p{5cm}p{4cm}p{4cm}p{3.5cm}p{7cm}}
 \textbf{Epidemiological observation} & ``Bad luck'' & Context-independent selection & Context-dependent selection \\
 \midrule
@@ -278,42 +278,112 @@ A composite view of cancer etiology requires not only the incorporation of these
 
 %\showmatmethods{} % Display the Materials and Methods section
 
-%\acknow{The authors acknowledge critical input from various faculty members from the Dept of Biology, IISER Pune.}
+\acknow{The authors acknowledge critical input from Watve lab members, and various faculty members of the Dept of Biology, IISER Pune.}
 
-%\showacknow{} % Display the acknowledgments section
+\showacknow{} % Display the acknowledgments section
 
 % Bibliography
 \bibliography{ci-model}
 \bibliographystyle{pnas-new.bst}
 
 \section*{Supporting Information (SI)}
-\begin{figure*}[tbhp]
-	\centering
-	\includegraphics[width=.8\linewidth]{fig5.png}
-	\caption{Effect of $k$ in the context-independent selection case. The plots are time to cancer onset against $log(n)$ or $log(p)$, with $k$ randomized with (A-C) $n$, or (D-F) $p$; value of $k$ in the inset corresponds to the number of threshold oncogenic mutations assumed for the corresponding points. From A to C, for higher threshold of oncogenic mutations, the effect of $n$ on time to cancer gets stronger, as shown by the improvement in the association. For small $k$ however, $n$ does not affect the age of cancer onset. On the other hand, $p$ has a strong effect on the time to cancer at every value of $k$ considered. $k$, $n$ and $p$ were uniformly-distributed random variables with ranges $[0, 20]$, $[1.203*10^{6}, 2.649*10^{10}]$, and $[3.775*10^{-11}, 3.059*10^{-7}]$ respectively. For (A-C), $p=5.603*10^{-9}$. For (D-F), $n=1.785*10^{8}$.}
-	\label{figS1}
-\end{figure*}
+	\renewcommand{\thesubsection}{S\arabic{subsection}}
+	\setcounter{subsection}{0} 	
 
-\begin{figure*}[tbhp]
-	\centering
-	\includegraphics[width=.8\linewidth]{fig6.png}
-	\caption{Effect of $k$ in the context-dependent selection case. The plots are time to cancer onset against $g(k-1)=0.007*\mu$ for the last oncogenic mutation, with $k$ randomized with (A-C) $n$, or (D-F) $p$; value of $k$ in the inset corresponds to the number of threshold oncogenic mutations assumed for the corresponding points. Compared to Figure \ref{figS1}, $g(k-1)$ explains variance in time to cancer much better than either $n$ or $p$. This is true of both (A-C) when $n$ and $k$ are also randomized, and (D-F) when $p$ and $k$ are also randomized. The effect of $g(k-1)$ is nevertheless modulated by the required $k$. Ranges of $k$, $n$ and $p$ are the same as in Figure \ref{figS1}. For (A-C), $p=5.603*10^{-9}$. For (D-F), $n=1.785*10^{8}$.}
-	\label{figS2}
-\end{figure*}
+	\subsection{Alternate distributions of $g$}\label{S1 Figures}
+		\renewcommand{\thefigure}{S1.\arabic{figure}}
+		\setcounter{figure}{0} 	
+		\begin{figure*}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{figS1-1.png}
+			\caption{$g$ modeled by a Gumbel-distributed $\mu$, with $\overline{\mu}=0$ and $\sigma=3$; (A and D) cumulative incidence for the simulated population vs age, and time to cancer vs (B) $log(n)$ and (C) $log(n)$ vs $g(k-1)$, and time to cancer vs (E) $log(p)$ and (F) $g(k-1)$; $g(k-1) = 0.007*\mu$ for the last mutation. For all cases, $k=5$.}
+			\label{figS1.1}
+		\end{figure*}
 
-\begin{figure*}[tbhp]
-	\centering
-	\includegraphics[width=.8\linewidth]{figS3.png}
-	\caption{$g$ dsitributed as a Gumbel distribution with $\overline{\mu}=0$ and $\sigma=3$; (A and D) cumulative incidence for the simulated population vs age, (B) time to cancer vs $log(n)$, (C) $log(n)$ vs $g(k-1)=0.007*\mu$ for the last mutation, (E) time to cancer vs $log(p)$, and (F) $log(p)$ vs $g(k-1)$. For all cases, $k=5$.}
-	\label{figS3}
-\end{figure*}
+		\begin{figure*}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{figS1-2.png}
+			\caption{$g$ modeled by a uniformly-distributed $\mu$ with range $[-10, 10]$; (A and D) cumulative incidence for the simulated population vs age, and time to cancer vs (B) $log(n)$ and (C) $log(n)$ vs $g(k-1)$, and time to cancer vs (E) $log(p)$ and (F) $g(k-1)$; $g(k-1) = 0.007*\mu$ for the last mutation. For all cases, $k=5$.}
+			\label{figS1.2}
+		\end{figure*}
 
-\begin{figure*}[tbhp]
-	\centering
-	\includegraphics[width=.8\linewidth]{figS4.png}
-	\caption{$g$ dsitributed as a uniform distribution with range $[-3, 3]$; (A and D) cumulative incidence for the simulated population vs age, (B) time to cancer vs $log(n)$, (C) $log(n)$ vs $g(k-1)=0.007*\mu$ for the last mutation, (E) time to cancer vs $log(p)$, and (F) $log(p)$ vs $g(k-1)$. For all cases, $k=5$.}
-	\label{figS4}
-\end{figure*}
+	\subsection{Sensitivity of model predictions to $k$}\label{S2 Text}
+		\renewcommand{\thefigure}{S2.\arabic{figure}}
+		\setcounter{figure}{0}
+		\begin{figure*}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{figS2-1.png}
+			\caption{Effect of randomizing $k$ in the context-independent selection case. The plots are time to cancer onset against $log(n)$ or $log(p)$, with $k$ randomized with (A) $n$, or (B) $p$; when time to cancer is pooled across values of $k$, the association between either $n$ or $p$ is practically non-exitent. $k$, $n$ and $p$ were uniformly-distributed random variables with ranges $[0, 20]$, $[1.203*10^{6}, 2.649*10^{10}]$, and $[3.775*10^{-11}, 3.059*10^{-7}]$, for (A), $p=5.603*10^{-9}$, and for (B), $n=1.785*10^{8}$.}
+			\label{figS2.1}
+		\end{figure*}
 
+		\begin{figure*}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{figS2-2.png}
+			\caption{Effect of randomizing $k$ in the context-dependent selection case. The plots are time to cancer onset against $g(k-1) = 0.007*\mu$ for the last oncogenic mutation, also randomizing (A) $n$, or (B) $p$; as with $n$ and $p$, the association of $g$ with time to cancer is strongly affected by $k$. When time to cancer is pooled across all $k$, $g$'s effect on time to cancer appears very weak; $\mu$ is normally-distributed random variable with $\overline{\mu}=0$ and $\sigma=3$, $k$, $n$ and $p$ were uniformly-distributed random variables with ranges $[0, 20]$, $[1.203*10^{6}, 2.649*10^{10}]$, and $[3.775*10^{-11}, 3.059*10^{-7}]$. For (A), $p=5.603*10^{-9}$, and for (B), $n=1.785*10^{8}$.}
+			\label{figS2.2}
+		\end{figure*}
+
+		As motivated briefly during discussion on model sensitivity, it is important to explore the effect of $k$ on the observed relationships of $p$ and $n$ with cancer incidence. The time taken to cancer onset is a useful parameter in this context as it describes the temporal dynamics of mutation accumulation, while allowing for some limited inference regarding total incidence in the population. If time taken to cancer is largely small, population incidence is likely to be large in the given parameter space, and vice versa.
+
+		Broadly, we find that cancer incidence is significant only up to maximum $k=10$. Increasing $k$ also reduces total incidence and shifts the observed time to cancer to later in life, as expected based on mutation accumulation. We also find that the magnitude of $k$ could modulates the strength of the association with $n$, and to a lesser extent, with $p$. Importantly, the effect of either $n$ and $p$ is apparent only when taken for one value of $k$ at a time. As Figure \ref{figS2.1} shows, when time to cancer onset is pooled across all $k$ values, it appears largely independent of either $n$ and $p$.
+		Doing the same for the context-dependent case, we randomized $g$ as explained earlier, along with either $k$ and $n$, or $k$ and $p$. Remarkably, introducing $g$ as a random variable leads to most of the variance in time to cancer being explained by $g$, and to some extent, $n$. Again, the association between $g$ and time to cancer onset is modulated by $k$, as observed for the association with $n$ and $p$. As with Figure \ref{figS2.1}, the effect of $g$ on time to cancer onset is only apparent when considered one value of $k$ at a time (Figures \ref{figS2.2} and \ref{figS2.4}).
+
+		\begin{figure*}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{figS2-3.png}
+			\caption{Effect of $k$ in the context-independent selection case. The plots are time to cancer onset against $log(n)$ or $log(p)$, with $k$ randomized with (A-C) $n$, or (D-F) $p$; value of $k$ in the inset corresponds to the number of threshold oncogenic mutations assumed for the corresponding points. From A to C, for higher threshold of oncogenic mutations, the effect of $n$ on time to cancer gets stronger, as shown by the improvement in the association. For small $k$ however, $n$ does not affect the age of cancer onset. On the other hand, $p$ has a strong effect on the time to cancer at every value of $k$ considered. $k$, $n$ and $p$ were uniformly-distributed random variables with ranges $[0, 20]$, $[1.203*10^{6}, 2.649*10^{10}]$, and $[3.775*10^{-11}, 3.059*10^{-7}]$ respectively. For (A-C), $p=5.603*10^{-9}$. For (D-F), $n=1.785*10^{8}$.}
+			\label{figS2.3}
+		\end{figure*}
+
+		\begin{figure*}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{figS2-4.png}
+			\caption{Effect of $k$ in the context-dependent selection case. The plots are time to cancer onset against $g(k-1)=0.007*\mu$ for the last oncogenic mutation, with $k$ randomized with (A-C) $n$, or (D-F) $p$; value of $k$ in the inset corresponds to the number of threshold oncogenic mutations assumed for the corresponding points. Compared to Figure \ref{figS2.3}, $g(k-1)$ explains variance in time to cancer much better than either $n$ or $p$. This is true of both (A-C) when $n$ and $k$ are also randomized, and (D-F) when $p$ and $k$ are also randomized. The effect of $g(k-1)$ is nevertheless modulated by the required $k$. Ranges of $k$, $n$ and $p$ are the same as in Figure \ref{figS2.3}. For (A-C), $p=5.603*10^{-9}$. For (D-F), $n=1.785*10^{8}$.}
+			\label{figS2.4}
+		\end{figure*}
+
+	\subsection{Non-linear relationship between cancer incidence and cell number}\label{S3 Text}
+		\renewcommand{\thefigure}{S3.\arabic{figure}}
+		\setcounter{figure}{0}
+
+		\renewcommand{\thetable}{S3.\arabic{table}}
+		\setcounter{table}{0}
+
+		\begin{figure}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{lin_slopes.png}
+			\caption[Distribution of slopes]{Distribution of slopes of linear regression between \textit{lscd} and cancer incidence on a log-log scale. Of the 423 datasets from corresponding national registries in the IARC database, 347 datasets had values of cumulative incidence rate for all 17 types of cancer considered. All slopes are substantially below unity, indicating non-linear relationships; median slope = 0.334, slope range: 0.225-0.410; median intercept =-13.630, intercept range: (-15.630)-(-11.424)}
+			\label{slopes}
+		\end{figure}
+
+		\begin{figure}[tbhp]
+			\centering
+			\includegraphics[width=.8\linewidth]{elimination.png}
+			\caption[Distribution of Pearson's r for reduced datasets]{Distribution of Pearson's r for reduced datasets. The reduced datasets were obtained by removing any four data points from each sample of the IARC dataset, which have 17 data points correponding to the cancer types considered. Linear regression was performed against \textit{lscd} for all possible combinations of removing four points from the sample, resulting in $^{17}$C$_{4}$ = 2380 regression values for every sample, each now with 13 data points. The two distributions correspond to the values of Pearon's r for the combination of the first four points removed, and those for all other combinations pooled respectively. The cutoff refers to the value of r for which p < 0.05, given a sample size of 13 points. The former distribution lies predominantly below this cutoff, suggesting that the linear regression is largely driven only by the first four points. This puts into question the overall inference of linearity.}
+			\label{elimination}
+		\end{figure}
+
+		\begin{table*}[tbhp]
+			\centering
+			\caption{Number of positive and negative residuals from the linear regression line. The residuals were calculated from linear regressions performed over individual samples against \textit{lscd}, and not over pooled data. The columns correspond to the first one-fourth, middle half and last one-fourth of the \textit{lscd} range. Notably, a substantial skew can be seen in the extremes of the range in the linear case, with more points below the straight line than above it, reflected by a greater number of negative residuals. Compared to the linear case, the skew in the distribution of residuals is significantly lesser for the saturation equation.}
+			\label{Table S3.2}
+			\begin{tabular}[c]{m{0.2\textwidth}m{0.15\textwidth}ccc}
+				\textbf{Regression type} & \textbf{Residuals} & \textbf{First one-fourth} & \textbf{Middle half} & \textbf{Last one-fourth} \\
+				\midrule
+				Linear & Positive & $667$ & $1919$ & $4$ \\
+			  	& Negative & $1415$ & $1204$ & $343$ \\
+				Saturation & Positive & $1193$ & $1585$ & $220$ \\
+			 	& Negative & $889$ & $1538$ & $127$ \\
+			 	\bottomrule
+			\end{tabular}
+		\end{table*}
+
+		The last few years have seen two prominent attempts by Tomasetti et al., as mentioned in the main text, to examine the relative contributions of spontaneous mutations, genetic and environmental factors in cancer development.  In their analyses, they estimate \textit{l}ifetime \textit{s}tem \textit{c}ell \textit{d}ivisions (\textit{lscd}) for 17 tissue types and correlate them with the incidence of cancer using data from the US, and across the world. In the 2017 paper, they use the IACR datasets for cancer incidence that consisted of 423 databases corresponding to different countries, of which 347 had incidence data for the 17 cancer types considered here. With these data, they report a strong statistical association (Pearson’s r $\approx 0.8$) between \textit{lscd} and incidence of cancer in a given tissue type. The correlations are on a log-log scale, and on that scale, they are considerably strong. At face value, this is in line with the expected relationship if cancer arises out of largely random processes of mutagnesis, and the authors therefore view this association as clear evidence for the causal significance of spontaneous mutations in carcinogenesis. They use this association to further attribute the majority of cancer incidence to random replication errors alone.
+
+		Since all the data used in these papers are publicly available, we performed model fitting exercise, taking a closer look at the nature of the associations. We considered 347 datasets out of the total 423 that had incidence values for all 17 cancer types considered. We find that while Pearson's r was indeed distributed around a median of $0.8$ as reported by Tomasetti et al., but the slopes of the regression were distributed narrowly around a median value of $0.334$ (Figure \ref{slopes}). Going by the classical logic of cancer, it would mean that an average of $0.334$ mutations are required to cause cancer, which is absurd. We expect a positive integer here, but get a substantially small fraction instead. This implies that the hypothesis of $k$ mutations coming together purely by chance is either unsustainable, or has significant gaps that must be addressed.
+	
+		Residuals from a regression often offer insight on the linearity of a supposed relationship. In this case, we observed that distribution of residuals around the regression was not symmetric, as would be expected based on indication of a strong linear relationship on a log-log scale. Along the first and the last one-fourth of the \textit{lscd} range, the points lie predominantly below the line, while in the middle half of the range, a higher fraction lie above the line, as shown by the respective frequencies of positive and negative residuals (Table \ref{Table S3.2}). In addition to the skewed distribution of points, a visual inspection of Figure \ref{slopes} also suggested that the linear regression itself was largely driven by the first $4$ points in each dataset. In line with this suspicion, upon removal of the first four points, the significance of regression was lost in all $347$ datasets considered in this analysis. In order to test that the loss of significance was not due to reduction in sample size alone, the regression was performed with elimination of all other combinations of four points from each dataset ($^{17}C_{4}-1=2379$ combinations per dataset, not including elimination of the first four). The distribution of Pearson's r values across the combinations revealed a striking difference, with most other combinations of points retaining the significance of the relationship. This is demonstrated by a large part of the former distribution lying below the r value threshold for $p<0.05$ ($r_{threshold}\approx0.55$), as shown in Figure \ref{elimination}. There is therefore evidence to suggest that the linear relationship is largely due to the first four incidences being lower than the rest.
+		Taken together, the above analyses point to a significant deviation from a linear relationship on a log-log scale between the cumulative rate and \textit{lscd} suggested by Tomasetti et al. We had observed earlier from linear regression that the slopes had a median of $0.334$. A fractional slope on a log-log scale indicates that on a linear scale, cancer incidence would grow with \textit{lscd} in a curve with gradually decreasing slope.
 
 \end{document}
