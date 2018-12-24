@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  14 DEC 2018 18:21
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  23 DEC 2018 15:29
  restricted system commands enabled.
 **ci-model
 (./ci-model.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.085 seconds
+luaotfload | main : initialization completed in 0.081 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf/tex/latex/local/pnas-new.cls
 Document Class: pnas-new 23/08/2017, v1.43
@@ -1698,38 +1698,57 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 Missing character: There is no ’ (U+2019) in font phvb8t!
 ]
-<fig1.png, id=72, 1072.005pt x 349.305pt>
+<fig1.png, id=84, 1130.7846pt x 353.4003pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
 Package luatex.def Info: fig1.png  used on input line 86.
-(luatex.def)             Requested size: 404.55653pt x 131.82051pt.
-<fig2.png, id=75, 645.8529pt x 528.5346pt>
+(luatex.def)             Requested size: 404.55653pt x 126.4313pt.
+<fig2.png, id=87, 742.6947pt x 578.16pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
 Package luatex.def Info: fig2.png  used on input line 95.
-(luatex.def)             Requested size: 196.87823pt x 161.11008pt.
+(luatex.def)             Requested size: 196.87823pt x 153.25577pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 6.64998pt on input line 103.
  [2] [3<./fig1.png><./fig2.png>]
-<fig3.png, id=127, 804.1242pt x 262.581pt>
+<fig3.png, id=140, 820.5054pt x 312.9291pt>
 File: fig3.png Graphic file (type png)
 <use fig3.png>
 Package luatex.def Info: fig3.png  used on input line 128.
-(luatex.def)             Requested size: 404.55653pt x 132.10751pt.
-<fig4.png, id=130, 790.152pt x 262.8219pt>
+(luatex.def)             Requested size: 404.55653pt x 154.29156pt.
+<fig4.png, id=143, 808.7013pt x 306.9066pt>
 File: fig4.png Graphic file (type png)
 <use fig4.png>
 Package luatex.def Info: fig4.png  used on input line 137.
-(luatex.def)             Requested size: 404.55653pt x 134.56674pt.
- [4
+(luatex.def)             Requested size: 404.55653pt x 153.53252pt.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 153.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.12497pt on input line 155.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 155.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.5> on input line 155.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5.24997> on input line 155.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <3.75> on input line 155.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7.5> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 156.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 7.12497pt on input line 156.
+
+Overfull \hbox (11.77672pt too wide) in paragraph at lines 155--167
+ [][] 
+ []
+
+[4
 Missing character: There is no ‘ (U+2018) in font ec-lmr9!
 Missing character: There is no ’ (U+2019) in font ec-lmr9!
 Missing character: There is no ‘ (U+2018) in font ec-lmr9!
 Missing character: There is no ’ (U+2019) in font ec-lmr9!
-]
-[5<./fig3.png><./fig4.png>]
+] [5<./fig3.png><./fig4.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1739,77 +1758,131 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 5.69998pt on input line 6.
  [6])
-<fig5.png, id=183, 523.2348pt x 355.3275pt>
-File: fig5.png Graphic file (type png)
-<use fig5.png>
-Package luatex.def Info: fig5.png  used on input line 271.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 293.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 293.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 293.
+
+<figS1-1.png, id=204, 583.2189pt x 361.1091pt>
+File: figS1-1.png Graphic file (type png)
+<use figS1-1.png>
+Package luatex.def Info: figS1-1.png  used on input line 298.
+(luatex.def)             Requested size: 404.55653pt x 250.49898pt.
+<figS1-2.png, id=205, 578.8827pt x 359.6637pt>
+File: figS1-2.png Graphic file (type png)
+<use figS1-2.png>
+Package luatex.def Info: figS1-2.png  used on input line 305.
+(luatex.def)             Requested size: 404.55653pt x 251.35126pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 310.
+
+<figS2-1.png, id=206, 723.1818pt x 353.4003pt>
+File: figS2-1.png Graphic file (type png)
+<use figS2-1.png>
+Package luatex.def Info: figS2-1.png  used on input line 315.
+(luatex.def)             Requested size: 404.55653pt x 197.69789pt.
+<figS2-2.png, id=207, 704.1507pt x 350.5095pt>
+File: figS2-2.png Graphic file (type png)
+<use figS2-2.png>
+Package luatex.def Info: figS2-2.png  used on input line 322.
+(luatex.def)             Requested size: 404.55653pt x 201.38095pt.
+<figS2-3.png, id=212, 523.2348pt x 355.3275pt>
+File: figS2-3.png Graphic file (type png)
+<use figS2-3.png>
+Package luatex.def Info: figS2-3.png  used on input line 334.
 (luatex.def)             Requested size: 404.55653pt x 274.73618pt.
-<fig6.png, id=184, 519.3804pt x 354.3639pt>
-File: fig6.png Graphic file (type png)
-<use fig6.png>
-Package luatex.def Info: fig6.png  used on input line 278.
+<figS2-4.png, id=213, 519.3804pt x 354.3639pt>
+File: figS2-4.png Graphic file (type png)
+<use figS2-4.png>
+Package luatex.def Info: figS2-4.png  used on input line 341.
 (luatex.def)             Requested size: 404.55653pt x 276.01881pt.
-<figS3.png, id=189, 584.9052pt x 361.1091pt>
-File: figS3.png Graphic file (type png)
-<use figS3.png>
-Package luatex.def Info: figS3.png  used on input line 285.
-(luatex.def)             Requested size: 404.55653pt x 249.77716pt.
-<figS4.png, id=190, 584.6643pt x 360.6273pt>
-File: figS4.png Graphic file (type png)
-<use figS4.png>
-Package luatex.def Info: figS4.png  used on input line 292.
-(luatex.def)             Requested size: 404.55653pt x 249.53745pt.
- 
+<lin_slopes.png, id=218, 373.8768pt x 264.0264pt>
+File: lin_slopes.png Graphic file (type png)
+<use lin_slopes.png>
+Package luatex.def Info: lin_slopes.png  used on input line 355.
+(luatex.def)             Requested size: 196.87823pt x 139.03088pt.
+<elimination.png, id=219, 370.0224pt x 247.4043pt>
+File: elimination.png Graphic file (type png)
+<use elimination.png>
+Package luatex.def Info: elimination.png  used on input line 362.
+(luatex.def)             Requested size: 196.87823pt x 131.63705pt.
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <8> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 369.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 369.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 7.59998pt on input line 369.
+
 AED: lastpage setting LastPage
 - LAST -
-Extra skip:9.04323pt
-Left:289.0pt/1.26822pt
-Right:281.22499pt/0.0pt
-Output:289.61249pt
-[7] [8<./fig5.png><./fig6.png>] [9<./figS3.png><./figS4.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
- (./ci-model.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Extra skip:2.45602pt
+Left:461.45602pt/1.55556pt
+Right:459.0pt/1.55556pt
+Output:460.22801pt
+[7
+Missing character: There is no ’ (U+2019) in font ec-lmr8!
+] [8<./figS1-1.png><./figS1-2.png>] [9<./figS2-1.png><./figS2-2.png>]
+[10<./figS2-3.png><./figS2-4.png>] [11
+
+<./lin_slopes.png><./elimination.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+
+(./ci-model.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
 Package rerunfilecheck Info: File `ci-model.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
+(rerunfilecheck)             Checksum: 6AB902DC6FC9BE88FA60D69E6BF03EE8;249.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33270 strings out of 494480
- 195414,794899 words of node,token memory allocated
- 1933 words of node memory still in use:
-   14 hlist, 2 vlist, 2 rule, 8 disc, 1 local_par, 23 glue, 29 kern, 3 penalty, 
-1 margin_kern, 83 glyph, 33 attribute, 125 glue_spec, 33 attribute_list, 3 write
-, 1 pdf_dest, 6 pdf_colorstack nodes
-   avail lists: 1:3,2:1247,3:826,4:433,5:1244,6:18451,7:4509,8:156,9:792,10:22,1
-1:1739
- 36011 multiletter control sequences out of 65536+600000
- 84 fonts using 10052007 bytes
- 78i,15n,73p,3152b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips
-/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-dist/fonts/enc
-/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/te
+ 33437 strings out of 494480
+ 195413,794899 words of node,token memory allocated
+ 2001 words of node memory still in use:
+   14 hlist, 2 vlist, 2 rule, 9 disc, 1 local_par, 21 glue, 29 kern, 3 penalty, 
+92 glyph, 39 attribute, 125 glue_spec, 39 attribute_list, 2 write, 1 pdf_dest, 6
+ pdf_colorstack nodes
+   avail lists: 1:4,2:1371,3:453,4:259,5:1168,6:19604,7:4787,8:193,9:552,10:24,1
+1:1766
+ 36113 multiletter control sequences out of 65536+600000
+ 114 fonts using 12187063 bytes
+ 81i,15n,73p,2305b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fon
+ts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/u
+sr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm
+/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/te
 xlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/pu
-blic/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
-6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/
-share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/pub
-lic/lm/lmsy5.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lms
-y9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ci-model.pdf (9 pages, 3862416 bytes).
+blic/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmri8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy
+5.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
+helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhv
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on ci-model.pdf (11 pages, 5492097 bytes).
 
-PDF statistics: 287 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 62 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 361 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 74 named destinations out of 1000 (max. 131072)
+ 40 words of extra memory for PDF output out of 10000 (max. 100000000)
 

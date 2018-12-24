@@ -58,7 +58,8 @@ Nowell P (1976) {The clonal evolution of tumor cell populations}.
 \newblock {\em Science} 194(4260):23--28.
 
 \bibitem{Hanahan2012}
-Hanahan D, Coussens LM (2012).
+Hanahan D, Coussens LM (2012) {Accessories to the Crime: Functions of Cells
+  Recruited to the Tumor Microenvironment}.
 \newblock {\em Cancer Cell} 21(3):309--322.
 
 \bibitem{Pietras2010}
@@ -179,5 +180,10 @@ Archetti M, Ferraro DA, Christofori G (2015) {Heterogeneity for IGF-II
   production maintained by public goods dynamics in neuroendocrine pancreatic
   cancer}.
 \newblock {\em Proc Natl Acad Sci U S A} 112(6):1--6.
+
+\bibitem{Chan2014}
+Chan MT, et~al. (2014) {Effects of insulin on human pancreatic cancer
+  progression modeled in vitro}.
+\newblock {\em BMC Cancer} 14(1):814.
 
 \end{thebibliography}
