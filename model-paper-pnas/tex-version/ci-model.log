@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  23 DEC 2018 15:29
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  25 DEC 2018 01:19
  restricted system commands enabled.
 **ci-model
 (./ci-model.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.081 seconds
+luaotfload | main : initialization completed in 0.090 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf/tex/latex/local/pnas-new.cls
 Document Class: pnas-new 23/08/2017, v1.43
@@ -1665,200 +1665,209 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package mdframed Info: mdframed works in twoside mode on input line 50.
+Package mdframed Info: mdframed works in twoside mode on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 50.
+(Font)              scaled to size 9.49997pt on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 50.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 50.
+(Font)              scaled to size 9.49997pt on input line 52.
 Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 50.
+ mdframed uses option nobreak mdframed on input line 52.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 50.
+ mdframed uses option nobreak mdframed on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 50.
-LaTeX Font Info:    Try loading font information for T1+bch on input line 52.
+(Font)              scaled to size 5.69998pt on input line 52.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 )
 LaTeX Font Info:    Font shape `T1/bch/bx/n' in size <85.35826> not available
-(Font)              Font shape `T1/bch/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/bch/b/n' tried instead on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 52.
+(Font)              scaled to size 6.64998pt on input line 54.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 Missing character: There is no ’ (U+2019) in font phvb8t!
 ]
-<fig1.png, id=84, 1130.7846pt x 353.4003pt>
+<fig1.png, id=77, 1130.7846pt x 353.4003pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package luatex.def Info: fig1.png  used on input line 86.
-(luatex.def)             Requested size: 404.55653pt x 126.4313pt.
-<fig2.png, id=87, 742.6947pt x 578.16pt>
+Package luatex.def Info: fig1.png  used on input line 88.
+(luatex.def)             Requested size: 505.69374pt x 158.04184pt.
+<fig2.png, id=80, 742.6947pt x 578.16pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package luatex.def Info: fig2.png  used on input line 95.
-(luatex.def)             Requested size: 196.87823pt x 153.25577pt.
+Package luatex.def Info: fig2.png  used on input line 97.
+(luatex.def)             Requested size: 246.09686pt x 191.57854pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 103.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 115.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 103.
+(Font)              scaled to size 6.64998pt on input line 115.
  [2] [3<./fig1.png><./fig2.png>]
-<fig3.png, id=140, 820.5054pt x 312.9291pt>
+<fig3.png, id=135, 820.5054pt x 312.9291pt>
 File: fig3.png Graphic file (type png)
 <use fig3.png>
-Package luatex.def Info: fig3.png  used on input line 128.
-(luatex.def)             Requested size: 404.55653pt x 154.29156pt.
-<fig4.png, id=143, 808.7013pt x 306.9066pt>
+Package luatex.def Info: fig3.png  used on input line 131.
+(luatex.def)             Requested size: 505.69374pt x 192.86327pt.
+<fig4.png, id=136, 462.528pt x 346.896pt>
 File: fig4.png Graphic file (type png)
 <use fig4.png>
-Package luatex.def Info: fig4.png  used on input line 137.
-(luatex.def)             Requested size: 404.55653pt x 153.53252pt.
+Package luatex.def Info: fig4.png  used on input line 138.
+(luatex.def)             Requested size: 246.09686pt x 184.57387pt.
+<fig5.png, id=140, 808.7013pt x 306.9066pt>
+File: fig5.png Graphic file (type png)
+<use fig5.png>
+Package luatex.def Info: fig5.png  used on input line 147.
+(luatex.def)             Requested size: 505.69374pt x 191.91449pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 153.
+(Font)              scaled to size 7.59998pt on input line 165.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.12497pt on input line 155.
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 155.
+(Font)              scaled to size 7.12497pt on input line 167.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 167.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.5> on input line 155.
+(Font)              <7.5> on input line 167.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.24997> on input line 155.
+(Font)              <5.24997> on input line 167.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <3.75> on input line 155.
+(Font)              <3.75> on input line 167.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7.5> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 156.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 168.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.12497pt on input line 156.
+(Font)              scaled to size 7.12497pt on input line 168.
 
-Overfull \hbox (11.77672pt too wide) in paragraph at lines 155--167
+Overfull \hbox (11.77672pt too wide) in paragraph at lines 167--179
  [][] 
  []
 
-[4
-Missing character: There is no ‘ (U+2018) in font ec-lmr9!
-Missing character: There is no ’ (U+2019) in font ec-lmr9!
-Missing character: There is no ‘ (U+2018) in font ec-lmr9!
-Missing character: There is no ’ (U+2019) in font ec-lmr9!
-] [5<./fig3.png><./fig4.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(./ci-model.bbl
+[4] [5<./fig3.png>] (./ci-model.bbl
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 5.69998pt on input line 6.
- [6])
+ [6<./fig4.png>])
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 293.
+(Font)              <8> on input line 305.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 293.
+(hyperref)                removing `math shift' on input line 305.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 293.
+(hyperref)                removing `math shift' on input line 305.
 
-<figS1-1.png, id=204, 583.2189pt x 361.1091pt>
+<figS1-1.png, id=204, 585.6279pt x 361.1091pt>
 File: figS1-1.png Graphic file (type png)
 <use figS1-1.png>
-Package luatex.def Info: figS1-1.png  used on input line 298.
-(luatex.def)             Requested size: 404.55653pt x 250.49898pt.
-<figS1-2.png, id=205, 578.8827pt x 359.6637pt>
+Package luatex.def Info: figS1-1.png  used on input line 310.
+(luatex.def)             Requested size: 404.55653pt x 249.45758pt.
+<figS1-2.png, id=205, 583.9416pt x 359.4228pt>
 File: figS1-2.png Graphic file (type png)
 <use figS1-2.png>
-Package luatex.def Info: figS1-2.png  used on input line 305.
-(luatex.def)             Requested size: 404.55653pt x 251.35126pt.
+Package luatex.def Info: figS1-2.png  used on input line 317.
+(luatex.def)             Requested size: 404.55653pt x 249.00563pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 310.
+(hyperref)                removing `math shift' on input line 322.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 310.
+(hyperref)                removing `math shift' on input line 322.
 
-<figS2-1.png, id=206, 723.1818pt x 353.4003pt>
+<figS2-1.png, id=206, 704.6325pt x 353.8821pt>
 File: figS2-1.png Graphic file (type png)
 <use figS2-1.png>
-Package luatex.def Info: figS2-1.png  used on input line 315.
-(luatex.def)             Requested size: 404.55653pt x 197.69789pt.
-<figS2-2.png, id=207, 704.1507pt x 350.5095pt>
+Package luatex.def Info: figS2-1.png  used on input line 327.
+(luatex.def)             Requested size: 404.55653pt x 203.17822pt.
+<figS2-2.png, id=207, 695.4783pt x 357.7365pt>
 File: figS2-2.png Graphic file (type png)
 <use figS2-2.png>
-Package luatex.def Info: figS2-2.png  used on input line 322.
-(luatex.def)             Requested size: 404.55653pt x 201.38095pt.
+Package luatex.def Info: figS2-2.png  used on input line 334.
+(luatex.def)             Requested size: 404.55653pt x 208.0932pt.
 <figS2-3.png, id=212, 523.2348pt x 355.3275pt>
 File: figS2-3.png Graphic file (type png)
 <use figS2-3.png>
-Package luatex.def Info: figS2-3.png  used on input line 334.
+Package luatex.def Info: figS2-3.png  used on input line 346.
 (luatex.def)             Requested size: 404.55653pt x 274.73618pt.
-<figS2-4.png, id=213, 519.3804pt x 354.3639pt>
+<figS2-4.png, id=213, 526.1256pt x 351.2322pt>
 File: figS2-4.png Graphic file (type png)
 <use figS2-4.png>
-Package luatex.def Info: figS2-4.png  used on input line 341.
-(luatex.def)             Requested size: 404.55653pt x 276.01881pt.
+Package luatex.def Info: figS2-4.png  used on input line 353.
+(luatex.def)             Requested size: 404.55653pt x 270.08519pt.
 <lin_slopes.png, id=218, 373.8768pt x 264.0264pt>
 File: lin_slopes.png Graphic file (type png)
 <use lin_slopes.png>
-Package luatex.def Info: lin_slopes.png  used on input line 355.
+Package luatex.def Info: lin_slopes.png  used on input line 367.
 (luatex.def)             Requested size: 196.87823pt x 139.03088pt.
 <elimination.png, id=219, 370.0224pt x 247.4043pt>
 File: elimination.png Graphic file (type png)
 <use elimination.png>
-Package luatex.def Info: elimination.png  used on input line 362.
+Package luatex.def Info: elimination.png  used on input line 374.
 (luatex.def)             Requested size: 196.87823pt x 131.63705pt.
+<figS3-3.png, id=220, 786.7794pt x 267.1581pt>
+File: figS3-3.png Graphic file (type png)
+<use figS3-3.png>
+Package luatex.def Info: figS3-3.png  used on input line 381.
+(luatex.def)             Requested size: 196.87823pt x 66.8505pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 369.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 388.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 369.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 388.
 LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 7.59998pt on input line 369.
+(Font)              scaled to size 7.59998pt on input line 388.
 
+Underfull \vbox (badness 2726) has occurred while \output is active []
+
+ [7
+Missing character: There is no ’ (U+2019) in font ec-lmr8!
+<./fig5.png>] [8<./figS1-1.png><./figS1-2.png>] [9<./figS2-1.png><./figS2-2.png>
+]
+[10<./figS2-3.png><./figS2-4.png>] 
 AED: lastpage setting LastPage
 - LAST -
-Extra skip:2.45602pt
-Left:461.45602pt/1.55556pt
-Right:459.0pt/1.55556pt
-Output:460.22801pt
-[7
-Missing character: There is no ’ (U+2019) in font ec-lmr8!
-] [8<./figS1-1.png><./figS1-2.png>] [9<./figS2-1.png><./figS2-2.png>]
-[10<./figS2-3.png><./figS2-4.png>] [11
-
-<./lin_slopes.png><./elimination.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
-
-(./ci-model.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+Extra skip:215.75089pt
+Left:451.66794pt/0.0pt
+Right:234.3615pt/1.55556pt
+Output:452.01471pt
+[11<./lin_slopes.png><./elimination.png><./figS3-3.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
+ (./ci-model.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 408.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 408.
 Package rerunfilecheck Info: File `ci-model.out' has not changed.
 (rerunfilecheck)             Checksum: 6AB902DC6FC9BE88FA60D69E6BF03EE8;249.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 408.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33437 strings out of 494480
- 195413,794899 words of node,token memory allocated
- 2001 words of node memory still in use:
-   14 hlist, 2 vlist, 2 rule, 9 disc, 1 local_par, 21 glue, 29 kern, 3 penalty, 
-92 glyph, 39 attribute, 125 glue_spec, 39 attribute_list, 2 write, 1 pdf_dest, 6
- pdf_colorstack nodes
-   avail lists: 1:4,2:1371,3:453,4:259,5:1168,6:19604,7:4787,8:193,9:552,10:24,1
-1:1766
- 36113 multiletter control sequences out of 65536+600000
+ 33448 strings out of 494480
+ 156326,794899 words of node,token memory allocated
+ 5386 words of node memory still in use:
+   26 hlist, 5 vlist, 8 rule, 43 disc, 3 local_par, 93 glue, 40 kern, 11 penalty
+, 2 margin_kern, 449 glyph, 54 attribute, 125 glue_spec, 54 attribute_list, 4 wr
+ite, 1 pdf_dest, 8 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore no
+des
+   avail lists: 1:3,2:1485,3:339,4:197,5:831,6:11577,7:3494,8:199,9:452,10:24,11
+:1072
+ 36115 multiletter control sequences out of 65536+600000
  114 fonts using 12187063 bytes
- 81i,15n,73p,2305b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 62i,14n,73p,2000b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
+
+warning  (pdf backend): unreferenced destination with name 'page.12'
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fon
 ts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/u
 sr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm
@@ -1879,10 +1888,10 @@ r/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhv
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ci-model.pdf (11 pages, 5492097 bytes).
+Output written on ci-model.pdf (11 pages, 5010325 bytes).
 
-PDF statistics: 361 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 131072)
+PDF statistics: 367 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 75 named destinations out of 1000 (max. 131072)
  40 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -5,20 +5,6 @@ Armitage P, Doll R (1954) {The Age Distribution of Cancer and a Multi-Stage
   Theory of Carcinogenesis}.
 \newblock {\em British journal of cancer} 8(1):1--12.
 
-\bibitem{Knudson1971}
-Knudson AG (1971) {Mutation and Cancer: Statistical Study of Retinoblastoma}.
-\newblock {\em Proceedings of the National Academy of Sciences} 68(4):820--823.
-
-\bibitem{Tomasetti78}
-Tomasetti C, Vogelstein B (2015) Variation in cancer risk among tissues can be
-  explained by the number of stem cell divisions.
-\newblock {\em Science} 347(6217):78--81.
-
-\bibitem{Tomasetti2017}
-Tomasetti C, Li L, Vogelstein B (2017) {Stem cell divisions, somatic mutations,
-  cancer etiology, and cancer prevention}.
-\newblock {\em Science} 355(6331):1330--1334.
-
 \bibitem{McFarland2013}
 McFarland CD, Korolev KS, Kryukov GV, Sunyaev SR, Mirny LA (2013) {Impact of
   deleterious passenger mutations on cancer progression}.
@@ -34,6 +20,16 @@ Blokzijl F, et~al. (2016) {Tissue-specific mutation accumulation in human adult
 Mina M, et~al. (2017) {Conditional Selection of Genomic Alterations Dictates
   Cancer Evolution and Oncogenic Dependencies}.
 \newblock {\em Cancer Cell} 32(2):155--168.e6.
+
+\bibitem{Tomasetti78}
+Tomasetti C, Vogelstein B (2015) Variation in cancer risk among tissues can be
+  explained by the number of stem cell divisions.
+\newblock {\em Science} 347(6217):78--81.
+
+\bibitem{Tomasetti2017}
+Tomasetti C, Li L, Vogelstein B (2017) {Stem cell divisions, somatic mutations,
+  cancer etiology, and cancer prevention}.
+\newblock {\em Science} 355(6331):1330--1334.
 
 \bibitem{Dawkins1996}
 Dawkins R (1996) {\em {The blind watchmaker : why the evidence of evolution
@@ -77,20 +73,6 @@ Rundqvist H, et~al. (2013) {Effect of Acute Exercise on Prostate Cancer Cell
   Growth}.
 \newblock {\em PLoS ONE} 8(7):e67579.
 
-\bibitem{Nagy2007}
-Nagy JD, Victor EM, Cropper JH (2007) {Why don't all whales have cancer? A
-  novel hypothesis resolving Peto's paradox}.
-\newblock {\em Integrative and Comparative Biology} 47(2):317--328.
-
-\bibitem{Caulin2011}
-Caulin AF, Maley CC (2011) {Peto's Paradox: Evolution's prescription for cancer
-  prevention}.
-
-\bibitem{Hochberg2017}
-Hochberg ME, Noble RJ (2017) {A framework for how environment contributes to
-  cancer risk}.
-\newblock {\em Ecology Letters} 20(2):117--134.
-
 \bibitem{AmericanCancerSociety2016}
 {American Cancer Society} (2016) {Cancer Facts {\&} Figures 2016}.
 \newblock {\em Cancer Facts {\&} Figures 2016} pp. 1--9.
@@ -109,6 +91,11 @@ Hao D, Wang L, Di Lj (2016) {Distinct mutation accumulation rates among tissues
 Frank SA (2007) {\em {Dynamics of Cancer. Incidence, Inheritance, and
   Evolution}}.
 \newblock (Princeton University Press), pp. 1--378.
+
+\bibitem{Nagy2007}
+Nagy JD, Victor EM, Cropper JH (2007) {Why don't all whales have cancer? A
+  novel hypothesis resolving Peto's paradox}.
+\newblock {\em Integrative and Comparative Biology} 47(2):317--328.
 
 \bibitem{Noble2015}
 Noble R, Kaltz O, Hochberg ME (2015) {Peto's paradox and human cancers}.
@@ -135,6 +122,20 @@ Durrett R, Foo J, Leder K, Mayberry J, Michor F (2010) {Evolutionary dynamics
   of tumor progression with random fitness values}.
 \newblock {\em Theoretical Population Biology} 78(1):54--66.
 
+\bibitem{Caulin2011}
+Caulin AF, Maley CC (2011) {Peto's Paradox: Evolution's prescription for cancer
+  prevention}.
+
+\bibitem{Hansen2000}
+Hansen R, Bissell MJ (2000) {Tissue architecture and breast cancer: the role of
+  extracellular matrix and steroid hormones}.
+\newblock {\em Endocrine Related Cancer} 7(2):95--113.
+
+\bibitem{Cabarcas2011a}
+Cabarcas SM, Mathews LA, Farrar WL (2011) {The cancer stem cell niche-there
+  goes the neighborhood?}
+\newblock {\em International Journal of Cancer} 129(10):2315--2327.
+
 \bibitem{Haslam2001}
 Haslam SZ, Woodward TL (2001) {Tumour-stromal interactions Reciprocal
   regulation of extracellular matrix proteins and ovarian steroid activity in
@@ -157,16 +158,6 @@ Dickson RB, Lippman ME (1987) {Estrogenic Regulation of Growth and Polypeptide
 Freund A, et~al. (2003) {IL-8 expression and its possible relationship with
   estrogen-receptor-negative status of breast cancer cells}.
 \newblock {\em Oncogene} 22(2):256--265.
-
-\bibitem{Hansen2000}
-Hansen R, Bissell MJ (2000) {Tissue architecture and breast cancer: the role of
-  extracellular matrix and steroid hormones}.
-\newblock {\em Endocrine Related Cancer} 7(2):95--113.
-
-\bibitem{Cabarcas2011a}
-Cabarcas SM, Mathews LA, Farrar WL (2011) {The cancer stem cell niche-there
-  goes the neighborhood?}
-\newblock {\em International Journal of Cancer} 129(10):2315--2327.
 
 \bibitem{Garcia1992}
 Garcia M, Derocq D, Freiss G, Rochefort H (1992) {Activation of estrogen
