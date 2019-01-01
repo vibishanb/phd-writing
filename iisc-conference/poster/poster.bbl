@@ -1,0 +1,60 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{AmericanCancerSociety2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=21a30339bae3a924a4fae709a0a2f262}{%
+           family={{American Cancer Society}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{21a30339bae3a924a4fae709a0a2f262}
+      \strng{fullhash}{21a30339bae3a924a4fae709a0a2f262}
+      \strng{bibnamehash}{21a30339bae3a924a4fae709a0a2f262}
+      \strng{authorbibnamehash}{21a30339bae3a924a4fae709a0a2f262}
+      \strng{authornamehash}{21a30339bae3a924a4fae709a0a2f262}
+      \strng{authorfullhash}{21a30339bae3a924a4fae709a0a2f262}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{American Cancer Society. Cancer Facts {\&} Figures 2016. Atlanta, Ga: American Cancer Society; 2016.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1744-764X (Electronic){\$}\backslash{\$}r1474-0338 (Linking)}
+      \field{issn}{00908258}
+      \field{journaltitle}{Cancer Facts {\&} Figures 2016}
+      \field{title}{{Cancer Facts {\&} Figures 2016}}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1097/01.NNR.0000289503.22414.79
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :G$\backslash$:/Work/PhD/Lab/Cancer project/papers/cancer facts and figures 2016.pdf:pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
