@@ -71,7 +71,7 @@
 \color{NavyBlue} % SaddleBrown color for the introduction
 \large
 \section*{Abstract}
-	Somatic evolution of cancer involves a series of mutations, and attendant changes, in one or more clones of cells. Unlike a ``bad luck'' type model, the notion of clonal expansion adds competition-driven selection to the supposedly random process of somatic mutagenesis, with the implicit assumption that any mutation leading to partial loss of regulation of cell proliferation will give a selective advantage to the mutant. However, a number of experiments show that an intermediate pre-cancer mutant has only a conditional selective advantage; given that tissue microenvironmental conditions differ across individual organisms, this selective advantage to a mutant should be widely distributed over the population of organisms. We evaluate three models, namely ``bad luck'', context-independent, and -dependent selection, in a comparative framework, on their ability to predict patterns in total incidence, age-specific incidence, and their ability to explain Peto’s paradox. Results show that context dependence is necessary and sufficient to explain observed epidemiological patterns, and that cancer incidence is largely selection-limited, as opposed to the mutation-centric, ``bad luck'' view. A wide range of physiological, genetic and behavioural factors influence the tissue micro-environment, and could therefore be the source of this context dependence in somatic evolution of cancer. The identification and targeting of these micro-environmental factors that influence the dynamics of selection offer new possibilities for cancer prevention. Our work also seeks to renew interest in the comparative evaluation framework, whose application has seen a lull in cancer literature, despite the possibilities of rejection it offers for potential theories of carcinogenesis.
+	A prevalent question in somatic evolution of cancer concerns the causal importance of random mutagenesis, with a number of experiments showing that an intermediate pre-cancer mutant has only a conditional selective advantage. Given that tissue micro-environmental conditions differ across individuals, the  mutant selective advantage should be widely distributed in the population. We evaluate three models, namely ``bad luck'', context-independent, and -dependent selection, in a comparative framework, on their ability to predict patterns in total incidence, age-specific incidence, and their ability to explain Peto’s paradox. Results show that context dependence is necessary and sufficient to explain observed epidemiological patterns, and that cancer incidence is largely selection-limited, and not mutation-limited. A wide range of physiological, genetic and behavioural factors influence the tissue micro-environment, and could therefore be the source of this context dependence in somatic evolution of cancer. The identification and targeting of these micro-environmental factors that influence the dynamics of selection offer new possibilities for cancer prevention.
 %\vspace{1cm} % A bit of extra whitespace between the header and poster content
 \begin{multicols}{3}
 	%----------------------------------------------------------------------------------------
@@ -98,35 +98,38 @@
 	\large
 	
 		\section{Epidemiological observations}
-		\begin{minipage}{.5\linewidth}
-		\flushleft
-			\begin{figure}[H]
-				\includegraphics[width=\linewidth]{fig1.png}
-				\caption{Cancer incidence vs age, from SEER9 \cite{AmericanCancerSociety2016}}
-			\end{figure}
-		\end{minipage}
-		\hspace{0.05\linewidth}
-		\begin{minipage}{.5\linewidth}
-		\flushright
+
+		\setlength{\fboxsep}{15pt}
+		\fbox{\begin{minipage}{.5\linewidth}
+		\Large
 				\begin{itemize}
 					\item Late-life decline with age
 					\item Cancer risk saturates with $n$
 					\item Non-mutagenic carcinogens
 					\item \textbf{Peto's paradox}
 				\end{itemize}
+		\end{minipage}}
+		\hspace{0.05\linewidth}
+		\begin{minipage}{.4\linewidth}
+			\begin{figure}[H]
+				\includegraphics[width=\linewidth]{fig1.png}
+				\caption{Cancer incidence vs age, from SEER9 \cite{AmericanCancerSociety2016}}
+			\end{figure}
 		\end{minipage}
-		
-		\section{``Bad luck'' model}
-		\begin{minipage}{.25\linewidth}
-		% {\small
+		\section{``Bad luck'' model-analytical}
+		\setlength{\fboxsep}{15pt}
+		\fbox{\begin{minipage}{.4\linewidth}
 		Equations used:
 		\begin{itemize}
-			\item $p_{can}=1-(1-p)^{n}$
+			\item $p_{can}=1-(1-p^k)^{n}$
+			\vspace{1.5cm}
 			\item $p_{A}=1-(1-p_{can})^A$
 		\end{itemize}
-		\end{minipage}
-		\hspace{0.03\linewidth}
-		\begin{minipage}{.65\linewidth}
+		\vspace{2cm}
+		$k$ = number of oncogenic mutations for cancer
+		\end{minipage}}
+		\hspace{0.01\linewidth}
+		\begin{minipage}{.5\linewidth}
 			\begin{figure}[H]
 				\flushright
 				\includegraphics[width=\linewidth]{fig2.png}
@@ -137,15 +140,15 @@
 
 		\begin{minipage}{\linewidth}
 		\begin{figure}[H]
+			\flushright
 			%		\def\svgwidth{0.25\columnwidth}
 			%		\input{r_elimination.pdf_tex}
-			\flushright
 			\includegraphics[width=\linewidth]{fig3.png}
 			\caption{Incidence vs log($n$) for different $p$ and $k$}
 		\end{figure}
 		\end{minipage}
 
-		\section{Selection models}
+		\section{Selection models-simulations}
 		\begin{minipage}{.5\linewidth}
 		\begin{itemize}
 			\item Linear evolution process, leading to mutation accumlation
@@ -157,27 +160,27 @@
 		\end{itemize}
 		\end{minipage}
 		\hspace{0.05\linewidth}
-		\begin{minipage}{.45\linewidth}
+		\begin{minipage}{.4\linewidth}
 			\begin{figure}[H]
 				\includegraphics[width=\linewidth]{fig4.png}
-				\caption{Context-independent model; randomized $p$ vs fixed $p$. Mean randomized $p \approx$ fixed $p$.}
+				\caption{\underline{Context-independent model}; randomized $p$ vs fixed $p$. Mean randomized $p \approx$ fixed $p$.}
 			\end{figure}
 		\end{minipage}
-
-		\begin{flushleft}
+		\vspace{0.5cm}
 			\begin{figure}[H]
+			\centering
 				%			\def\svgwidth{0.2\columnwidth}
 				%			\input{sat_pooled.pdf_tex}
-				\includegraphics[width=\linewidth]{fig5.png}
-				\caption{Context-independent selection; crude and cumulative incidence rates vs age, age at half maximum cumulative incidence, and maximum cumulative incidence, over the range of $n$ and $p$.}
+				\includegraphics[width=.8\linewidth, keepaspectratio=true]{fig5.png}
+				\caption{\underline{Context-independent selection}; crude and cumulative incidence rates vs age, age at half maximum cumulative incidence, and maximum cumulative incidence, over the range of $n$ and $p$.}
 			\end{figure}
 			\begin{figure}[H]
+			\centering
 				%			\def\svgwidth{0.2\columnwidth}
 				%			\input{sat_pooled.pdf_tex}
-				\includegraphics[width=\linewidth]{fig6.png}
-				\caption{Same incidence parameters as above, for the context-dependent selection case.}
+				\includegraphics[width=.8\linewidth, keepaspectratio=true]{fig6.png}
+				\caption{Same incidence parameters as above, for the \underline{context-dependent selection} case.}
 			\end{figure}
-		\end{flushleft}
 		
 		\subsection{Effect of $k$}
 		% \begin{minipage}{.5\linewidth}
@@ -185,8 +188,8 @@
 			\centering
 				%			\def\svgwidth{0.2\columnwidth}
 				%			\input{higher_p.pdf_tex}
-				\includegraphics[width=.8\linewidth, height=.4\linewidth]{fig7.png}
-				\caption{Context-independent selection case; association of time to cancer with $n$ and $p$ is modulated by $k$.}
+				\includegraphics[width=.65\linewidth, keepaspectratio=true]{fig7.png}
+				\caption{\underline{Context-independent selection} case; association of time to cancer with $n$ and $p$ is modulated by $k$.}
 			\end{figure}
 		% \end{minipage}
 			% \hspace{0.01\linewidth}
@@ -195,8 +198,8 @@
 			\centering
 				%			\def\svgwidth{0.2\columnwidth}
 				%			\input{higher_p.pdf_tex}
-				\includegraphics[width=.8\linewidth, height=.4\linewidth]{fig8.png}
-				\caption{Context-dependent selection case; association of time to cancer with $\Delta_{g}$ is modulated by $k$.}
+				\includegraphics[width=.65\linewidth, keepaspectratio=true]{fig8.png}
+				\caption{\underline{Context-dependent selection case}; association of time to cancer with $\Delta_{g}$ is modulated by $k$.}
 			\end{figure}
 		% \end{minipage}
 
@@ -214,14 +217,16 @@
 			\end{tabular}
 		%\addtabletext{nomenclature for the TSs refers to the numbered species in the table.}
 		\end{table}
+		\setlength{\fboxsep}{12pt}
+		\fbox{Context-dependent selection is necessary to explain known epidemiological patterns.}
 
 		\begin{minipage}{.5\linewidth}
-		\renewcommand*{\bibfont}{\small}
+		\renewcommand*{\bibfont}{\tiny}
 		\printbibliography
 		\end{minipage}
 		\hspace{0.01\linewidth}
 		\begin{minipage}{.5\linewidth}
-		\small
+		\tiny
 		\section*{Acknowledgements}
 		The authors acknowledge support from IISER Pune, and valuable feedback from faculty members of the Department of Biology as well as the Watve Lab.
 		\end{minipage}
