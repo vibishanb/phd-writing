@@ -1659,75 +1659,56 @@
       \endverb
       \keyw{cancer,evolution,genomics,mutations,selection}
     \endentry
-    \entry{Durrett2010}{article}{}
-      \name{author}{5}{}{%
-        {{hash=175a15e34b656dab74bea645e2ed84d0}{%
-           family={Durrett},
-           familyi={D\bibinitperiod},
-           given={Rick},
-           giveni={R\bibinitperiod}}}%
-        {{hash=856f3a52d81e28b749874bc5e36a740c}{%
-           family={Foo},
-           familyi={F\bibinitperiod},
-           given={Jasmine},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d401ac0650881c4bbf0c213c8d90c6be}{%
-           family={Leder},
-           familyi={L\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=a68fdd09b2fca66ea74feaedc2fd2514}{%
-           family={Mayberry},
+    \entry{Nunney2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=767551f4c426313452a454d2795611fe}{%
+           family={Nunney},
+           familyi={N\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6060d8b7157e08b2d3986afc1d21b8d5}{%
+           family={Muir},
            familyi={M\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{%
-           family={Michor},
-           familyi={M\bibinitperiod},
-           given={Franziska},
-           giveni={F\bibinitperiod}}}%
+           given={B},
+           giveni={B\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {NIH Public Access}%
+        {The Royal Society}%
       }
-      \strng{namehash}{73e6e6fe7e85136854880d00c85759b6}
-      \strng{fullhash}{846b9edaf2fd206117e659c2c2922ac0}
-      \strng{bibnamehash}{73e6e6fe7e85136854880d00c85759b6}
-      \strng{authorbibnamehash}{73e6e6fe7e85136854880d00c85759b6}
-      \strng{authornamehash}{73e6e6fe7e85136854880d00c85759b6}
-      \strng{authorfullhash}{846b9edaf2fd206117e659c2c2922ac0}
+      \strng{namehash}{94060a33fe87242fc34825bdaf1f5080}
+      \strng{fullhash}{94060a33fe87242fc34825bdaf1f5080}
+      \strng{bibnamehash}{94060a33fe87242fc34825bdaf1f5080}
+      \strng{authorbibnamehash}{94060a33fe87242fc34825bdaf1f5080}
+      \strng{authornamehash}{94060a33fe87242fc34825bdaf1f5080}
+      \strng{authorfullhash}{94060a33fe87242fc34825bdaf1f5080}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Most human tumors result from the accumulation of multiple genetic and epigenetic alterations in a single cell. Mutations that confer a fitness advantage to the cell are known as driver mutations and are causally related to tumorigenesis. Other mutations, however, do not change the phenotype of the cell or even decrease cellular fitness. While much experimental effort is being devoted to the identification of the functional effects of individual mutations, mathematical modeling of tumor progression generally considers constant fitness increments as mutations are accumulated. In this paper we study a mathematical model of tumor progression with random fitness increments. We analyze a multi-type branching process in which cells accumulate mutations whose fitness effects are chosen from a distribution. We determine the effect of the fitness distribution on the growth kinetics of the tumor. This work contributes to a quantitative understanding of the accumulation of mutations leading to cancer. {©} 2010 Elsevier Inc.}
-      \field{eprinttype}{arXiv}
-      \field{isbn}{1096-0325 (Electronic)$\backslash$r0040-5809 (Linking)}
-      \field{issn}{00405809}
-      \field{journaltitle}{Theoretical Population Biology}
-      \field{month}{8}
-      \field{number}{1}
-      \field{title}{{Evolutionary dynamics of tumor progression with random fitness values}}
-      \field{volume}{78}
-      \field{year}{2010}
-      \field{pages}{54\bibrangedash 66}
-      \range{pages}{13}
+      \field{abstract}{An evolutionary perspective can help unify disparate observations and make testable predictions. We consider an evolutionary model in relation to two mechanistic frameworks of cancer biology: multistage carcinogenesis and the hallmarks of cancer. The multistage model predicts that cancer risk increases with body size and longevity; however, this is not observed across species (Peto's paradox), but the paradox is resolved by invoking the evolution of additional genetic mechanisms to suppress cancer in large, long-lived species. It is when cancer cells overcome these defence mechanisms that they exhibit the hallmarks of cancer, driving the ongoing evolution of these defences, which in turn is expected to create the differences observed in the genetics of cancer across species and tissues. To illustrate the utility of an evolutionary model we examined some recently published data linking stem-cell divisions and cancer incidence across a range of tissues and show why the original analysis was faulty, and demonstrate that the data are consistent with a multistage model varying from three to seven mutational hits across different tissues. Finally, we demonstrate how an evolutionary model can both define patterns of inherited (familial) cancer and explain the prevalence of cancer in post-reproductive years, including the dominance of epithelial cancers.}
+      \field{isbn}{1471-2970 (Electronic)$\backslash$r0962-8436 (Linking)}
+      \field{issn}{14712970}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B: Biological Sciences}
+      \field{month}{7}
+      \field{number}{1673}
+      \field{title}{{Peto's paradox and the hallmarks of cancer: Constructing an evolutionary framework for understanding the incidence of cancer}}
+      \field{volume}{370}
+      \field{year}{2015}
+      \field{pages}{20150161}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1016/j.tpb.2010.05.001
-      \endverb
-      \verb{eprint}
-      \verb 1003.1927
+      \verb 10.1098/rstb.2015.0161
       \endverb
       \verb{file}
-      \verb :home/iiser/Documents/Mendeley Desktop/Durrett et al.{\_}2010{\_}Evolutionary dynamics of tumor progression with random fitness values.pdf:pdf
+      \verb :home/iiser/Documents/Mendeley Desktop/Nunney, Muir{\_}2015{\_}Peto's paradox and the hallmarks of cancer Constructing an evolutionary framework for understanding the incidence of.pdf:pdf
       \endverb
       \verb{urlraw}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/20488197 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2929987
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/26056359 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4581038
       \endverb
       \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/20488197%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2929987
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/26056359%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4581038
       \endverb
-      \keyw{Beneficial fitness effects,Branching process,Cancer evolution,Fitness distribution,Mutational landscape}
+      \keyw{Cancer,Evolution,Hallmarks,Multistage carcinogenesis,Mutation-selection balance,Peto's paradox}
     \endentry
     \entry{Caulin2011}{misc}{}
       \name{author}{2}{}{%
@@ -1869,253 +1850,6 @@
       \endverb
       \keyw{EMT,angiogenesis,cancer stem cell,hypoxia,inflammation,microenvironment,niche,tumor dormancy,vascular niche}
     \endentry
-    \entry{Haslam2001}{article}{}
-      \name{author}{2}{}{%
-        {{hash=54e22173e78d6ccb55b10377c57ab30f}{%
-           family={Haslam},
-           familyi={H\bibinitperiod},
-           given={Sandra\bibnamedelima Z},
-           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-        {{hash=0df7403f36feb705f14deadbca72d1a8}{%
-           family={Woodward},
-           familyi={W\bibinitperiod},
-           given={Terry\bibnamedelima L},
-           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{3010dd173c20ae814350ac41080d7840}
-      \strng{fullhash}{3010dd173c20ae814350ac41080d7840}
-      \strng{bibnamehash}{3010dd173c20ae814350ac41080d7840}
-      \strng{authorbibnamehash}{3010dd173c20ae814350ac41080d7840}
-      \strng{authornamehash}{3010dd173c20ae814350ac41080d7840}
-      \strng{authorfullhash}{3010dd173c20ae814350ac41080d7840}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1465-542X}
-      \field{journaltitle}{Breast Cancer Research}
-      \field{number}{6}
-      \field{title}{{Tumour-stromal interactions Reciprocal regulation of extracellular matrix proteins and ovarian steroid activity in the mammary gland}}
-      \field{volume}{3}
-      \field{year}{2001}
-      \field{pages}{365}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1186/bcr324
-      \endverb
-      \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/Haslam, Woodward{\_}2001{\_}Tumour-stromal interactions Reciprocal regulation of extracellular matrix proteins and ovarian steroid activity in.pdf:pdf
-      \endverb
-    \endentry
-    \entry{Woodward2000}{article}{}
-      \name{author}{4}{}{%
-        {{hash=0df7403f36feb705f14deadbca72d1a8}{%
-           family={Woodward},
-           familyi={W\bibinitperiod},
-           given={Terry\bibnamedelima L},
-           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=fd409f8a3d3c9ab54111193262b88d18}{%
-           family={Xie},
-           familyi={X\bibinitperiod},
-           given={Jianwei},
-           giveni={J\bibinitperiod}}}%
-        {{hash=53c5bceb851c8ad0b4127b793b5d22e4}{%
-           family={Fendrick},
-           familyi={F\bibinitperiod},
-           given={James\bibnamedelima L},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=54e22173e78d6ccb55b10377c57ab30f}{%
-           family={Haslam},
-           familyi={H\bibinitperiod},
-           given={Sandra\bibnamedelima Z},
-           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-      }
-      \strng{namehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
-      \strng{fullhash}{85790366a43a0c5b7b3873ee7e03f32c}
-      \strng{bibnamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
-      \strng{authorbibnamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
-      \strng{authornamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
-      \strng{authorfullhash}{85790366a43a0c5b7b3873ee7e03f32c}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0013-7227}
-      \field{journaltitle}{Endocrinology}
-      \field{number}{10}
-      \field{title}{{Proliferation of Mouse Mammary Epithelial Cells in Vitro: Interactions among Epidermal Growth Factor, Insulin-Like Growth Factor I, Ovarian Hormones, and Extracellular Matrix Proteins 1}}
-      \field{volume}{141}
-      \field{year}{2000}
-      \field{pages}{3578\bibrangedash 3586}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1210/endo.141.10.7701
-      \endverb
-      \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/Woodward et al.{\_}2000{\_}Proliferation of Mouse Mammary Epithelial Cells in Vitro Interactions among Epidermal Growth Factor, Insulin-Like G.pdf:pdf
-      \endverb
-    \endentry
-    \entry{DICKSON1987}{article}{}
-      \name{author}{2}{}{%
-        {{hash=338c32705983e9d1073668d83c99525d}{%
-           family={Dickson},
-           familyi={D\bibinitperiod},
-           given={Robert\bibnamedelima B.},
-           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=40d7bb939d4a4469c54209dc58b4a812}{%
-           family={Lippman},
-           familyi={L\bibinitperiod},
-           given={Marc\bibnamedelima E.},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \strng{fullhash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \strng{bibnamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \strng{authorbibnamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \strng{authornamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \strng{authorfullhash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0163-769X}
-      \field{journaltitle}{Endocrine Reviews}
-      \field{number}{1}
-      \field{title}{{Estrogenic Regulation of Growth and Polypeptide Growth Factor Secretion in Human Breast Carcinoma}}
-      \field{volume}{8}
-      \field{year}{1987}
-      \field{pages}{29\bibrangedash 43}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1210/edrv-8-1-29
-      \endverb
-      \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/DICKSON, LIPPMAN{\_}1987{\_}Estrogenic Regulation of Growth and Polypeptide Growth Factor Secretion in Human Breast Carcinoma.pdf:pdf
-      \endverb
-    \endentry
-    \entry{Freund2003}{article}{}
-      \name{author}{8}{}{%
-        {{hash=256abed93cd551abbc78fc99d5a154bc}{%
-           family={Freund},
-           familyi={F\bibinitperiod},
-           given={Ariane},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a43cd00c273156fa901b9887e5a2c102}{%
-           family={Chauveau},
-           familyi={C\bibinitperiod},
-           given={Corine},
-           giveni={C\bibinitperiod}}}%
-        {{hash=1172a96da7f7704bc2cc9ec4c6f9ff66}{%
-           family={Brouillet},
-           familyi={B\bibinitperiod},
-           given={Jean-Paul},
-           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
-        {{hash=2ea2987d4855efbc11583f3b332092c9}{%
-           family={Lucas},
-           familyi={L\bibinitperiod},
-           given={Annick},
-           giveni={A\bibinitperiod}}}%
-        {{hash=9d56e5b6ece900d8199abcd18e12bd03}{%
-           family={Lacroix},
-           familyi={L\bibinitperiod},
-           given={Matthieu},
-           giveni={M\bibinitperiod}}}%
-        {{hash=3d5db5716667b62a0f3b27c4d615651a}{%
-           family={Licznar},
-           familyi={L\bibinitperiod},
-           given={Anne},
-           giveni={A\bibinitperiod}}}%
-        {{hash=6cc0fefab2a6c48c3b4279afa79b9a71}{%
-           family={Vignon},
-           familyi={V\bibinitperiod},
-           given={Fran{ç}oise},
-           giveni={F\bibinitperiod}}}%
-        {{hash=7b2e05919f8c7e77c84c03320c5c251b}{%
-           family={Lazennec},
-           familyi={L\bibinitperiod},
-           given={Gwendal},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{a6f8bdaff09ed1691f1c8d7973a38eff}
-      \strng{fullhash}{95cd4b506bc376de0879a1863c95a2ed}
-      \strng{bibnamehash}{a6f8bdaff09ed1691f1c8d7973a38eff}
-      \strng{authorbibnamehash}{a6f8bdaff09ed1691f1c8d7973a38eff}
-      \strng{authornamehash}{a6f8bdaff09ed1691f1c8d7973a38eff}
-      \strng{authorfullhash}{95cd4b506bc376de0879a1863c95a2ed}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Estrogen-receptor (ER) status is an important parameter in breast cancer management as ER-positive breast cancers have a better prognosis than ER-negative tumors. This difference comes essentially from the lower aggres-siveness and invasiveness of ER-positive tumors. Here, we demonstrate, that interleukin-8 (IL-8) was clearly over-expressed in most ER-negative breast, ovary cell lines and breast tumor samples tested, whereas no significant IL-8 level could be detected in ER-positive breast or ovarian cell lines. We have also cloned human IL-8 from ER-negative MDA-MB-231 cells, and we show that IL-8 produced by breast cancer cells is identical to monocyte-derived IL-8. Interestingly, the invasion potential of ER-negative breast cancer cells is associated at least in part with expression of IL-8, but not with IL-8 receptor levels. Moreover, IL-8 increases the invasiveness of ER-positive breast cancer cells by two fold, thus confirming the invasion-promoting role of IL-8. On the other hand, exogenous expression of estrogen receptors in ER-negative cells led to a decrease of IL-8 levels. In summary, our data show that IL-8 expression is negatively linked to ER status of breast and ovarian cancer cells. We also support the idea that IL-8 expression is associated with a higher invasiveness potential of cancer cells in vitro, which suggests that IL-8 could be a novel marker of tumor aggressiveness.}
-      \field{issn}{0950-9232}
-      \field{journaltitle}{Oncogene}
-      \field{number}{2}
-      \field{title}{{IL-8 expression and its possible relationship with estrogen-receptor-negative status of breast cancer cells}}
-      \field{volume}{22}
-      \field{year}{2003}
-      \field{pages}{256\bibrangedash 265}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1038/sj.onc.1206113
-      \endverb
-      \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/Freund et al.{\_}2003{\_}IL-8 expression and its possible relationship with estrogen-receptor-negative status of breast cancer cells.pdf:pdf
-      \endverb
-      \keyw{breast,cancer,estrogen receptor,interleu-kin-8,invasion Introduction}
-    \endentry
-    \entry{Garcia1992}{article}{}
-      \name{author}{4}{}{%
-        {{hash=122ff93e06c60731abf23f7293ac7072}{%
-           family={Garcia},
-           familyi={G\bibinitperiod},
-           given={Marcel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7347f29041510831badbb9f41388a26d}{%
-           family={Derocq},
-           familyi={D\bibinitperiod},
-           given={Danielle},
-           giveni={D\bibinitperiod}}}%
-        {{hash=55b4fcfa9b4f971c889858049c466342}{%
-           family={Freiss},
-           familyi={F\bibinitperiod},
-           given={Gilles},
-           giveni={G\bibinitperiod}}}%
-        {{hash=aeb3381623b35db22818193383fafa65}{%
-           family={Rochefort},
-           familyi={R\bibinitperiod},
-           given={Henri},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{fullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \strng{bibnamehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{authorbibnamehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{authornamehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{authorfullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Breast cancers containing estrogen receptors are responsive to antiestrogen treatment and have a better prognosis than estrogen receptor-negative tumors. The loss of estrogen and progesterone receptors appears to be associated with a progression to less-differentiated tumors. We transfected the human estrogen receptor into the estrogen receptor-negative metastatic breast cancer cell line MDA-MB-231 in an attempt to restore their sensitivity to antiestrogens. Two stable sublines of MDA-MB-231 cells (HC1 and HE5) expressing functional estrogen receptors were studied for their ability to grow and invade in vitro and to metastasize in athymic nude mice. The number and size of lung metastases developed by these two sublines in ovariectomized nude mice was not markedly altered by tamoxifen but was inhibited 3-fold by estradiol. Estradiol also significantly inhibited in vitro cell proliferation of these sublines and their invasiveness in Matrigel, a reconstituted basement membrane, whereas the antiestrogens 4-hydroxytamoxifen and ICI 164,384 reversed these effects. These results show that estradiol inhibits the metastatic ability of estrogen receptor-negative breast cancer cells following transfection with the estrogen receptor, whereas estrogen receptor-positive breast cancers are stimulated by estrogen, indicating that factors other than the estrogen receptor are involved in progression toward hormone independence. Reactivation or transfer of the estrogen receptor gene can therefore be considered as therapeutic approaches to hormone-independent cancers.}
-      \field{issn}{0027-8424}
-      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
-      \field{month}{12}
-      \field{number}{23}
-      \field{title}{{Activation of estrogen receptor transfected into a receptor-negative breast cancer cell line decreases the metastatic and invasive potential of the cells.}}
-      \field{volume}{89}
-      \field{year}{1992}
-      \field{pages}{11538\bibrangedash 42}
-      \range{pages}{5}
-      \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/Garcia et al.{\_}1992{\_}Activation of estrogen receptor transfected into a receptor-negative breast cancer cell line decreases the metastatic.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50587/pdf/pnas01097-0441.pdf http://www.ncbi.nlm.nih.gov/pubmed/1454845 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC50587
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50587/pdf/pnas01097-0441.pdf%20http://www.ncbi.nlm.nih.gov/pubmed/1454845%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC50587
-      \endverb
-    \endentry
     \entry{Archetti2015}{article}{}
       \name{author}{3}{}{%
         {{hash=7795b8f91b5b6d3767ba0d56d9db4d37}{%
@@ -2140,8 +1874,8 @@
       \strng{authorbibnamehash}{64f22cc28356cbf32382133e97ecf071}
       \strng{authornamehash}{64f22cc28356cbf32382133e97ecf071}
       \strng{authorfullhash}{64f22cc28356cbf32382133e97ecf071}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The extensive intratumor heterogeneity revealed by sequencing cancer genomes is an essential determinant of tumor progression, diagnosis, and treatment. What maintains heterogeneity remains an open question because competition within a tumor leads to a strong selection for the fittest subclone. Cancer cells also coop- erate by sharing molecules with paracrine effects, such as growth factors, and heterogeneity can be maintained if subclones depend on each other for survival. Without strict interdependence be- tween subclones, however, nonproducer cells can free-ride on the growth factors produced by neighboring producer cells, a collective action problem known in game theory as the “tragedy of the commons,” which has been observed in microbial cell populations. Here, we report that similar dynamics occur in cancer cell popula- tions. Neuroendocrine pancreatic cancer (insulinoma) cells that do not produce insulin-like growth factor II (IGF-II) grow slowly in pure cultures but have a proliferation advantage in mixed cultures, where they can use the IGF-II provided by producer cells. We show that, as predicted by evolutionary game theory, producer cells do not go extinct because IGF-II acts as a nonlinear public good, cre- ating negative frequency-dependent selection that leads to a sta- ble coexistence of the two cell types. Intratumor cell heterogeneity can therefore be maintained even without strict interdependence between cell subclones. Reducing the amount of growth factors available within a tumor may lead to a reduction in growth fol- lowed by a new equilibrium, which may explain relapse in thera- pies that target growth factors.}
@@ -2255,6 +1989,183 @@
       \verb http://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-14-814
       \endverb
       \keyw{AKT,Diabetes,ERK,HPDE,Hyperinsulinemia,PANC1,PDAC,Pancreatic cancer,Pancreatic ductal adenocarcinoma}
+    \endentry
+    \entry{Haslam2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=54e22173e78d6ccb55b10377c57ab30f}{%
+           family={Haslam},
+           familyi={H\bibinitperiod},
+           given={Sandra\bibnamedelima Z},
+           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=0df7403f36feb705f14deadbca72d1a8}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={Terry\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{3010dd173c20ae814350ac41080d7840}
+      \strng{fullhash}{3010dd173c20ae814350ac41080d7840}
+      \strng{bibnamehash}{3010dd173c20ae814350ac41080d7840}
+      \strng{authorbibnamehash}{3010dd173c20ae814350ac41080d7840}
+      \strng{authornamehash}{3010dd173c20ae814350ac41080d7840}
+      \strng{authorfullhash}{3010dd173c20ae814350ac41080d7840}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1465-542X}
+      \field{journaltitle}{Breast Cancer Research}
+      \field{number}{6}
+      \field{title}{{Tumour-stromal interactions Reciprocal regulation of extracellular matrix proteins and ovarian steroid activity in the mammary gland}}
+      \field{volume}{3}
+      \field{year}{2001}
+      \field{pages}{365}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/bcr324
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/PhD/Research/all{\_}reading/Haslam, Woodward{\_}2001{\_}Tumour-stromal interactions Reciprocal regulation of extracellular matrix proteins and ovarian steroid activity in.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Woodward2000}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0df7403f36feb705f14deadbca72d1a8}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={Terry\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=fd409f8a3d3c9ab54111193262b88d18}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Jianwei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=53c5bceb851c8ad0b4127b793b5d22e4}{%
+           family={Fendrick},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=54e22173e78d6ccb55b10377c57ab30f}{%
+           family={Haslam},
+           familyi={H\bibinitperiod},
+           given={Sandra\bibnamedelima Z},
+           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
+      \strng{fullhash}{85790366a43a0c5b7b3873ee7e03f32c}
+      \strng{bibnamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
+      \strng{authorbibnamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
+      \strng{authornamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
+      \strng{authorfullhash}{85790366a43a0c5b7b3873ee7e03f32c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0013-7227}
+      \field{journaltitle}{Endocrinology}
+      \field{number}{10}
+      \field{title}{{Proliferation of Mouse Mammary Epithelial Cells in Vitro: Interactions among Epidermal Growth Factor, Insulin-Like Growth Factor I, Ovarian Hormones, and Extracellular Matrix Proteins 1}}
+      \field{volume}{141}
+      \field{year}{2000}
+      \field{pages}{3578\bibrangedash 3586}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1210/endo.141.10.7701
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/PhD/Research/all{\_}reading/Woodward et al.{\_}2000{\_}Proliferation of Mouse Mammary Epithelial Cells in Vitro Interactions among Epidermal Growth Factor, Insulin-Like G.pdf:pdf
+      \endverb
+    \endentry
+    \entry{DICKSON1987}{article}{}
+      \name{author}{2}{}{%
+        {{hash=338c32705983e9d1073668d83c99525d}{%
+           family={Dickson},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=40d7bb939d4a4469c54209dc58b4a812}{%
+           family={Lippman},
+           familyi={L\bibinitperiod},
+           given={Marc\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
+      \strng{fullhash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
+      \strng{bibnamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
+      \strng{authorbibnamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
+      \strng{authornamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
+      \strng{authorfullhash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0163-769X}
+      \field{journaltitle}{Endocrine Reviews}
+      \field{number}{1}
+      \field{title}{{Estrogenic Regulation of Growth and Polypeptide Growth Factor Secretion in Human Breast Carcinoma}}
+      \field{volume}{8}
+      \field{year}{1987}
+      \field{pages}{29\bibrangedash 43}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1210/edrv-8-1-29
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/PhD/Research/all{\_}reading/DICKSON, LIPPMAN{\_}1987{\_}Estrogenic Regulation of Growth and Polypeptide Growth Factor Secretion in Human Breast Carcinoma.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Garcia1992}{article}{}
+      \name{author}{4}{}{%
+        {{hash=122ff93e06c60731abf23f7293ac7072}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7347f29041510831badbb9f41388a26d}{%
+           family={Derocq},
+           familyi={D\bibinitperiod},
+           given={Danielle},
+           giveni={D\bibinitperiod}}}%
+        {{hash=55b4fcfa9b4f971c889858049c466342}{%
+           family={Freiss},
+           familyi={F\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=aeb3381623b35db22818193383fafa65}{%
+           family={Rochefort},
+           familyi={R\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{86be1e3559594513f13bc8d95c97fdbf}
+      \strng{fullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
+      \strng{bibnamehash}{86be1e3559594513f13bc8d95c97fdbf}
+      \strng{authorbibnamehash}{86be1e3559594513f13bc8d95c97fdbf}
+      \strng{authornamehash}{86be1e3559594513f13bc8d95c97fdbf}
+      \strng{authorfullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Breast cancers containing estrogen receptors are responsive to antiestrogen treatment and have a better prognosis than estrogen receptor-negative tumors. The loss of estrogen and progesterone receptors appears to be associated with a progression to less-differentiated tumors. We transfected the human estrogen receptor into the estrogen receptor-negative metastatic breast cancer cell line MDA-MB-231 in an attempt to restore their sensitivity to antiestrogens. Two stable sublines of MDA-MB-231 cells (HC1 and HE5) expressing functional estrogen receptors were studied for their ability to grow and invade in vitro and to metastasize in athymic nude mice. The number and size of lung metastases developed by these two sublines in ovariectomized nude mice was not markedly altered by tamoxifen but was inhibited 3-fold by estradiol. Estradiol also significantly inhibited in vitro cell proliferation of these sublines and their invasiveness in Matrigel, a reconstituted basement membrane, whereas the antiestrogens 4-hydroxytamoxifen and ICI 164,384 reversed these effects. These results show that estradiol inhibits the metastatic ability of estrogen receptor-negative breast cancer cells following transfection with the estrogen receptor, whereas estrogen receptor-positive breast cancers are stimulated by estrogen, indicating that factors other than the estrogen receptor are involved in progression toward hormone independence. Reactivation or transfer of the estrogen receptor gene can therefore be considered as therapeutic approaches to hormone-independent cancers.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{12}
+      \field{number}{23}
+      \field{title}{{Activation of estrogen receptor transfected into a receptor-negative breast cancer cell line decreases the metastatic and invasive potential of the cells.}}
+      \field{volume}{89}
+      \field{year}{1992}
+      \field{pages}{11538\bibrangedash 42}
+      \range{pages}{5}
+      \verb{file}
+      \verb :home/vibishan/PhD/Research/all{\_}reading/Garcia et al.{\_}1992{\_}Activation of estrogen receptor transfected into a receptor-negative breast cancer cell line decreases the metastatic.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50587/pdf/pnas01097-0441.pdf http://www.ncbi.nlm.nih.gov/pubmed/1454845 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC50587
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50587/pdf/pnas01097-0441.pdf%20http://www.ncbi.nlm.nih.gov/pubmed/1454845%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC50587
+      \endverb
     \endentry
     \entry{Rogers2017}{article}{}
       \name{author}{7}{}{%
