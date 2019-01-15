@@ -2249,5 +2249,110 @@
     \endentry
   \enddatalist
 \endrefsection
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{Tomasetti78}{article}{}
+      \name{author}{2}{}{%
+        {{hash=670eb09a247acc894959047de584f8d4}{%
+           family={Tomasetti},
+           familyi={T\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bbb27aa05dcd963d1c27727276613af6}{%
+           family={Vogelstein},
+           familyi={V\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{34e24b31fd22b25bbd2da18300ad5994}
+      \strng{fullhash}{34e24b31fd22b25bbd2da18300ad5994}
+      \strng{bibnamehash}{34e24b31fd22b25bbd2da18300ad5994}
+      \strng{authorbibnamehash}{34e24b31fd22b25bbd2da18300ad5994}
+      \strng{authornamehash}{34e24b31fd22b25bbd2da18300ad5994}
+      \strng{authorfullhash}{34e24b31fd22b25bbd2da18300ad5994}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Why do some tissues give rise to cancer in humans a million times more frequently than others? Tomasetti and Vogelstein conclude that these differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, they found a strong correlation extending over five orders of magnitude. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this {“}bad luck{”} component explains a far greater number of cancers than do hereditary and environmental factors.Science, this issue p. 78 Some tissue types give rise to human cancers millions of times more often than other tissue types. Although this has been recognized for more than a century, it has never been explained. Here, we show that the lifetime risk of cancers of many different types is strongly correlated (0.81) with the total number of divisions of the normal self-renewing cells maintaining that tissue{’}s homeostasis. These results suggest that only a third of the variation in cancer risk among tissues is attributable to environmental factors or inherited predispositions. The majority is due to {“}bad luck,{”} that is, random mutations arising during DNA replication in normal, noncancerous stem cells. This is important not only for understanding the disease but also for designing strategies to limit the mortality it causes.}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{number}{6217}
+      \field{title}{Variation in cancer risk among tissues can be explained by the number of stem cell divisions}
+      \field{volume}{347}
+      \field{year}{2015}
+      \field{pages}{78\bibrangedash 81}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1260825
+      \endverb
+      \verb{eprint}
+      \verb http://science.sciencemag.org/content/347/6217/78.full.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://science.sciencemag.org/content/347/6217/78
+      \endverb
+      \verb{url}
+      \verb http://science.sciencemag.org/content/347/6217/78
+      \endverb
+    \endentry
+    \entry{Tomasetti2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=670eb09a247acc894959047de584f8d4}{%
+           family={Tomasetti},
+           familyi={T\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=da32ce59ebe295c8c0c7b1e010237b74}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bbb27aa05dcd963d1c27727276613af6}{%
+           family={Vogelstein},
+           familyi={V\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{fullhash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{bibnamehash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{authorbibnamehash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{authornamehash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{authorfullhash}{ed31d75a8891fec32fe8093df2f793c1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cancers are caused by mutations that may be inherited, induced by environmental factors, or result from DNA replication errors (R). We studied the relationship between the number of normal stem cell divisions and the risk of 17 cancer types in 69 countries throughout the world. The data revealed a strong correlation (median = 0.80) between cancer incidence and normal stem cell divisions in all countries, regardless of their environment. The major role of R mutations in cancer etiology was supported by an independent approach, based solely on cancer genome sequencing and epidemiological data, which suggested that R mutations are responsible for two-thirds of the mutations in human cancers. All of these results are consistent with epidemiological estimates of the fraction of cancers that can be prevented by changes in the environment. Moreover, they accentuate the importance of early detection and intervention to reduce deaths from the many cancers arising from unavoidable R mutations.}
+      \field{isbn}{9780195311174}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{3}
+      \field{number}{6331}
+      \field{title}{{Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention}}
+      \field{volume}{355}
+      \field{year}{2017}
+      \field{pages}{1330\bibrangedash 1334}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.aaf9011
+      \endverb
+      \verb{file}
+      \verb :home/iiser/Documents/Mendeley Desktop//Tomasetti, Li, Vogelstein{\_}2017{\_}Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencemag.org/lookup/doi/10.1126/science.aaf9011 http://science.sciencemag.org/content/sci/355/6331/1330.full.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencemag.org/lookup/doi/10.1126/science.aaf9011%20http://science.sciencemag.org/content/sci/355/6331/1330.full.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

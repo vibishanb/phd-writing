@@ -2,51 +2,52 @@ This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: ci-model.aux
 The style file: pnas-new.bst
-Illegal, another \bibstyle command---line 106 of file ci-model.aux
+Illegal, another \bibstyle command---line 117 of file ci-model.aux
  : \bibstyle
  :          {pnas-new.bst}
 I'm skipping whatever remains of this command
 Database file #1: ci-model.bib
 Warning--there's a number but no volume in Hao2016
-You've used 35 entries,
+Warning--empty journal in Tennant1993
+You've used 37 entries,
             1837 wiz_defined-function locations,
-            738 strings with 12218 characters,
-and the built_in function-call counts, 8254 in all, are:
-= -- 722
-> -- 367
+            750 strings with 12657 characters,
+and the built_in function-call counts, 8712 in all, are:
+= -- 768
+> -- 365
 < -- 3
-+ -- 112
-- -- 77
-* -- 735
-:= -- 1224
-add.period$ -- 69
-call.type$ -- 35
-change.case$ -- 33
++ -- 113
+- -- 76
+* -- 778
+:= -- 1287
+add.period$ -- 73
+call.type$ -- 37
+change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 370
-empty$ -- 794
-format.name$ -- 77
-if$ -- 1783
+cite$ -- 39
+duplicate$ -- 390
+empty$ -- 849
+format.name$ -- 76
+if$ -- 1881
 int.to.chr$ -- 0
-int.to.str$ -- 35
-missing$ -- 36
-newline$ -- 142
-num.names$ -- 35
-pop$ -- 53
+int.to.str$ -- 37
+missing$ -- 38
+newline$ -- 150
+num.names$ -- 37
+pop$ -- 57
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 196
+skip$ -- 200
 stack$ -- 0
-substring$ -- 738
-swap$ -- 92
+substring$ -- 811
+swap$ -- 95
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 99
-width$ -- 37
-write$ -- 349
+warning$ -- 2
+while$ -- 104
+width$ -- 39
+write$ -- 368
 (There was 1 error message)

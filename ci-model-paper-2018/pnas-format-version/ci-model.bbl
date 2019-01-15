@@ -82,15 +82,19 @@ Harding C, Pompei F, Wilson R (2012) {Peak and decline in cancer incidence,
   mortality, and prevalence at old ages}.
 \newblock {\em Cancer} 118(5):1371--1386.
 
+\bibitem{Frank2007}
+Frank SA (2007) {\em {Dynamics of Cancer. Incidence, Inheritance, and
+  Evolution}}.
+\newblock (Princeton University Press), pp. 1--378.
+
 \bibitem{Hao2016}
 Hao D, Wang L, Di Lj (2016) {Distinct mutation accumulation rates among tissues
   determine the variation in cancer risk}.
 \newblock {\em Nature Publishing Group} (January):1--5.
 
-\bibitem{Frank2007}
-Frank SA (2007) {\em {Dynamics of Cancer. Incidence, Inheritance, and
-  Evolution}}.
-\newblock (Princeton University Press), pp. 1--378.
+\bibitem{Tennant1993}
+Tennant RW (1993) {A perspective on nonmutagenic mechanisms in carcinogenesis}.
+\newblock 101(SUPPL. 3):231--236.
 
 \bibitem{Nagy2007}
 Nagy JD, Victor EM, Cropper JH (2007) {Why don't all whales have cancer? A
@@ -117,10 +121,17 @@ Calabrese P, Shibata D (2010) {A simple algebraic cancer equation: calculating
   how cancers may arise with normal mutation rates}.
 \newblock {\em BMC Cancer} 10(1):3.
 
-\bibitem{Durrett2010}
-Durrett R, Foo J, Leder K, Mayberry J, Michor F (2010) {Evolutionary dynamics
-  of tumor progression with random fitness values}.
-\newblock {\em Theoretical Population Biology} 78(1):54--66.
+\bibitem{Martincorena2017}
+Martincorena I, et~al. (2017) {Universal Patterns of Selection in Cancer and
+  Somatic Tissues}.
+\newblock {\em Cell} 171(5):1029--1041.e21.
+
+\bibitem{Nunney2015}
+Nunney L, Muir B (2015) {Peto's paradox and the hallmarks of cancer:
+  Constructing an evolutionary framework for understanding the incidence of
+  cancer}.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences} 370(1673):20150161.
 
 \bibitem{Caulin2011}
 Caulin AF, Maley CC (2011) {Peto's Paradox: Evolution's prescription for cancer
@@ -135,6 +146,17 @@ Hansen R, Bissell MJ (2000) {Tissue architecture and breast cancer: the role of
 Cabarcas SM, Mathews LA, Farrar WL (2011) {The cancer stem cell niche-there
   goes the neighborhood?}
 \newblock {\em International Journal of Cancer} 129(10):2315--2327.
+
+\bibitem{Archetti2015}
+Archetti M, Ferraro DA, Christofori G (2015) {Heterogeneity for IGF-II
+  production maintained by public goods dynamics in neuroendocrine pancreatic
+  cancer}.
+\newblock {\em Proc Natl Acad Sci U S A} 112(6):1--6.
+
+\bibitem{Chan2014}
+Chan MT, et~al. (2014) {Effects of insulin on human pancreatic cancer
+  progression modeled in vitro}.
+\newblock {\em BMC Cancer} 14(1):814.
 
 \bibitem{Haslam2001}
 Haslam SZ, Woodward TL (2001) {Tumour-stromal interactions Reciprocal
@@ -154,11 +176,6 @@ Dickson RB, Lippman ME (1987) {Estrogenic Regulation of Growth and Polypeptide
   Growth Factor Secretion in Human Breast Carcinoma}.
 \newblock {\em Endocrine Reviews} 8(1):29--43.
 
-\bibitem{Freund2003}
-Freund A, et~al. (2003) {IL-8 expression and its possible relationship with
-  estrogen-receptor-negative status of breast cancer cells}.
-\newblock {\em Oncogene} 22(2):256--265.
-
 \bibitem{Garcia1992}
 Garcia M, Derocq D, Freiss G, Rochefort H (1992) {Activation of estrogen
   receptor transfected into a receptor-negative breast cancer cell line
@@ -166,15 +183,9 @@ Garcia M, Derocq D, Freiss G, Rochefort H (1992) {Activation of estrogen
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America} 89(23):11538--42.
 
-\bibitem{Archetti2015}
-Archetti M, Ferraro DA, Christofori G (2015) {Heterogeneity for IGF-II
-  production maintained by public goods dynamics in neuroendocrine pancreatic
-  cancer}.
-\newblock {\em Proc Natl Acad Sci U S A} 112(6):1--6.
-
-\bibitem{Chan2014}
-Chan MT, et~al. (2014) {Effects of insulin on human pancreatic cancer
-  progression modeled in vitro}.
-\newblock {\em BMC Cancer} 14(1):814.
+\bibitem{Rogers2017}
+Rogers ZN, et~al. (2017) {A quantitative and multiplexed approach to uncover
+  the fitness landscape of tumor suppression in vivo}.
+\newblock {\em Nature Methods} 14(7):737--742.
 
 \end{thebibliography}

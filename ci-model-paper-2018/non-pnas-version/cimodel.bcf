@@ -1970,11 +1970,22 @@
     <bcf:citekey order="31">Haslam2001</bcf:citekey>
     <bcf:citekey order="31">Woodward2000</bcf:citekey>
     <bcf:citekey order="31">DICKSON1987</bcf:citekey>
-    <bcf:citekey order="32">Garcia1992</bcf:citekey>
-    <bcf:citekey order="33">Cao2010</bcf:citekey>
-    <bcf:citekey order="33">Rundqvist2013</bcf:citekey>
-    <bcf:citekey order="34">Rogers2017</bcf:citekey>
-    <bcf:citekey order="35">Frank2007</bcf:citekey>
+    <bcf:citekey order="31">Garcia1992</bcf:citekey>
+    <bcf:citekey order="32">Cao2010</bcf:citekey>
+    <bcf:citekey order="32">Rundqvist2013</bcf:citekey>
+    <bcf:citekey order="33">Rogers2017</bcf:citekey>
+    <bcf:citekey order="34">Frank2007</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 1 -->
+  <bcf:bibdata section="1">
+    <bcf:datasource type="file" datatype="bibtex">cimodel.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="1">
+    <bcf:citekey order="1">Tomasetti78</bcf:citekey>
+    <bcf:citekey order="1">Tomasetti2017</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -1984,6 +1995,15 @@
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="1"
                 name="none/global//global/global"
                 type="entry"
                 sortingtemplatename="none"
