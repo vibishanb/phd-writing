@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  12 JAN 2019 11:27
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  16 JAN 2019 18:23
  restricted system commands enabled.
 **supplement
 (./supplement.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.082 seconds
+luaotfload | main : initialization completed in 0.084 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf/tex/latex/local/pnas-new.cls
 Document Class: pnas-new 23/08/2017, v1.43
@@ -1750,53 +1750,55 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 5.69998pt on input line 6.
-) 
-AED: lastpage setting LastPage
-- LAST -
-Extra skip:8.1401pt
-Left:625.98975pt/1.75pt
-Right:618.39984pt/1.1998pt
-Output:623.16978pt
-LaTeX Font Info:    Try loading font information for T1+bch on input line 152.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for T1+bch on input line 7.
+
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 )
 LaTeX Font Info:    Font shape `T1/bch/bx/n' in size <85.35826> not available
-(Font)              Font shape `T1/bch/b/n' tried instead on input line 152.
+(Font)              Font shape `T1/bch/b/n' tried instead on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 Missing character: There is no ’ (U+2019) in font ec-lmr9!
-] [2<./figS1-1.png>] [3<./figS1-2.png><./figS2-1.png>] [4<./figS2-2.png>] [5<./f
-igS2-3.png>] [6<./figS2-4.png>] [7
-
+] [2<./figS1-1.png>] [3<./figS1-2.png><./figS2-1.png>]) 
+AED: lastpage setting LastPage
+- LAST -
+Extra skip:15.93158pt
+Left:41.0pt/1.1998pt
+Right:25.0pt/1.26822pt
+Output:41.5pt
+[4<./figS2-2.png>] [5<./figS2-3.png>] [6<./figS2-4.png>] [7
 
 <./lin_slopes.png><./elimination.png>] [8<./figS3-3.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
  (./supplement.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `supplement.out' has not changed.
 (rerunfilecheck)             Checksum: 5EAE03299507513A2B4D4AD12CDB847B;258.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32984 strings out of 494480
- 244279,794899 words of node,token memory allocated
- 878 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 6 kern, 12 attribute, 125 glue_spec, 12 att
-ribute_list, 3 write nodes
-   avail lists: 1:3,2:1541,3:473,4:322,5:1233,6:21203,7:5049,8:179,9:629,10:22,1
-1:1915
- 35756 multiletter control sequences out of 65536+600000
- 93 fonts using 10542183 bytes
- 73i,11n,65p,1757b,498s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texlive/texmf-dist/fo
-nts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/u
+ 32997 strings out of 494480
+ 156327,794899 words of node,token memory allocated
+ 1402 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 disc, 12 glue, 8 kern, 1 penalty, 1 margin_kern, 
+59 glyph, 16 attribute, 125 glue_spec, 16 attribute_list, 4 write nodes
+   avail lists: 1:2,2:1556,3:318,4:192,5:867,6:12510,7:3893,8:149,9:496,10:22,11
+:1077
+ 35766 multiletter control sequences out of 65536+600000
+ 94 fonts using 10624863 bytes
+ 62i,11n,56p,2659b,517s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fon
+ts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/u
 sr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvip
 s/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8
 a.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf/fonts/
@@ -1811,10 +1813,10 @@ re/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm
 usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on supplement.pdf (8 pages, 3090366 bytes).
+Output written on supplement.pdf (8 pages, 3094882 bytes).
 
-PDF statistics: 188 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 131072)
+PDF statistics: 194 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 131072)
  40 words of extra memory for PDF output out of 10000 (max. 100000000)
 
