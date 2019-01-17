@@ -11,11 +11,8 @@
 % Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 \author[1,2]{Vibishan B.}
 \author[1,2,*]{Milind G. Watve} 
-%\author[a]{Author Three}
 
 \affil[1]{Department of Biology, Indian Institute of Science Education and Research (IISER), Dr. Homi Bhabha Road, Pune, India-411008}
-%\affil[b]{Affiliation Two}
-%\affil[c]{Affiliation Three}
 
 % Please give the surname of the lead author for the running footer
 \leadauthor{Watve} 
@@ -24,29 +21,28 @@
 \significancestatement{As opposed to the contemporary mutation-cenrtic perspective, selective forces, at the level of both the organism and the population, play important roles in cancer progression. We construct models of non-selective and selective forces, and compare their predictions of population-level cancer incidence to available epidemiological data from US populations. We find that incorporating selection, particularly selection that varies across individuals in a heterogenous population, is necessary to explain observed trends in cancer incidence. We posit that this heterogenous selection stems from factors that affect the tumour micro-environment that determine the competitive advantage to cancer-causing somatic mutations.}
 
 % Please include corresponding author, author contribution and author declaration information
-% \authorcontributions{Both authors conceptualised the work. V.B. wrote the code, and both authors analysed the data and wrote the manuscript.}
+\authorcontributions{Both authors conceptualised the work. V.B. wrote the code, and both authors analysed the data and wrote the manuscript.}
 \authordeclaration{The authors declare that there are no conflicts of interest}
-\equalauthors{\textsuperscript{2}B.V. and M.G.W. contributed equally to this work.}
+% \equalauthors{\textsuperscript{2}B.V. and M.G.W. contributed equally to this work.}
 \correspondingauthor{\textsuperscript{*}To whom correspondence should be addressed. E-mail: milind@iiserpune.ac.in}
 
 % Keywords are not mandatory, but authors are strongly encouraged to provide them. If provided, please include two to five keywords, separated by the pipe symbol, e.g:
 \keywords{Somatic evolution $|$ Mutation accumulation $|$ Epidemiology $|$ Cancer etiology $|$} 
 
 \begin{abstract}
-Somatic evolution of cancer involves a series of mutations, and attendant changes, in one or more clones of cells. Unlike a ``bad luck'' type model, the notion of clonal expansion adds competition-driven selection to the supposedly random process of somatic mutagenesis, with the implicit assumption that any mutation leading to partial loss of regulation of cell proliferation will give a selective advantage to the mutant. However, a number of experiments show that an intermediate pre-cancer mutant has only a conditional selective advantage; given that tissue microenvironmental conditions differ across individual organisms, this selective advantage to a mutant should be widely distributed over the population of organisms. We evaluate three models, namely ``bad luck'', context-independent, and -dependent selection, in a comparative framework, on their ability to predict patterns in total incidence, age-specific incidence, and their ability to explain Peto’s paradox. Results show that context dependence is necessary and sufficient to explain observed epidemiological patterns, and that cancer incidence is largely selection-limited, as opposed to the mutation-centric, ``bad luck'' view. A wide range of physiological, genetic and behavioural factors influence the tissue micro-environment, and could therefore be the source of this context dependence in somatic evolution of cancer. The identification and targeting of these micro-environmental factors that influence the dynamics of selection offer new possibilities for cancer prevention. Our work also seeks to renew interest in the comparative evaluation framework, whose application has seen a lull in cancer literature, despite the possibilities of rejection it offers for potential theories of carcinogenesis.
+	Somatic evolution of cancer involves a series of mutations, and attendant changes, in one or more clones of cells. Unlike a ``bad luck'' type model, the notion of clonal expansion adds competition-driven selection to the supposedly random process of somatic mutagenesis, with the implicit assumption that any mutation leading to partial loss of regulation of cell proliferation will give a selective advantage to the mutant. However, a number of experiments show that an intermediate pre-cancer mutant has only a conditional selective advantage; given that tissue microenvironmental conditions differ across individual organisms, this selective advantage to a mutant should be widely distributed over the population of organisms. We evaluate three models, namely ``bad luck'', context-independent, and -dependent selection, in a comparative framework, on their ability to predict patterns in total incidence, age-specific incidence, and their ability to explain Peto’s paradox. Results show that context dependence is necessary and sufficient to explain observed epidemiological patterns, and that cancer incidence is largely selection-limited, as opposed to the mutation-centric, ``bad luck'' view. A wide range of physiological, genetic and behavioural factors influence the tissue micro-environment, and could therefore be the source of this context dependence in somatic evolution of cancer. The identification and targeting of these micro-environmental factors that influence the dynamics of selection offer new possibilities for cancer prevention.
 \end{abstract}
 
-% \dates{This manuscript was compiled on \today}
-% \doi{\url{www.pnas.org/cgi/doi/10.1073/pnas.XXXXXXXXXX}}
+\dates{This manuscript was compiled on \today}
+\doi{\url{www.pnas.org/cgi/doi/10.1073/pnas.XXXXXXXXXX}}
 
 \begin{document}
 
 \maketitle
 \thispagestyle{firststyle}
-% \ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
+\ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
 
-% If your first paragraph (i.e. with the \dropcap) contains a list environment (quote, quotation, theorem, definition, enumerate, itemize...), the line after the list may have some extra indentation. If this is the case, add \parshape=0 to the end of the list environment.
-Mathematical models of somatic evolution in cancer have been in development for the past several decades, with a strong focus on mutational processes \cite{ARMITAGE1954, McFarland2013, Blokzijl2016, Mina2017}. Most prominently, Tomasetti et al. have argued that cancer risk is largely determined by random mutations \cite{Tomasetti78, Tomasetti2017}. On the other hand, the question of somatic evolution in cancer parallels an old debate in the theory of evolution as to how the simple process of random mutations alone can lead to complex structures such as the eye which require the coordinated action of several genes, often perceived as the monkey-on-a-typewriter paradox \cite{Dawkins1996}. The problem of cancer is qualitatively similar to this, but quantitatively even more difficult, since most cancers must evolve independently in each individual organism. All cancers are necessarily a combination of different types of genomic changes including point mutations, aneuploidy and other chromosomal aberrations, and the cancer phenotype has a large number of distinguishing characeters, encapsulated by the notion of the ``hallmarks'' of cancer \cite{Hanahan2000, Schafer2008, Hanahan2011}. The wide range of characterisitics that these hallmarks include make it astonishing that so many alterations in cell properties come together in cancers purely out of chance.
+\dropcap{M}athematical models of somatic evolution in cancer have been in development for the past several decades, with a strong focus on mutational processes \cite{ARMITAGE1954, McFarland2013, Blokzijl2016, Mina2017}. Most prominently, Tomasetti et al. have argued that cancer risk is largely determined by random mutations \cite{Tomasetti78, Tomasetti2017}. On the other hand, the question of somatic evolution in cancer parallels an old debate in the theory of evolution as to how the simple process of random mutations alone can lead to complex structures such as the eye which require the coordinated action of several genes, often perceived as the monkey-on-a-typewriter paradox \cite{Dawkins1996}. The problem of cancer is qualitatively similar to this, but quantitatively even more difficult, since most cancers must evolve independently in each individual organism. All cancers are necessarily a combination of different types of genomic changes including point mutations, aneuploidy and other chromosomal aberrations, and the cancer phenotype has a large number of distinguishing characeters, encapsulated by the notion of the ``hallmarks'' of cancer \cite{Hanahan2000, Schafer2008, Hanahan2011}. The wide range of characterisitics that these hallmarks include make it astonishing that so many alterations in cell properties come together in cancers purely out of chance.
 
 Selection on intermediate mutants was the logical solution provided for the monkey-on-a-typewriter paradox, and clonal expansion paralleled such a solution in cancer evolution. Every component mutation on the way to a cancerous phenotype causes the mutant clone to expand, and as the mutant population increases, the probability of a second component mutation increases proportionately \cite{Nowell1976}. Implicit in this theory is the assumption that every component mutation has a selective advantage over the normal cell. Since most changes involved in carcinogenesis relate to evading growth regulatory mechanisms, it is considered logical that any mutation that allows for such evasion will have a natural selective advantage. However, evidence has been accumulating over the past few years that the fitness advantage of a mutant is largely dependent on the tissue micro-environment \cite{Hanahan2012, Pietras2010}. Studies in mice \cite{Cao2010} and humans \cite{Rundqvist2013} have demonstrated the effect of contingent factors, such as behavioural profiles and lifestyle parameters, on cancer progression. These findings provide clear indications that the selective forces which determine mutant clone fitness can vary considerably across individuals, leading to \textit{context-dependent clonal expansion} of potentially oncogenic mutants. The role of such differential selective forces in somatic evolution has not been adequately addressed by cancer models so far.
 
@@ -60,7 +56,6 @@ A good working model of somatic evolution of cancer needs to explain the followi
 	\item Incidence vs mutation rate: Empirical data on this relationship are less common, as mutation rates are difficult to measure reliably, although some efforts have been made \cite{Hao2016}. However, a general notion exists that higher mutation rates increases cancer risk, and this remains to be tested rigorously, barring theoretical work dealing with the effect of mutagens on patterns in incidence data \cite{Frank2007}.
 	\item Non-mutagenic carcinogens: There are several agents, including hormones and growth factors, that increase cancer risk without affecting the basal mutation rate \cite{Tennant1993}. The activity of these agents, and their signature in epidemiological patterns, are both important in building a complete framework of explaining cancer etiology.
 	\item Peto's paradox, and similar observations: This relates to the incidence-cell number relationship, as cancer risk is seen not to scale with body size or cell number across species \cite{Nagy2007}, but may correlate with the latter within a species \cite{Noble2015}. A wide range of explanations have been offered for this observation \cite{Tollis2017b}, and in a modeling context, these explanations can come from the model itself (intrinsic), or involve extrinsic factors, such as evolved cancer defences, that are not part of the model framework.
-	%\item Mutational meltdown: While well-known in other study systems, the effects of deleterious mutations were recognized relatively recently in cancer literature.
 \end{enumerate}
 
 
@@ -83,7 +78,7 @@ Given the probability of cancer per unit time, $p_{can}$ from equation \ref{E1},
 
 From equation \ref{E1}, it is clear that the probability of cancer has a threshold relationship with both $n$ and $p$, such that incidence rises from near zero to 100\% over a small range of $p$ and $n$, as shown in Figure \ref{fig1}.
 
-\begin{figure*}[tbhp]
+\begin{figure*}[!th]
 	\centering
 	\includegraphics[width=\linewidth]{fig1.png}
 	\caption{Cancer probability, $p_{can}$ vs cell number for the ``bad luck'' model; $p_{can}$ remains near zero in part of the parameter range, and rises to one over a narrow region of the corresponding parameter. This proability is cumulative and therefore reflects total incidence in the population. For the ``bad luck'' model, the total incidence is rarely in the observed range of around 30\%. The number of oncogenic mutations required for cancer onset ($k$) does not affect the existence of a threshold with $n$ and $p$, but does affect where the threshold occurs in the parameter space; for $k=10$, the threshold does not occur within the tested range of $n$ and $p$. The legend shows values of $p$ for each curve.}
@@ -92,15 +87,14 @@ From equation \ref{E1}, it is clear that the probability of cancer has a thresho
 
 From equation \ref{E2}, the relationship of $p_{can}$ with age is a monotonically increasing function with a maximum at one. Figure \ref{fig2} shows this relationship across the entire parameter range of $n$ and $p$, for which this prediction holds. Cancer probability increases monotonically with age, and only saturates at 100\% incidence, which stands in stark contrast to the observed late-life decline in age-specific rates. Given a finite lifespan, cancer incidence lies in a realistic range in a narrow range of $p$ and $n$.
 
-\begin{figure}[tbhp]
+\begin{figure}[!th]
 	\centering
 	\includegraphics[width=\linewidth]{fig2.png}
 	\caption{Cancer probability vs age, as given by equation \ref{E2}, (A and B) over the range of $n$, and (C and D) over the range of $p$; inset legends give the corresponding values of $n$ and $p$. Cancer probability increases monotonically with age, saturating only at one in most cases. Where the probability does approach realistic values of total incidence, it still does not reflect the late-life decline in incidence rates observed epidemiologically. As in Figure \ref{fig1}, the number of oncogenic mutations required for cancer onset does not change the nature of the incidence-age relationship. For A and C, $k=2$, and for B and D, $k=5$.}
 	\label{fig2}
 \end{figure}
 
-Including the cost of lethal/deleterious passenger mutations does not qualitatively alter the general prediction of thresholds with $n$, $p$ and age, although the position of the threshold may change, as has been observed independently \cite{McFarland2013}. Taken together, this formulation of the ``bad luck'' model predicts a sharp threshold relationship of cancer probability with both $n$ and $p$, as opposed to the observed progressive increase \cite{Tomasetti78, Tomasetti2017}. For values of $n$ and $p$ around this threshold, cancer probability increases rapidly with age but is inconsistent with late-life decline in cancer incidence. 
-%We also used values of $n$ and $p$ for about 15 cancer types, along with the corresponding lifetime incidence of cancer from published literature \cite{Tomasetti78, Hao2016}, to carry out a chi-square test to compare the predictions of the ``bad luck'' model with the SEER incidence. A quick calculation is sufficient to show that the former predicts 100\% incidence for all tested cancer types, which is clearly unrealistic.
+Including the cost of lethal/deleterious passenger mutations does not qualitatively alter the general prediction of thresholds with $n$, $p$ and age, although the position of the threshold may change, as has been observed independently \cite{McFarland2013}. Taken together, this formulation of the ``bad luck'' model predicts a sharp threshold relationship of cancer probability with both $n$ and $p$, as opposed to the observed progressive increase \cite{Tomasetti78, Tomasetti2017}. For values of $n$ and $p$ around this threshold, cancer probability increases rapidly with age but is inconsistent with late-life decline in cancer incidence.
 
 \section{Models with selection on mutants}
 For models that involve selection, we choose to explore the effects of context-independent clonal expansion and context-dependent selection through a simulation-based stochastic framework. 
@@ -120,29 +114,27 @@ Here, $m_{i, t}$ is the size of the $i$th mutant population at time, $t$, with $
 
 	\subsection{The context-dependent selection case}
 	As argued earlier, it is becoming increasingly clear that the competitive outcomes of identical mutations can depend strongly on the micro-environmental context in which cell competition occurs. In order for selection on mutants to be context-dependent in our model, we randomize the slope, $\Delta_{g}$ from a given normal distribution. Each individual begins with the same $g_{0}$, but the progression of growth rates is randomized across individuals, such that individuals with large $g_{i}$ would progress faster towards cancer onset, while those with small, or negative values of $g{i}$ would never progress to a cancerous state as the mutant gets selected against. This produces variation across organisms for cancer propensity.
-	%While we study a simple case by randomizing $\mu$, in principle, it should be possible to vary $g_{k}$ with respect any non-random context-dependent variable derived from real data sources. But as we show later, our simple case several interesting results by itself.
 
-\subsection{Predictions from the selection models}
-As in Figure \ref{fig3}, under the assumption of context-independent selection, the incidence of cancer shows a strong threshold relatioship with age, where up to a certain age, cancer is unlikely or rare, but increases rapidly to 100\% within a relatively short span of time. This is indicated by the fact that the cumulative incidence reaches 100\% within the individual lifespan, and the age-specific incidence falls to zero. As with the ``bad luck'' model, incidence has a threshold relationship wtih both $n$ and $p$, as reflected in the maximum cumulative incidence, $I_{max}$ (Figure \ref{fig3}D and H). The age at half-maximum incidence is a decreasing function of both $n$ and $p$ (Figure \ref{fig3}C and G). Moreover, saturation of incidence occurs only at 100\%, which is identical to the ``bad luck'' model, despite the inherently stochastic implementation of mutation occurrence. Where the incidence of cancer is near the realistic range, for small values of $p$ and $n$, the late-life decrease in incidence is still not reflected in the context-independent selection case. The prediction of 100\% incidence is due to the fact that all organisms in the population share the same growth rate progression for mutants. No other parameter in the model inherently precludes the accumulation of all $k$ oncogenic mutations in some individuals; giving a distribution to $p$ reduces the sharpness of the incidence threshold with age, but saturation of incidence remains at 100\% (Figure \ref{fig4}). 
-%and the dynamics of accumulation is entirely a function of $p$ and $n$, along with stochastic variation.
-
-\begin{figure*}[tbhp]
+\begin{figure*}[!ht]
 	\centering
 	\includegraphics[width=\linewidth]{fig3.png}
 	\caption{Incidence patterns from the context-independent selection model over the range of (A-D) $n$, and (E-H) $p$. From left to right in each row, the plots are of (A, E) age-specific crude incidence per 100,000 vs age, (B, F) cumulative incidence (\% of simulated population) vs age, (C, G) age at which half the maximum incidence is reached vs $n$ or $p$, and (D, H) the maximum cumulative incidence, $I_{max}$ vs $n$ or $p$. Incidence saturates only at 100\%, both with time (B and F), and with $n$ and $p$ (D and H). Inset legends for the age curves are $log(n)$ and $log(p)$ in the top and bottom row respectively. For A-D, $p=5.603*10^{-9}$, and for E-H, $n=1.785*10^{8}$. Growth rates progress linearly in the general form, $g_{i}=0.007*(i+1)$, where $i=0,...,k$ and $k=5$. Here, $\Delta_{g}=\frac{0.007*k}{k}=0.007$.}
 	\label{fig3}
 \end{figure*}
 
-\begin{figure}[tbhp]
+\begin{figure}[!ht]
 	\centering
 	\includegraphics[width=\linewidth, keepaspectratio=true]{fig4.png}
 	\caption{Cumulative incidence (\% of simulated population) with randomized vs fixed $p$ for the population in the context-independent selection case; giving a distribution to $p$ does not reduce the saturation of incidence from 100\%, but slows the transition to 100\%. In the randomized case, $p$ values were drawn from a uniform distribution with range $[3.775*10^{-11}, 3.06*10^{-7}]$ and mean, $\overline{p} = 4.17*10^{-7}$, while for the fixed case, $p=3.06*10^{-7}$; for both, $n=1.785*10^{8}$ and $k=5$.} 
 	\label{fig4}
 \end{figure}
 
+\subsection{Predictions from the selection models}
+As in Figure \ref{fig3}, under the assumption of context-independent selection, the incidence of cancer shows a strong threshold relatioship with age, where up to a certain age, cancer is unlikely or rare, but increases rapidly to 100\% within a relatively short span of time. This is indicated by the fact that the cumulative incidence reaches 100\% within the individual lifespan, and the age-specific incidence falls to zero. As with the ``bad luck'' model, incidence has a threshold relationship wtih both $n$ and $p$, as reflected in the maximum cumulative incidence, $I_{max}$ (Figure \ref{fig3}D and H). The age at half-maximum incidence is a decreasing function of both $n$ and $p$ (Figure \ref{fig3}C and G). Moreover, saturation of incidence occurs only at 100\%, which is identical to the ``bad luck'' model, despite the inherently stochastic implementation of mutation occurrence. Where the incidence of cancer is near the realistic range, for small values of $p$ and $n$, the late-life decrease in incidence is still not reflected in the context-independent selection case. The prediction of 100\% incidence is due to the fact that all organisms in the population share the same growth rate progression for mutants. No other parameter in the model inherently precludes the accumulation of all $k$ oncogenic mutations in some individuals; giving a distribution to $p$ reduces the sharpness of the incidence threshold with age, but saturation of incidence remains at 100\% (Figure \ref{fig4}). 
+
 As opposed to the context-independent selection model, the context-dependent model produces a saturating trend in cumulative incidence that begins to saturate at a level much lower than 100\% (Figure \ref{fig5}). This is an important feature of the context-dependent model, as it allows the model to generate more realistic patterns in age-specific cancer incidence. The saturation occurs because propensity for clonal expansion varies across individuals; cancer progression occurs very quickly in some individuals, and not at all in others. Of the three models analysed so far, only the context-dependent model captures a trend similar to the late-life decline observed in many cancers in humans, as the crude incidence curves in Figure \ref{fig5}A and E show. It is also important to note that cancer incidence increases progressively over several orders of magnitude of both $n$ and $p$, as opposed to the thresholds observed in earlier models (Figure \ref{fig5}C and G).
 
-\begin{figure*}[tbhp]
+\begin{figure*}[!h]
 	\centering
 	\includegraphics[width=\linewidth, keepaspectratio=true]{fig5.png}
 	\caption{Incidence patterns from the context-dependent selection model over the range of (A-D) $n$, and (E-H) $p$. From left to right in each row, the plots are of (A, E) age-specific crude incidence per 100000 vs age, (B, F) cumulative incidence (\% of simulated population) vs age, (C, G) age at which half the maximum incidence is reached vs $log(n)$ or $log(p)$, and (D, H) the maximum cumulative incidence, $I_{max}$ vs $n$ or $p$. As opposed to Figure \ref{fig3}, cumulative incidence saturates much below 100\%, both with time (B and F), and with $n$ (D), when $g$ is randomized in the population. Note that randomization of $p$ alone in the population does not reproduce these patterns (Figure \ref{fig4}). Inset legends for the age curves are $log(n)$ and $log(p)$ in the top and bottom row respectively. For A-D, $p=5.603*10^{-9}$; for C-H, $n=1.785*10^{8}$; and for all figures, $k=5$. Insets for the incidence curves show $log(n)$ and $log(p)$ in the top and bottom rows respectively. Growth rates progress linearly from $g_{0}=0.007$ to $g_{k}=0.007*\mu$, where $\mu$ is normally-distributed random variable with $\overline{\mu}=3$ and $\sigma=5$. Here, $\Delta_{g}=\frac{0.007*(\mu-1)}{k}$.}
@@ -156,33 +148,23 @@ Randomizing $k$ in the range, [2, 10] \cite{Martincorena2017}, the nature of the
 
 To test whether the assumption of a normal distribution for $\Delta_{g}$ is critical for the results, we reevaluated the predictions of the context-dependent selection model for a Gumbel- and uniformly-distributed $\Delta_{g}$ progression. We find that the shape of the distribution does not affect the saturation of cumulative incidence, or the late-life decline in age-specific incidence predicted by the model, although the shape of the age curve changes (Supplementary material, S1 Figures).
 
-\section{Discussion}
-
-\begin{table*}[tbhp]
-\centering
-\caption{Comparative explanatory power of the three models with respect to observed epidemiological trends}
-% \begin{threeparttable}
-\begin{tabular}{p{5cm}p{4cm}p{4cm}p{3.5cm}p{7cm}}
-\textbf{Epidemiological observation} & ``Bad luck'' & Context-independent selection & Context-dependent selection \\
-\hline
-\textbf{Total incidence across cancer types does not exceed 30\%} & Saturation at 100\% only & Saturation at 100\% only & Saturation<100\% possible \\
-\textbf{Age-specific incidence decreases in old age for several cancers} & No late-life decline & No late-life decline & Late-life decline predicted \\
-\textbf{Incidence vs $n$} & Sharp threshold saturating at 100\% & Sharp threshold saturating at 100\% & Progressive increase over several orders of magnitude \\
-\textbf{The phenomenon of non-mutagenic carcinogens} & No explanation offered & No explanation offered & Act through $\Delta_{g}$ distribution \\
-\textbf{Peto's paradox-cancer risk saturates with $n$} & Evolved cancer defences & Evolved cancer defences & Cancer incidence not mutation-limited \\
-\hline
-\end{tabular}
-% \begin{tablenotes}
-% \item[1] \small{Extrinsic mechanisms like evolved cancer defences must be invoked.}
-% \end{tablenotes}
-% \end{threeparttable}
-\label{Table 1}
-%\addtabletext{nomenclature for the TSs refers to the numbered species in the table.}
+\begin{table*}[h]
+	\centering
+	\caption{Comparative explanatory power of the three models with respect to observed epidemiological trends}
+	\begin{tabular}{p{5cm}p{4cm}p{4cm}p{3.5cm}p{7cm}}
+	\textbf{Epidemiological observation} & ``Bad luck'' & Context-independent selection & Context-dependent selection \\
+	\hline
+	\textbf{Total incidence across cancer types does not exceed 30\%} & Saturation at 100\% only & Saturation at 100\% only & Saturation<100\% possible \\
+	\textbf{Age-specific incidence decreases in old age for several cancers} & No late-life decline & No late-life decline & Late-life decline predicted \\
+	\textbf{Incidence vs $n$} & Sharp threshold saturating at 100\% & Sharp threshold saturating at 100\% & Progressive increase over several orders of magnitude \\
+	\textbf{The phenomenon of non-mutagenic carcinogens} & No explanation offered & No explanation offered & Act through $\Delta_{g}$ distribution \\
+	\textbf{Peto's paradox-cancer risk saturates with $n$} & Evolved cancer defences & Evolved cancer defences & Cancer incidence not mutation-limited \\
+	\hline
+	\end{tabular}
+	\label{Table 1}
 \end{table*}
 
-%Returning to the epidemiological patterns in the introduction, we now review the predictions of the three models. The ``bad luck'' model predicts a strong threshold of cancer probability with $n$, $p$ and with age. In all three cases, incidence increases in a roughly sigmoid fashion, and saturates only at 100\% incidence. This is also broadly true of the context-independent selection model, which similarly fails to capture the saturation of incidence at around 30\% in real populations, along with the late-life decline in age-specific incidence observed in several cancer types. Along the same lines, the sharp threshold relationships from both of these models of incidence with both $n$ and $p$ stand in clear contrast to real data. As stated earlier, the relationship between incidence and cell number is claimed to be linear by man in the field \cite{Tomasetti78, Tomasetti2017}. While it remains to be conclusively determined if this relationship indeed is linear or non-linear, there is sufficient basis to reject the threshold prediction from the ``bad-luck'' and context-independent selection model. Regardless of whether we assume linearity over a large range of $n$, or general non-linearity, the actual relationship is still a progressively increasing function of incidence with $n$ where the first two models predict a strong threshold effect. While a similarly detailed look is not possible with current data for the relationship of incidence with $p$, there is again sufficient basis to reject a sharp threshold and/or 100\% incidence as predicted by the ``bad luck'' and context-independent models.
-
-%On all these counts, we see that the context-dependent selection offers much more realistic predictions for the relationship of incidence with $n$, $p$ and age. It can produce saturation of incidence at around observed rates in real populations, the observed late-life decline in incidence, and more realistic relationships with $n$ and $p$. It has also indicated interesting effects of the number of oncogenic mutations required for cancer. While it is expected that higher $k$ increases the time taken for cancer onset, the value of $k$ is also seen to modulate how strongly $n$, $p$ and $g$ affect the time to cancer onset, particularly in the moderate to higher range of $k$. This is an important detail that pan-cancer analyses of incidence trends must take note of. For small values of $k$, $n$ does not affect incidence dynamics, but $g$ and $p$ do. The context-dependent model also offers potential explanations for the late-life decline in age-specific incidence. In the model, we see that cancer incidence is determined to a large extent by $g$, suggesting a selection-limited process. Late-life incidence in the model comes from a slow growth rate progression across mutations, and a late-life decline can therefore be described in terms of the distribution of the growth rate progression. In a population where slow growth rate progression for mutants is rare, organisms with active mutagenesis progress to cancer relatively earlier in life, and cancer is rarer later in life. It becomes important therefore, to consider the local or evolutionary factors underlying such a temporal pattern of mutation accumulation. 
+\section{Discussion}
 
 Table \ref{Table 1} compares the prediction profile of the three models discussed so far. On the whole, the better prediction profile of the context-dependent model stems from the distribution of $g_{i}$ in the population, and this has interesting implications for the kind of causal factors that are important in explaining cancer etiology. One of these implications concern the mutation-centric thinking that represents the mainstream view in cancer biology. For instance, several growth factors and hormones are known to increase cancer risk, not the least of which is insulin, without increasing the basal mutation rate or the cell number. The action of such ``non-mutagenic carcinogens'' is not compatible with a mutation-centric approach to carcinogenesis. We propose instead that non-mutagenic carcinogens could act by altering $\Delta_{g}$.
 Similarly, late-life incidence in the model comes from a slow growth rate progression across mutations. By extension, the late-life decline comes from the left-hand tail of the $\Delta_{g}$ distribution, with zero or negative progression in some individuals. It becomes important therefore, to consider the local or evolutionary factors underlying such a temporal pattern of mutation accumulation.
@@ -191,114 +173,10 @@ This variation in selection could be attributed to the micro-environment in the 
 
 A composite view of cancer etiology requires not only the incorporation of these, and other complexities in models, but also the comparative testing framework that continues to be rare in cancer literature, barring a few efforts \cite{Frank2007}. The value of such a framework is immense, as it allows for falsification of factors that make predictions contrary to observed data; this falsification is frequently more robust and informative than an indirect confirmation of potential causal factors. With our analysis, we hope to bring this framework back into the mainstream at a time when the availaibility of large-scale data spanning levels of biological organization is better than ever before, from the population to the various cellular ``-omes''. A comparative framework could prove more powerful now, in the context of robust data and computational techniques, and should therefore become a major focus for the cancer modeling effort.
 
-% \newpage
-% \printbibliography
-
-%\subsection*{Author Affiliations}
-
-%Include department, institution, and complete address, with the ZIP/postal code, for each author. Use lower case letters to match authors with institutions, as shown in the example. Authors with an ORCID ID may supply this information at submission.
-
-%\subsection*{Submitting Manuscripts}
-
-%All authors must submit their articles at \href{http://www.pnascentral.org/cgi-bin/main.plex}{PNAScentral}. If you are using Overleaf to write your article, you can use the ``Submit to PNAS'' option in the top bar of the editor window. 
-
-%\subsection*{Format}
-
-%Many authors find it useful to organize their manuscripts with the following order of sections;  Title, Author Affiliation, Keywords, Abstract, Significance Statement, Results, Discussion, Materials and methods, Acknowledgments, and References. Other orders and headings are permitted.
-
-%\subsection*{Manuscript Length}
-
-%PNAS generally uses a two-column format averaging 67 characters, including spaces, per line. The maximum length of a Direct Submission research article is six pages and a Direct Submission Plus research article is ten pages including all text, spaces, and the number of characters displaced by figures, tables, and equations.  When submitting tables, figures, and/or equations in addition to text, keep the text for your manuscript under 39,000 characters (including spaces) for Direct Submissions and 72,000 characters (including spaces) for Direct Submission Plus.
-
-%\subsection*{References}
-
-%References should be cited in numerical order as they appear in text; this will be done automatically via bibtex, e.g.. All references should be included in the main manuscript file.  
-
-%\subsection*{Data Archival}
-
-%PNAS must be able to archive the data essential to a published article. Where such archiving is not possible, deposition of data in public databases, such as GenBank, ArrayExpress, Protein Data Bank, Unidata, and others outlined in the Information for Authors, is acceptable.
-
-%\subsection*{Language-Editing Services}
-%Prior to submission, authors who believe their manuscripts would benefit from professional editing are encouraged to use a language-editing service (see list at www.pnas.org/site/authors/language-editing.xhtml). PNAS does not take responsibility for or endorse these services, and their use has no bearing on acceptance of a manuscript for publication.
-
-
-%\begin{SCfigure*}[\sidecaptionrelwidth][t]
-%\centering
-%\includegraphics[width=11.4cm,height=11.4cm]{frog}
-%\caption{This caption would be placed at the side of the figure, rather than below it.}\label{fig:side}
-%\end{SCfigure*}
-
-%\subsection*{Digital Figures}
-
-%Only TIFF, EPS, and high-resolution PDF for Mac or PC are allowed for figures that will appear in the main text, and images must be final size. Authors may submit U3D or PRC files for 3D images; these must be accompanied by 2D representations in TIFF, EPS, or high-resolution PDF format.  Color images must be in RGB (red, green, blue) mode. Include the font files for any text. 
-
-%Figures and Tables should be labelled and referenced in the standard way using the \verb|\label{}| and \verb|\ref{}| commands.
-
-%Figure \ref{fig:frog} shows an example of how to insert a column-wide figure. To insert a figure wider than one column, please use the \verb|\begin{figure*}...\end{figure*}| environment. Figures wider than one column should be sized to 11.4 cm or 17.8 cm wide. Use \verb|\begin{SCfigure*}...\end{SCfigure*}| for a wide figure with side captions.
-
-%\subsection*{Tables}
-%In addition to including your tables within this manuscript file, PNAS requires that each table be uploaded to the submission separately as a â€œTableâ€ file.  Please ensure that each table .tex file contains a preamble, the \verb|\begin{document}| command, and the \verb|\end{document}| command. This is necessary so that the submission system can convert each file to PDF.
-
-%\subsection*{Single column equations}
-
-%Authors may use 1- or 2-column equations in their article, according to their preference.
-
-%To allow an equation to span both columns, use the \verb|\begin{figure*}...\end{figure*}| environment mentioned above for figures.
-
-%Note that the use of the \verb|widetext| environment for equations is not recommended, and should not be used. 
-
-%\begin{figure*}[bt!]
-%\begin{align*}
-%(x+y)^3&=(x+y)(x+y)^2\\
-%      &=(x+y)(x^2+2xy+y^2) \numberthis \label{eqn:example} \\
-%      &=x^3+3x^2y+3xy^3+x^3. 
-%\end{align*}
-%\end{figure*}
-
-
-%\begin{table}%[tbhp]
-%\centering
-%\caption{Comparison of the fitted potential energy surfaces and ab initio benchmark electronic energy calculations}
-%\begin{tabular}{lrrr}
-%Species & CBS & CV & G3 \\
-%\midrule
-%1. Acetaldehyde & 0.0 & 0.0 & 0.0 \\
-%2. Vinyl alcohol & 9.1 & 9.6 & 13.5 \\
-%3. Hydroxyethylidene & 50.8 & 51.2 & 54.0\\
-%\bottomrule
-%\end{tabular}
-
-%\addtabletext{nomenclature for the TSs refers to the numbered species in the table.}
-%\end{table}
-%
-
-
-%\subsubsection*{SI Datasets} 
-
-%Supply Excel (.xls), RTF, or PDF files. This file type will be published in raw format and will not be edited or composed.
-
-
-%\subsubsection*{SI Movies}
-
-%Supply Audio Video Interleave (avi), Quicktime (mov), Windows Media (wmv), animated GIF (gif), or MPEG files and submit a brief legend for each movie in a Word or RTF file. All movies should be submitted at the desired reproduction size and length. Movies should be no more than 10 MB in size.
-
-
-%\subsubsection*{3D Figures}
-
-%Supply a composable U3D or PRC file so that it may be edited and composed. Authors may submit a PDF file but please note it will be published in raw format and will not be edited or composed.
-
-
-%\matmethods{Please describe your materials and methods here. This can be more than one paragraph, and may contain subsections and equations as required. Authors should include a statement in the methods section describing how readers will be able to access the data in the paper. 
-
-%\subsection*{Subsection for Method}
-%Example text for subsection.
-%}
-
-%\showmatmethods{} % Display the Materials and Methods section
-
-\acknow{The authors acknowledge critical input from Sutirth Dey and Ramana Athreya at the Department of Biology, IISER Pune. We also thank Ketaki Bhagwat, Ruchika Kaul-Ghanekar, Prerna Raina, Anil Gore, and Sharmila Bhapat for useful discussions.}
+\acknow{The authors acknowledge critical input from Sutirth Dey and Ramana Athreya at the Department of Biology, IISER Pune. We also thank James Johnston, Ketaki Bhagwat, Ruchika Kaul-Ghanekar, Prerna Raina, Anil Gore, Sharmila Bhapat, and members of the Watve lab for useful discussions.}
 
 \showacknow{} % Display the acknowledgments section
+
 
 % Bibliography
 \bibliography{ci-model}
