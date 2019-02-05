@@ -91,11 +91,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>5</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -163,7 +163,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useafterword</bcf:key>
@@ -373,6 +373,8 @@
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">subentry</bcf:option>
+    <bcf:option datatype="boolean">articletitle</bcf:option>
+    <bcf:option datatype="boolean">intitle</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
     <bcf:option datatype="integer">maxnames</bcf:option>
@@ -1958,35 +1960,28 @@
     <bcf:citekey order="24">Tomasetti78</bcf:citekey>
     <bcf:citekey order="25">Martincorena2017</bcf:citekey>
     <bcf:citekey order="26">Nunney2015</bcf:citekey>
-    <bcf:citekey order="27">Caulin2011</bcf:citekey>
-    <bcf:citekey order="27">Noble2015</bcf:citekey>
-    <bcf:citekey order="27">Tollis2017b</bcf:citekey>
-    <bcf:citekey order="28">Nagy2007</bcf:citekey>
-    <bcf:citekey order="29">Hansen2000</bcf:citekey>
-    <bcf:citekey order="29">Pietras2010</bcf:citekey>
-    <bcf:citekey order="29">Hanahan2012</bcf:citekey>
-    <bcf:citekey order="29">Cabarcas2011a</bcf:citekey>
-    <bcf:citekey order="30">Archetti2015</bcf:citekey>
-    <bcf:citekey order="31">Chan2014</bcf:citekey>
-    <bcf:citekey order="32">Haslam2001</bcf:citekey>
-    <bcf:citekey order="32">Woodward2000</bcf:citekey>
-    <bcf:citekey order="32">DICKSON1987</bcf:citekey>
-    <bcf:citekey order="32">Garcia1992</bcf:citekey>
-    <bcf:citekey order="33">Cao2010</bcf:citekey>
-    <bcf:citekey order="33">Rundqvist2013</bcf:citekey>
-    <bcf:citekey order="34">Rogers2017</bcf:citekey>
-    <bcf:citekey order="35">Frank2007</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 1 -->
-  <bcf:bibdata section="1">
-    <bcf:datasource type="file" datatype="bibtex">cimodel.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="1">
-    <bcf:citekey order="1">Tomasetti78</bcf:citekey>
-    <bcf:citekey order="1">Tomasetti2017</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
+    <bcf:citekey order="27">Davis2017a</bcf:citekey>
+    <bcf:citekey order="28">Chowell2018</bcf:citekey>
+    <bcf:citekey order="30">McFarland2013</bcf:citekey>
+    <bcf:citekey order="31">McFarland2013</bcf:citekey>
+    <bcf:citekey order="32">Caulin2011</bcf:citekey>
+    <bcf:citekey order="32">Noble2015</bcf:citekey>
+    <bcf:citekey order="32">Tollis2017b</bcf:citekey>
+    <bcf:citekey order="33">Nagy2007</bcf:citekey>
+    <bcf:citekey order="34">Hansen2000</bcf:citekey>
+    <bcf:citekey order="34">Pietras2010</bcf:citekey>
+    <bcf:citekey order="34">Hanahan2012</bcf:citekey>
+    <bcf:citekey order="34">Cabarcas2011a</bcf:citekey>
+    <bcf:citekey order="35">Archetti2015</bcf:citekey>
+    <bcf:citekey order="36">Chan2014</bcf:citekey>
+    <bcf:citekey order="37">Haslam2001</bcf:citekey>
+    <bcf:citekey order="37">Woodward2000</bcf:citekey>
+    <bcf:citekey order="37">DICKSON1987</bcf:citekey>
+    <bcf:citekey order="37">Garcia1992</bcf:citekey>
+    <bcf:citekey order="38">Cao2010</bcf:citekey>
+    <bcf:citekey order="38">Rundqvist2013</bcf:citekey>
+    <bcf:citekey order="39">Rogers2017</bcf:citekey>
+    <bcf:citekey order="40">Frank2007</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -1996,15 +1991,6 @@
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="none/global//global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="1"
                 name="none/global//global/global"
                 type="entry"
                 sortingtemplatename="none"

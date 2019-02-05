@@ -92,8 +92,8 @@
       }
       \strng{namehash}{4d6e9fb8cb2a8d5ec0a1ce7d020a6a53}
       \strng{fullhash}{9849899bd791f9ab20ee2ac10fee44b2}
-      \strng{bibnamehash}{4d6e9fb8cb2a8d5ec0a1ce7d020a6a53}
-      \strng{authorbibnamehash}{4d6e9fb8cb2a8d5ec0a1ce7d020a6a53}
+      \strng{bibnamehash}{9849899bd791f9ab20ee2ac10fee44b2}
+      \strng{authorbibnamehash}{9849899bd791f9ab20ee2ac10fee44b2}
       \strng{authornamehash}{4d6e9fb8cb2a8d5ec0a1ce7d020a6a53}
       \strng{authorfullhash}{9849899bd791f9ab20ee2ac10fee44b2}
       \field{sortinit}{1}
@@ -467,11 +467,11 @@
            given={Bert},
            giveni={B\bibinitperiod}}}%
       }
-      \strng{namehash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{namehash}{fec60d37ad50e8bca08333cde829613b}
       \strng{fullhash}{ed31d75a8891fec32fe8093df2f793c1}
       \strng{bibnamehash}{ed31d75a8891fec32fe8093df2f793c1}
       \strng{authorbibnamehash}{ed31d75a8891fec32fe8093df2f793c1}
-      \strng{authornamehash}{ed31d75a8891fec32fe8093df2f793c1}
+      \strng{authornamehash}{fec60d37ad50e8bca08333cde829613b}
       \strng{authorfullhash}{ed31d75a8891fec32fe8093df2f793c1}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
@@ -1010,11 +1010,11 @@
            given={Richard},
            giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{c703f23ee0a0da52ed3fb9dde9d26124}
+      \strng{namehash}{02efcce51039c140cdb0278f84dce05e}
       \strng{fullhash}{c703f23ee0a0da52ed3fb9dde9d26124}
       \strng{bibnamehash}{c703f23ee0a0da52ed3fb9dde9d26124}
       \strng{authorbibnamehash}{c703f23ee0a0da52ed3fb9dde9d26124}
-      \strng{authornamehash}{c703f23ee0a0da52ed3fb9dde9d26124}
+      \strng{authornamehash}{02efcce51039c140cdb0278f84dce05e}
       \strng{authorfullhash}{c703f23ee0a0da52ed3fb9dde9d26124}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
@@ -1103,11 +1103,11 @@
       \list{publisher}{1}{%
         {Nature Publishing Group}%
       }
-      \strng{namehash}{c8ad9647e81a82a0a84350fe44ffe6d5}
+      \strng{namehash}{12ff2808e84afd88c800077acc4b2c7b}
       \strng{fullhash}{c8ad9647e81a82a0a84350fe44ffe6d5}
       \strng{bibnamehash}{c8ad9647e81a82a0a84350fe44ffe6d5}
       \strng{authorbibnamehash}{c8ad9647e81a82a0a84350fe44ffe6d5}
-      \strng{authornamehash}{c8ad9647e81a82a0a84350fe44ffe6d5}
+      \strng{authornamehash}{12ff2808e84afd88c800077acc4b2c7b}
       \strng{authorfullhash}{c8ad9647e81a82a0a84350fe44ffe6d5}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
@@ -1195,11 +1195,11 @@
       \list{publisher}{1}{%
         {Oxford University Press}%
       }
-      \strng{namehash}{629a9bce7bc11bbff2b68d4eac7b6efb}
+      \strng{namehash}{8d800aedca0e6fbd6404667e78f8b8af}
       \strng{fullhash}{629a9bce7bc11bbff2b68d4eac7b6efb}
       \strng{bibnamehash}{629a9bce7bc11bbff2b68d4eac7b6efb}
       \strng{authorbibnamehash}{629a9bce7bc11bbff2b68d4eac7b6efb}
-      \strng{authornamehash}{629a9bce7bc11bbff2b68d4eac7b6efb}
+      \strng{authornamehash}{8d800aedca0e6fbd6404667e78f8b8af}
       \strng{authorfullhash}{629a9bce7bc11bbff2b68d4eac7b6efb}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
@@ -1247,11 +1247,11 @@
            given={Michael\bibnamedelima E},
            giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{da5039d3886b05ead99856fd6846187b}
+      \strng{namehash}{6c6bfc13b0e386a0fa9e947b564dff6c}
       \strng{fullhash}{da5039d3886b05ead99856fd6846187b}
       \strng{bibnamehash}{da5039d3886b05ead99856fd6846187b}
       \strng{authorbibnamehash}{da5039d3886b05ead99856fd6846187b}
-      \strng{authornamehash}{da5039d3886b05ead99856fd6846187b}
+      \strng{authornamehash}{6c6bfc13b0e386a0fa9e947b564dff6c}
       \strng{authorfullhash}{da5039d3886b05ead99856fd6846187b}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
@@ -1302,11 +1302,11 @@
       \list{publisher}{1}{%
         {BMC Biology}%
       }
-      \strng{namehash}{efb1064299995b1e629e56882f904499}
+      \strng{namehash}{425fd5dd412199522b7896e204d5a854}
       \strng{fullhash}{efb1064299995b1e629e56882f904499}
       \strng{bibnamehash}{efb1064299995b1e629e56882f904499}
       \strng{authorbibnamehash}{efb1064299995b1e629e56882f904499}
-      \strng{authornamehash}{efb1064299995b1e629e56882f904499}
+      \strng{authornamehash}{425fd5dd412199522b7896e204d5a854}
       \strng{authorfullhash}{efb1064299995b1e629e56882f904499}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
@@ -1710,6 +1710,127 @@
       \endverb
       \keyw{Cancer,Evolution,Hallmarks,Multistage carcinogenesis,Mutation-selection balance,Peto's paradox}
     \endentry
+    \entry{Davis2017a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0f4131540f2859c436336c939988d8c8}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=df9b7fd0c11ac8c35f743c3447fec6f9}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Ruli},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c33b70b3ea393a7623faf19a45601c90}{%
+           family={Navin},
+           familyi={N\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{728c144f7451979c4d80665a06c14c79}
+      \strng{fullhash}{c073c421d994902ef8ee74d0c3bf7d20}
+      \strng{bibnamehash}{c073c421d994902ef8ee74d0c3bf7d20}
+      \strng{authorbibnamehash}{c073c421d994902ef8ee74d0c3bf7d20}
+      \strng{authornamehash}{728c144f7451979c4d80665a06c14c79}
+      \strng{authorfullhash}{c073c421d994902ef8ee74d0c3bf7d20}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intratumor heterogeneity has been widely reported in human cancers, but our knowledge of how this genetic diversity emerges over time remains limited. A central challenge in studying tumor evolution is the difficulty in collecting longitudinal samples from cancer patients. Consequently, most studies have inferred tumor evolution from single time-point samples, providing very indirect information. These data have led to several competing models of tumor evolution: linear, branching, neutral and punctuated. Each model makes different assumptions regarding the timing of mutations and selection of clones, and therefore has different implications for the diagnosis and therapeutic treatment of cancer patients. Furthermore, emerging evidence suggests that models may change during tumor progression or operate concurrently for different classes of mutations. Finally, we discuss data that supports the theory that most human tumors evolve from a single cell in the normal tissue.}
+      \field{issn}{0304419X}
+      \field{journaltitle}{Biochimica et Biophysica Acta (BBA) - Reviews on Cancer}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{{Tumor evolution: Linear, branching, neutral or punctuated?}}
+      \field{volume}{1867}
+      \field{year}{2017}
+      \field{pages}{151\bibrangedash 161}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.bbcan.2017.01.003
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/Documents/Mendeley Desktop/Davis, Gao, Navin{\_}2017{\_}Tumor evolution Linear, branching, neutral or punctuated.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5558210/pdf/nihms887444.pdf http://linkinghub.elsevier.com/retrieve/pii/S0304419X17300197
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5558210/pdf/nihms887444.pdf%20http://linkinghub.elsevier.com/retrieve/pii/S0304419X17300197
+      \endverb
+      \keyw{Cancer biology,Cancer genomics,Genome evolution,Intratumor heterogeneity,Single cell genomics,Tumor evolution}
+    \endentry
+    \entry{Chowell2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=acbce8226a1016396355e8cb899ce847}{%
+           family={Chowell},
+           familyi={C\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+        {{hash=38a96475121c1c58aace0881ebe4d9b8}{%
+           family={Napier},
+           familyi={N\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9bb90269dc7a2020d45634c0e778d786}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Rohan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8fdc35d455ef9e684551773db4741eaa}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Karen\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ecf8541321829e660300fd8663239548}{%
+           family={Maley},
+           familyi={M\bibinitperiod},
+           given={Carlo\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=797eeca0b13dec6cb6911fa5609a263b}{%
+           family={{Wilson Sayres}},
+           familyi={W\bibinitperiod},
+           given={Melissa\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for Cancer Research}%
+      }
+      \strng{namehash}{9842ec2f1096b7a22f6839f8b2b0ef0e}
+      \strng{fullhash}{9c47b69f526b6850a277739d168508c9}
+      \strng{bibnamehash}{9842ec2f1096b7a22f6839f8b2b0ef0e}
+      \strng{authorbibnamehash}{9842ec2f1096b7a22f6839f8b2b0ef0e}
+      \strng{authornamehash}{9842ec2f1096b7a22f6839f8b2b0ef0e}
+      \strng{authorfullhash}{9c47b69f526b6850a277739d168508c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Increasing evidence shows that tumor clonal architectures are often the consequence of a complex branching process, yet little is known about the expected dynamics and extent to which these divergent subclonal expansions occur. Here, we develop and implement more than 88,000 instances of a stochastic evolutionary model simulating genetic drift and neoplastic progression. Under different combinations of population genetic parameter values, including those estimated for colorectal cancer and glioblastoma multiforme, the distribution of sizes of subclones carrying driver mutations had a heavy right tail at the time of tumor detection, with only 1 to 4 dominant clones present at ≥10{\%} frequency. In contrast, the vast majority of subclones were present at {<}10{\%} frequency, many of which had higher fitness than currently dominant clones. The number of dominant clones (≥10{\%} frequency) in a tumor correlated strongly with the number of subclones ({<}10{\%} of the tumor). Overall, these subclones were frequently below current standard detection thresholds, frequently harbored treatment-resistant mutations, and were more common in slow-growing tumors.Significance: The model presented in this paper addresses tumor heterogeneity by framing expectations for the number of resistant subclones in a tumor, with implications for future studies of the evolution of therapeutic resistance. Cancer Res; 78(3); 830-9. {©}2017 AACR.}
+      \field{issn}{15387445}
+      \field{journaltitle}{Cancer Research}
+      \field{month}{2}
+      \field{number}{3}
+      \field{title}{{Modeling the subclonal evolution of cancer cell populations}}
+      \field{volume}{78}
+      \field{year}{2018}
+      \field{pages}{830\bibrangedash 839}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1158/0008-5472.CAN-17-1229
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/Documents/Mendeley Desktop/Chowell et al.{\_}2018{\_}Modeling the subclonal evolution of cancer cell populations.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-17-1229
+      \endverb
+      \verb{url}
+      \verb http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-17-1229
+      \endverb
+    \endentry
     \entry{Caulin2011}{misc}{}
       \name{author}{2}{}{%
         {{hash=edae1ffe411cba332643d646c1fe1079}{%
@@ -1732,8 +1853,8 @@
       \strng{authorbibnamehash}{d9a5e46806990c6a3537a4075d22e91f}
       \strng{authornamehash}{d9a5e46806990c6a3537a4075d22e91f}
       \strng{authorfullhash}{d9a5e46806990c6a3537a4075d22e91f}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The evolution of multicellularity required the suppression of cancer. If every cell has some chance of becoming cancerous, large, long-lived organisms should have an increased risk of developing cancer compared with small, short-lived organisms. The lack of correlation between body size and cancer risk is known as Peto's paradox. Animals with 1000 times more cells than humans do not exhibit an increased cancer risk, suggesting that natural mechanisms can suppress cancer 1000 times more effectively than is done in human cells. Because cancer has proven difficult to cure, attention has turned to cancer prevention. In this review, similar to pharmaceutical companies mining natural products, we seek to understand how evolution has suppressed cancer to develop ultimately improved cancer prevention in humans. {©} 2011 Elsevier Ltd.}
@@ -1783,8 +1904,8 @@
       \strng{authorbibnamehash}{31309c2b536579b95c2c939f2ca52e70}
       \strng{authornamehash}{31309c2b536579b95c2c939f2ca52e70}
       \strng{authorfullhash}{31309c2b536579b95c2c939f2ca52e70}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The changes in tissue architecture that accompany the development of breast cancer have been the focus of investigations aimed at developing new cancer therapeutics. As we learn more about the normal mammary gland, we have begun to understand the complex signaling pathways underlying the dramatic shifts in the structure and function of breast tissue. Integrin-, growth factor-, and steroid hormone-signaling pathways all play an important part in maintaining tissue architecture; disruption of the delicate balance of signaling results in dramatic changes in the way cells interact with each other and with the extracellular matrix, leading to breast cancer. The extracellular matrix itself plays a central role in coordinating these signaling processes. In this review, we consider the interrelationships between the extracellular matrix, integrins, growth factors, and steroid hormones in mammary gland development and function.}
@@ -1824,14 +1945,14 @@
       \list{publisher}{1}{%
         {Wiley Subscription Services, Inc., A Wiley Company}%
       }
-      \strng{namehash}{4638ee9d323b6cfdf686e2144a91afdf}
+      \strng{namehash}{516cf542abf0b9f52284cc40542ff5e8}
       \strng{fullhash}{4638ee9d323b6cfdf686e2144a91afdf}
       \strng{bibnamehash}{4638ee9d323b6cfdf686e2144a91afdf}
       \strng{authorbibnamehash}{4638ee9d323b6cfdf686e2144a91afdf}
-      \strng{authornamehash}{4638ee9d323b6cfdf686e2144a91afdf}
+      \strng{authornamehash}{516cf542abf0b9f52284cc40542ff5e8}
       \strng{authorfullhash}{4638ee9d323b6cfdf686e2144a91afdf}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00207136}
@@ -1868,11 +1989,11 @@
            given={Gerhard},
            giveni={G\bibinitperiod}}}%
       }
-      \strng{namehash}{64f22cc28356cbf32382133e97ecf071}
+      \strng{namehash}{dc9a097b9194cc4cc5fb606888339a76}
       \strng{fullhash}{64f22cc28356cbf32382133e97ecf071}
       \strng{bibnamehash}{64f22cc28356cbf32382133e97ecf071}
       \strng{authorbibnamehash}{64f22cc28356cbf32382133e97ecf071}
-      \strng{authornamehash}{64f22cc28356cbf32382133e97ecf071}
+      \strng{authornamehash}{dc9a097b9194cc4cc5fb606888339a76}
       \strng{authorfullhash}{64f22cc28356cbf32382133e97ecf071}
       \field{sortinit}{3}
       \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
@@ -2053,8 +2174,8 @@
       }
       \strng{namehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
       \strng{fullhash}{85790366a43a0c5b7b3873ee7e03f32c}
-      \strng{bibnamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
-      \strng{authorbibnamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
+      \strng{bibnamehash}{85790366a43a0c5b7b3873ee7e03f32c}
+      \strng{authorbibnamehash}{85790366a43a0c5b7b3873ee7e03f32c}
       \strng{authornamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
       \strng{authorfullhash}{85790366a43a0c5b7b3873ee7e03f32c}
       \field{sortinit}{3}
@@ -2139,8 +2260,8 @@
       }
       \strng{namehash}{86be1e3559594513f13bc8d95c97fdbf}
       \strng{fullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \strng{bibnamehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{authorbibnamehash}{86be1e3559594513f13bc8d95c97fdbf}
+      \strng{bibnamehash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
+      \strng{authorbibnamehash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
       \strng{authornamehash}{86be1e3559594513f13bc8d95c97fdbf}
       \strng{authorfullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
       \field{sortinit}{3}
@@ -2246,111 +2367,6 @@
       \verb http://www.nature.com/doifinder/10.1038/nmeth.4297
       \endverb
       \keyw{Cancer genomics,Cancer models}
-    \endentry
-  \enddatalist
-\endrefsection
-
-\refsection{1}
-  \datalist[entry]{none/global//global/global}
-    \entry{Tomasetti78}{article}{}
-      \name{author}{2}{}{%
-        {{hash=670eb09a247acc894959047de584f8d4}{%
-           family={Tomasetti},
-           familyi={T\bibinitperiod},
-           given={Cristian},
-           giveni={C\bibinitperiod}}}%
-        {{hash=bbb27aa05dcd963d1c27727276613af6}{%
-           family={Vogelstein},
-           familyi={V\bibinitperiod},
-           given={Bert},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Association for the Advancement of Science}%
-      }
-      \strng{namehash}{34e24b31fd22b25bbd2da18300ad5994}
-      \strng{fullhash}{34e24b31fd22b25bbd2da18300ad5994}
-      \strng{bibnamehash}{34e24b31fd22b25bbd2da18300ad5994}
-      \strng{authorbibnamehash}{34e24b31fd22b25bbd2da18300ad5994}
-      \strng{authornamehash}{34e24b31fd22b25bbd2da18300ad5994}
-      \strng{authorfullhash}{34e24b31fd22b25bbd2da18300ad5994}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Why do some tissues give rise to cancer in humans a million times more frequently than others? Tomasetti and Vogelstein conclude that these differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, they found a strong correlation extending over five orders of magnitude. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this {“}bad luck{”} component explains a far greater number of cancers than do hereditary and environmental factors.Science, this issue p. 78 Some tissue types give rise to human cancers millions of times more often than other tissue types. Although this has been recognized for more than a century, it has never been explained. Here, we show that the lifetime risk of cancers of many different types is strongly correlated (0.81) with the total number of divisions of the normal self-renewing cells maintaining that tissue{’}s homeostasis. These results suggest that only a third of the variation in cancer risk among tissues is attributable to environmental factors or inherited predispositions. The majority is due to {“}bad luck,{”} that is, random mutations arising during DNA replication in normal, noncancerous stem cells. This is important not only for understanding the disease but also for designing strategies to limit the mortality it causes.}
-      \field{issn}{0036-8075}
-      \field{journaltitle}{Science}
-      \field{number}{6217}
-      \field{title}{Variation in cancer risk among tissues can be explained by the number of stem cell divisions}
-      \field{volume}{347}
-      \field{year}{2015}
-      \field{pages}{78\bibrangedash 81}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1126/science.1260825
-      \endverb
-      \verb{eprint}
-      \verb http://science.sciencemag.org/content/347/6217/78.full.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://science.sciencemag.org/content/347/6217/78
-      \endverb
-      \verb{url}
-      \verb http://science.sciencemag.org/content/347/6217/78
-      \endverb
-    \endentry
-    \entry{Tomasetti2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=670eb09a247acc894959047de584f8d4}{%
-           family={Tomasetti},
-           familyi={T\bibinitperiod},
-           given={Cristian},
-           giveni={C\bibinitperiod}}}%
-        {{hash=da32ce59ebe295c8c0c7b1e010237b74}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Lu},
-           giveni={L\bibinitperiod}}}%
-        {{hash=bbb27aa05dcd963d1c27727276613af6}{%
-           family={Vogelstein},
-           familyi={V\bibinitperiod},
-           given={Bert},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{ed31d75a8891fec32fe8093df2f793c1}
-      \strng{fullhash}{ed31d75a8891fec32fe8093df2f793c1}
-      \strng{bibnamehash}{ed31d75a8891fec32fe8093df2f793c1}
-      \strng{authorbibnamehash}{ed31d75a8891fec32fe8093df2f793c1}
-      \strng{authornamehash}{ed31d75a8891fec32fe8093df2f793c1}
-      \strng{authorfullhash}{ed31d75a8891fec32fe8093df2f793c1}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Cancers are caused by mutations that may be inherited, induced by environmental factors, or result from DNA replication errors (R). We studied the relationship between the number of normal stem cell divisions and the risk of 17 cancer types in 69 countries throughout the world. The data revealed a strong correlation (median = 0.80) between cancer incidence and normal stem cell divisions in all countries, regardless of their environment. The major role of R mutations in cancer etiology was supported by an independent approach, based solely on cancer genome sequencing and epidemiological data, which suggested that R mutations are responsible for two-thirds of the mutations in human cancers. All of these results are consistent with epidemiological estimates of the fraction of cancers that can be prevented by changes in the environment. Moreover, they accentuate the importance of early detection and intervention to reduce deaths from the many cancers arising from unavoidable R mutations.}
-      \field{isbn}{9780195311174}
-      \field{issn}{0036-8075}
-      \field{journaltitle}{Science}
-      \field{month}{3}
-      \field{number}{6331}
-      \field{title}{{Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention}}
-      \field{volume}{355}
-      \field{year}{2017}
-      \field{pages}{1330\bibrangedash 1334}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1126/science.aaf9011
-      \endverb
-      \verb{file}
-      \verb :home/iiser/Documents/Mendeley Desktop//Tomasetti, Li, Vogelstein{\_}2017{\_}Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencemag.org/lookup/doi/10.1126/science.aaf9011 http://science.sciencemag.org/content/sci/355/6331/1330.full.pdf
-      \endverb
-      \verb{url}
-      \verb http://www.sciencemag.org/lookup/doi/10.1126/science.aaf9011%20http://science.sciencemag.org/content/sci/355/6331/1330.full.pdf
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

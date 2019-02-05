@@ -1,57 +1,50 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'cimodel.blg'
-[19] biber:313> INFO - === Mon Feb  4, 2019, 14:16:00
-[35] Biber.pm:371> INFO - Reading 'cimodel.bcf'
-[82] Biber.pm:857> INFO - Found 37 citekeys in bib section 0
-[83] Biber.pm:857> INFO - Found 2 citekeys in bib section 1
-[83] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[97] Biber.pm:3981> INFO - Processing section 0
-[106] Biber.pm:4154> INFO - Looking for bibtex format file 'cimodel.bib' for section 0
-[113] bibtex.pm:1468> INFO - LaTeX decoding ...
-[202] bibtex.pm:1294> INFO - Found BibTeX data source 'cimodel.bib'
-[211] Utils.pm:169> WARN - month field 'mar' in entry 'ARMITAGE1954' is not an integer - this will probably not sort properly.
-[230] Utils.pm:169> WARN - ISBN '1091-6490 (Electronic)$\backslash$r0027-8424 (Linking)' in entry 'McFarland2013' is invalid - run biber with '--validate_datamodel' for details.
-[260] Utils.pm:169> WARN - ISBN '1476-4687' in entry 'Blokzijl2016' is invalid - run biber with '--validate_datamodel' for details.
-[260] Utils.pm:169> WARN - month field 'oct' in entry 'Blokzijl2016' is not an integer - this will probably not sort properly.
-[273] Utils.pm:169> WARN - ISBN '1878-3686 (Electronic) 1535-6108 (Linking)' in entry 'Mina2017' is invalid - run biber with '--validate_datamodel' for details.
-[274] Utils.pm:169> WARN - month field 'aug' in entry 'Mina2017' is not an integer - this will probably not sort properly.
-[282] Utils.pm:169> WARN - month field 'mar' in entry 'Tomasetti2017' is not an integer - this will probably not sort properly.
-[293] Utils.pm:169> WARN - ISBN '1471-0080 (Electronic)$\backslash$r1471-0072 (Linking)' in entry 'Schafer2008' is invalid - run biber with '--validate_datamodel' for details.
-[300] Utils.pm:169> WARN - month field 'oct' in entry 'Nowell1976' is not an integer - this will probably not sort properly.
-[317] Utils.pm:169> WARN - month field 'jul' in entry 'Cao2010' is not an integer - this will probably not sort properly.
-[330] Utils.pm:169> WARN - ISBN '1932-6203 (Electronic)$\backslash$r1932-6203 (Linking)' in entry 'Rundqvist2013' is invalid - run biber with '--validate_datamodel' for details.
-[333] Utils.pm:169> WARN - ISBN '1744-764X (Electronic){\$}\backslash{\$}r1474-0338 (Linking)' in entry 'AmericanCancerSociety2016' is invalid - run biber with '--validate_datamodel' for details.
-[338] Utils.pm:169> WARN - month field 'mar' in entry 'Harding2012' is not an integer - this will probably not sort properly.
-[341] Utils.pm:169> WARN - ISBN 'ISBN-13: 978-0-691-13366-9' in entry 'Frank2007' is invalid - run biber with '--validate_datamodel' for details.
-[348] Utils.pm:169> WARN - ISBN '0091-6765 (Print)$\backslash$r0091-6765 (Linking)' in entry 'Tennant1993' is invalid - run biber with '--validate_datamodel' for details.
-[348] Utils.pm:169> WARN - month field 'oct' in entry 'Tennant1993' is not an integer - this will probably not sort properly.
-[353] Utils.pm:169> WARN - ISBN '1540-7063' in entry 'Nagy2007' is invalid - run biber with '--validate_datamodel' for details.
-[353] Utils.pm:169> WARN - month field 'may' in entry 'Nagy2007' is not an integer - this will probably not sort properly.
-[358] Utils.pm:169> WARN - month field 'jul' in entry 'Noble2015' is not an integer - this will probably not sort properly.
-[363] Utils.pm:169> WARN - month field 'dec' in entry 'Tollis2017b' is not an integer - this will probably not sort properly.
-[396] Utils.pm:169> WARN - ISBN '1097-4172 (Electronic)$\backslash$r0092-8674 (Linking)' in entry 'Stephens2011' is invalid - run biber with '--validate_datamodel' for details.
-[401] Utils.pm:169> WARN - ISBN '1471-2407 (Electronic){\$}\backslash{\$}r1471-2407 (Linking)' in entry 'Calabrese2010' is invalid - run biber with '--validate_datamodel' for details.
-[401] Utils.pm:169> WARN - month field 'dec' in entry 'Calabrese2010' is not an integer - this will probably not sort properly.
-[412] Utils.pm:169> WARN - ISBN '1097-4172 (Electronic)$\backslash$r0092-8674 (Linking)' in entry 'Martincorena2017' is invalid - run biber with '--validate_datamodel' for details.
-[415] Utils.pm:169> WARN - ISBN '1471-2970 (Electronic)$\backslash$r0962-8436 (Linking)' in entry 'Nunney2015' is invalid - run biber with '--validate_datamodel' for details.
-[416] Utils.pm:169> WARN - month field 'jul' in entry 'Nunney2015' is not an integer - this will probably not sort properly.
-[420] Utils.pm:169> WARN - ISBN '0169-5347' in entry 'Caulin2011' is invalid - run biber with '--validate_datamodel' for details.
-[420] Utils.pm:169> WARN - month field 'apr' in entry 'Caulin2011' is not an integer - this will probably not sort properly.
-[445] Utils.pm:169> WARN - ISBN '1471-2407 (Electronic)$\backslash$r1471-2407 (Linking)' in entry 'Chan2014' is invalid - run biber with '--validate_datamodel' for details.
-[445] Utils.pm:169> WARN - month field 'dec' in entry 'Chan2014' is not an integer - this will probably not sort properly.
-[465] Utils.pm:169> WARN - month field 'dec' in entry 'Garcia1992' is not an integer - this will probably not sort properly.
-[473] Utils.pm:169> WARN - month field 'may' in entry 'Rogers2017' is not an integer - this will probably not sort properly.
-[496] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[497] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[497] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[497] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
-[522] Biber.pm:3981> INFO - Processing section 1
-[522] Biber.pm:4154> INFO - Looking for bibtex format file 'cimodel.bib' for section 1
-[530] Utils.pm:169> WARN - month field 'mar' in entry 'Tomasetti2017' is not an integer - this will probably not sort properly.
-[537] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[537] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[537] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[537] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
-[539] bbl.pm:617> INFO - Writing 'cimodel.bbl' with encoding 'UTF-8'
-[560] bbl.pm:720> INFO - Output to cimodel.bbl
-[561] Biber.pm:110> INFO - WARNINGS: 33
+[26] biber:313> INFO - === Tue Feb  5, 2019, 14:40:02
+[47] Biber.pm:371> INFO - Reading 'cimodel.bcf'
+[106] Biber.pm:857> INFO - Found 39 citekeys in bib section 0
+[118] Biber.pm:3981> INFO - Processing section 0
+[129] Biber.pm:4154> INFO - Looking for bibtex format file 'cimodel.bib' for section 0
+[141] bibtex.pm:1468> INFO - LaTeX decoding ...
+[255] bibtex.pm:1294> INFO - Found BibTeX data source 'cimodel.bib'
+[265] Utils.pm:169> WARN - month field 'mar' in entry 'ARMITAGE1954' is not an integer - this will probably not sort properly.
+[293] Utils.pm:169> WARN - ISBN '1091-6490 (Electronic)$\backslash$r0027-8424 (Linking)' in entry 'McFarland2013' is invalid - run biber with '--validate_datamodel' for details.
+[334] Utils.pm:169> WARN - ISBN '1476-4687' in entry 'Blokzijl2016' is invalid - run biber with '--validate_datamodel' for details.
+[335] Utils.pm:169> WARN - month field 'oct' in entry 'Blokzijl2016' is not an integer - this will probably not sort properly.
+[353] Utils.pm:169> WARN - ISBN '1878-3686 (Electronic) 1535-6108 (Linking)' in entry 'Mina2017' is invalid - run biber with '--validate_datamodel' for details.
+[353] Utils.pm:169> WARN - month field 'aug' in entry 'Mina2017' is not an integer - this will probably not sort properly.
+[366] Utils.pm:169> WARN - month field 'mar' in entry 'Tomasetti2017' is not an integer - this will probably not sort properly.
+[381] Utils.pm:169> WARN - ISBN '1471-0080 (Electronic)$\backslash$r1471-0072 (Linking)' in entry 'Schafer2008' is invalid - run biber with '--validate_datamodel' for details.
+[392] Utils.pm:169> WARN - month field 'oct' in entry 'Nowell1976' is not an integer - this will probably not sort properly.
+[415] Utils.pm:169> WARN - month field 'jul' in entry 'Cao2010' is not an integer - this will probably not sort properly.
+[433] Utils.pm:169> WARN - ISBN '1932-6203 (Electronic)$\backslash$r1932-6203 (Linking)' in entry 'Rundqvist2013' is invalid - run biber with '--validate_datamodel' for details.
+[437] Utils.pm:169> WARN - ISBN '1744-764X (Electronic){\$}\backslash{\$}r1474-0338 (Linking)' in entry 'AmericanCancerSociety2016' is invalid - run biber with '--validate_datamodel' for details.
+[445] Utils.pm:169> WARN - month field 'mar' in entry 'Harding2012' is not an integer - this will probably not sort properly.
+[449] Utils.pm:169> WARN - ISBN 'ISBN-13: 978-0-691-13366-9' in entry 'Frank2007' is invalid - run biber with '--validate_datamodel' for details.
+[461] Utils.pm:169> WARN - ISBN '0091-6765 (Print)$\backslash$r0091-6765 (Linking)' in entry 'Tennant1993' is invalid - run biber with '--validate_datamodel' for details.
+[461] Utils.pm:169> WARN - month field 'oct' in entry 'Tennant1993' is not an integer - this will probably not sort properly.
+[467] Utils.pm:169> WARN - ISBN '1540-7063' in entry 'Nagy2007' is invalid - run biber with '--validate_datamodel' for details.
+[467] Utils.pm:169> WARN - month field 'may' in entry 'Nagy2007' is not an integer - this will probably not sort properly.
+[476] Utils.pm:169> WARN - month field 'jul' in entry 'Noble2015' is not an integer - this will probably not sort properly.
+[482] Utils.pm:169> WARN - month field 'dec' in entry 'Tollis2017b' is not an integer - this will probably not sort properly.
+[532] Utils.pm:169> WARN - ISBN '1097-4172 (Electronic)$\backslash$r0092-8674 (Linking)' in entry 'Stephens2011' is invalid - run biber with '--validate_datamodel' for details.
+[537] Utils.pm:169> WARN - ISBN '1471-2407 (Electronic){\$}\backslash{\$}r1471-2407 (Linking)' in entry 'Calabrese2010' is invalid - run biber with '--validate_datamodel' for details.
+[537] Utils.pm:169> WARN - month field 'dec' in entry 'Calabrese2010' is not an integer - this will probably not sort properly.
+[551] Utils.pm:169> WARN - ISBN '1097-4172 (Electronic)$\backslash$r0092-8674 (Linking)' in entry 'Martincorena2017' is invalid - run biber with '--validate_datamodel' for details.
+[559] Utils.pm:169> WARN - ISBN '1471-2970 (Electronic)$\backslash$r0962-8436 (Linking)' in entry 'Nunney2015' is invalid - run biber with '--validate_datamodel' for details.
+[559] Utils.pm:169> WARN - month field 'jul' in entry 'Nunney2015' is not an integer - this will probably not sort properly.
+[567] Utils.pm:169> WARN - month field 'apr' in entry 'Davis2017a' is not an integer - this will probably not sort properly.
+[580] Utils.pm:169> WARN - month field 'feb' in entry 'Chowell2018' is not an integer - this will probably not sort properly.
+[585] Utils.pm:169> WARN - ISBN '0169-5347' in entry 'Caulin2011' is invalid - run biber with '--validate_datamodel' for details.
+[585] Utils.pm:169> WARN - month field 'apr' in entry 'Caulin2011' is not an integer - this will probably not sort properly.
+[620] Utils.pm:169> WARN - ISBN '1471-2407 (Electronic)$\backslash$r1471-2407 (Linking)' in entry 'Chan2014' is invalid - run biber with '--validate_datamodel' for details.
+[621] Utils.pm:169> WARN - month field 'dec' in entry 'Chan2014' is not an integer - this will probably not sort properly.
+[646] Utils.pm:169> WARN - month field 'dec' in entry 'Garcia1992' is not an integer - this will probably not sort properly.
+[659] Utils.pm:169> WARN - month field 'may' in entry 'Rogers2017' is not an integer - this will probably not sort properly.
+[691] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[691] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[691] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[692] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[727] bbl.pm:617> INFO - Writing 'cimodel.bbl' with encoding 'UTF-8'
+[757] bbl.pm:720> INFO - Output to cimodel.bbl
+[758] Biber.pm:110> INFO - WARNINGS: 34

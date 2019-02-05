@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'supplement.blg'
+[23] biber:313> INFO - === Tue Feb  5, 2019, 15:16:56
+[47] Biber.pm:371> INFO - Reading 'supplement.bcf'
+[106] Biber.pm:857> INFO - Found 4 citekeys in bib section 0
+[118] Biber.pm:3981> INFO - Processing section 0
+[130] Biber.pm:4154> INFO - Looking for bibtex format file 'cimodel.bib' for section 0
+[139] bibtex.pm:1468> INFO - LaTeX decoding ...
+[257] bibtex.pm:1294> INFO - Found BibTeX data source 'cimodel.bib'
+[290] Utils.pm:169> WARN - month field 'mar' in entry 'Tomasetti2017' is not an integer - this will probably not sort properly.
+[304] Utils.pm:169> WARN - month field 'jul' in entry 'Noble2015' is not an integer - this will probably not sort properly.
+[313] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[313] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[313] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[313] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[321] bbl.pm:617> INFO - Writing 'supplement.bbl' with encoding 'UTF-8'
+[324] bbl.pm:720> INFO - Output to supplement.bbl
+[324] Biber.pm:110> INFO - WARNINGS: 2
