@@ -1962,6 +1962,8 @@
     <bcf:citekey order="26">Nunney2015</bcf:citekey>
     <bcf:citekey order="27">Davis2017a</bcf:citekey>
     <bcf:citekey order="28">Chowell2018</bcf:citekey>
+    <bcf:citekey order="29">Aktipis2013</bcf:citekey>
+    <bcf:citekey order="29">Kareva2011</bcf:citekey>
     <bcf:citekey order="30">McFarland2013</bcf:citekey>
     <bcf:citekey order="31">McFarland2013</bcf:citekey>
     <bcf:citekey order="32">Caulin2011</bcf:citekey>
@@ -1969,19 +1971,20 @@
     <bcf:citekey order="32">Tollis2017b</bcf:citekey>
     <bcf:citekey order="33">Nagy2007</bcf:citekey>
     <bcf:citekey order="34">Hansen2000</bcf:citekey>
-    <bcf:citekey order="34">Pietras2010</bcf:citekey>
-    <bcf:citekey order="34">Hanahan2012</bcf:citekey>
-    <bcf:citekey order="34">Cabarcas2011a</bcf:citekey>
-    <bcf:citekey order="35">Archetti2015</bcf:citekey>
-    <bcf:citekey order="36">Chan2014</bcf:citekey>
-    <bcf:citekey order="37">Haslam2001</bcf:citekey>
-    <bcf:citekey order="37">Woodward2000</bcf:citekey>
-    <bcf:citekey order="37">DICKSON1987</bcf:citekey>
-    <bcf:citekey order="37">Garcia1992</bcf:citekey>
-    <bcf:citekey order="38">Cao2010</bcf:citekey>
-    <bcf:citekey order="38">Rundqvist2013</bcf:citekey>
-    <bcf:citekey order="39">Rogers2017</bcf:citekey>
-    <bcf:citekey order="40">Frank2007</bcf:citekey>
+    <bcf:citekey order="35">Pietras2010</bcf:citekey>
+    <bcf:citekey order="36">Druso2018</bcf:citekey>
+    <bcf:citekey order="37">Iyengar2016</bcf:citekey>
+    <bcf:citekey order="38">Hanahan2012</bcf:citekey>
+    <bcf:citekey order="39">Schafer2008</bcf:citekey>
+    <bcf:citekey order="40">Archetti2015</bcf:citekey>
+    <bcf:citekey order="41">Chan2014</bcf:citekey>
+    <bcf:citekey order="42">Haslam2001</bcf:citekey>
+    <bcf:citekey order="43">Woodward2000</bcf:citekey>
+    <bcf:citekey order="44">DICKSON1987</bcf:citekey>
+    <bcf:citekey order="45">Cao2010</bcf:citekey>
+    <bcf:citekey order="45">Rundqvist2013</bcf:citekey>
+    <bcf:citekey order="46">Rogers2017</bcf:citekey>
+    <bcf:citekey order="47">Frank2007</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

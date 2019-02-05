@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.20)  5 FEB 2019 15:15
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.10.12)  5 FEB 2019 17:57
  restricted system commands enabled.
 **cimodel
 (./cimodel.tex
@@ -6,11 +6,11 @@ LaTeX2e <2017-04-15>
 Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
 Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /home/vibishan/.texlive2017/texmf-var/luatex-cache/
-generic)(using read cache: /var/lib/texmf/luatex-cache/generic /home/vibishan/.t
-exlive2017/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /home/vibishan/.texlive2017/texmf-va
-r/luatex-cache/generic/names.
+llection.(using write cache: /home/iiser/.texlive2017/texmf-var/luatex-cache/gen
+eric)(using read cache: /var/lib/texmf/luatex-cache/generic /home/iiser/.texlive
+2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /home/iiser/.texlive2017/texmf-var/l
+uatex-cache/generic/names.
 luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
 -resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
 -2017-02-11.lua”.
@@ -22,8 +22,8 @@ Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /home/vibishan/.texlive2017/texmf-va
-r/luatex-cache/generic/names.
+luaotfload | conf : Root cache directory is /home/iiser/.texlive2017/texmf-var/l
+uatex-cache/generic/names.
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
@@ -34,15 +34,15 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.110 seconds
+luaotfload | main : initialization completed in 0.082 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/vibishan/.texlive2017/te
-xmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/vibishan
-/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
+luaotfload | db : Font names database loaded from /home/iiser/.texlive2017/texmf
+-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/iiser/.texl
+ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
 \c@part=\count79
 \c@section=\count80
 \c@subsection=\count81
@@ -54,7 +54,8 @@ xmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/vibishan
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
@@ -709,154 +710,156 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 42.
+Underfull \vbox (badness 2359) has occurred while \output is active []
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 45.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 42.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 45.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 45.
 
-Overfull \hbox (0.9369pt too wide) in paragraph at lines 43--44
+Overfull \hbox (0.9369pt too wide) in paragraph at lines 46--47
 []\T1/lmr/m/n/12 So-matic evo-lu-tion of can-cer is pri-mar-ily selection-limit
 ed, rather than mutation-limited. 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-] [2] [3]
+[2] [3]
 <fig1.png, id=121, 1130.7846pt x 353.4003pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package luatex.def Info: fig1.png  used on input line 92.
+Package luatex.def Info: fig1.png  used on input line 95.
 (luatex.def)             Requested size: 469.75502pt x 146.80937pt.
 <fig2.png, id=122, 742.6947pt x 578.16pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package luatex.def Info: fig2.png  used on input line 99.
+Package luatex.def Info: fig2.png  used on input line 102.
 (luatex.def)             Requested size: 281.85587pt x 219.41196pt.
 
-Overfull \hbox (2.61105pt too wide) in paragraph at lines 98--105
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 101--108
 []$[]$ $[]$ 
  []
 
-[4<./fig1.png>] [5<./fig2.png>] [6]
-<fig3.png, id=169, 817.1328pt x 325.4559pt>
+[4] [5<./fig1.png><./fig2.png>] [6]
+<fig3.png, id=170, 816.1692pt x 325.215pt>
 File: fig3.png Graphic file (type png)
 <use fig3.png>
-Package luatex.def Info: fig3.png  used on input line 133.
-(luatex.def)             Requested size: 469.75502pt x 187.09596pt.
-<fig4.png, id=170, 463.3498pt x 347.57277pt>
+Package luatex.def Info: fig3.png  used on input line 136.
+(luatex.def)             Requested size: 469.75502pt x 187.18077pt.
+<fig4.png, id=171, 463.3498pt x 347.57277pt>
 File: fig4.png Graphic file (type png)
 <use fig4.png>
-Package luatex.def Info: fig4.png  used on input line 140.
+Package luatex.def Info: fig4.png  used on input line 143.
 (luatex.def)             Requested size: 281.85587pt x 211.43037pt.
 
-Overfull \hbox (2.61105pt too wide) in paragraph at lines 139--146
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 142--149
 []$[]$ $[]$ 
  []
 
-<fig5.png, id=171, 810.3876pt x 323.0469pt>
+<fig5.png, id=172, 810.1467pt x 324.7332pt>
 File: fig5.png Graphic file (type png)
 <use fig5.png>
-Package luatex.def Info: fig5.png  used on input line 150.
-(luatex.def)             Requested size: 469.75502pt x 187.25888pt.
+Package luatex.def Info: fig5.png  used on input line 153.
+(luatex.def)             Requested size: 469.75502pt x 188.29584pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[7<./fig3.png>]
+[7]
+Underfull \vbox (badness 1097) has occurred while \output is active []
 
-LaTeX Warning: Text page 8 contains only floats.
-
-[8<./fig4.png><./fig5.png>] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+ [8<./fig3.png>] [9<./fig4.png><./fig5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []\T1/lmr/m/n/12 Epi-demi-o-log-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []\T1/lmr/m/n/12 Context-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 \T1/lmr/m/n/12 independent se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 []\T1/lmr/m/n/12 Context-dependent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 []\T1/lmr/m/n/12 To-tal in-ci-dence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 \T1/lmr/m/n/12 does not ex-ceed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 []\T1/lmr/m/n/12 Sat-u-ra-tion<100%
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 []\T1/lmr/m/n/12 Age-specific in-ci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 []\T1/lmr/m/n/12 Late-life de-cline
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []\T1/lmr/m/n/12 Sharp thresh-old
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []\T1/lmr/m/n/12 Sharp thresh-old
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 []\T1/lmr/m/n/12 Pro-gres-sive in-
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 183--184
+Underfull \hbox (badness 6348) in paragraph at lines 186--187
 \T1/lmr/m/n/12 or-ders of mag-ni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 []\T1/lmr/m/n/12 Peto's paradox-
  []
 
 
-Underfull \hbox (badness 5519) in paragraph at lines 185--185
+Underfull \hbox (badness 5519) in paragraph at lines 188--188
 \T1/lmr/m/n/12 cancer risk sat-u-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 []\T1/lmr/m/n/12 Can-cer in-ci-dence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 \T1/lmr/m/n/12 not mutation-
  []
 
@@ -864,38 +867,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--186
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4967) has occurred while \output is active []
 
  [11]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 198.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 201.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
  (./cimodel.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
 Package rerunfilecheck Info: File `cimodel.out' has not changed.
 (rerunfilecheck)             Checksum: B405DF668E297D1535827DE9EA0783F4;609.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'cimodel.run.xml'.
 
 \openout1 = cimodel.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 13988 strings out of 494480
+ 13998 strings out of 494480
  125171,794899 words of node,token memory allocated
- 524 words of node memory still in use:
-   5 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 13 attribute, 59 glue_spec, 13 attr
-ibute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:3,2:1055,3:239,4:73,5:299,6:5046,7:1284,8:109,9:224,10:20,11:5
-41
- 17513 multiletter control sequences out of 65536+600000
+ 534 words of node memory still in use:
+   5 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 14 attribute, 59 glue_spec, 14 attr
+ibute_list, 1 write, 3 pdf_action nodes
+   avail lists: 1:2,2:1100,3:190,4:82,5:407,6:6025,7:1543,8:96,9:254,10:24,11:64
+8
+ 17520 multiletter control sequences out of 65536+600000
  66 fonts using 4174919 bytes
- 44i,12n,45p,2182b,1735s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 44i,12n,45p,2525b,1735s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips
 /lm/lm-mathsy.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.
@@ -912,10 +919,10 @@ re/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on cimodel.pdf (14 pages, 2221322 bytes).
+Output written on cimodel.pdf (14 pages, 2222767 bytes).
 
-PDF statistics: 348 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
- 80 named destinations out of 1000 (max. 131072)
+PDF statistics: 361 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 131072)
  73 words of extra memory for PDF output out of 10000 (max. 100000000)
 

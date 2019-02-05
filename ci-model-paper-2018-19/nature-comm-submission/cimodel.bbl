@@ -1831,6 +1831,91 @@
       \verb http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-17-1229
       \endverb
     \endentry
+    \entry{Aktipis2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d26712a9b7a1404b5b7c6a06c76ecdef}{%
+           family={Aktipis},
+           familyi={A\bibinitperiod},
+           given={C.\bibnamedelimi Athena},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bba7d612cf8681f532d6a121567eadbd}{%
+           family={Nesse},
+           familyi={N\bibinitperiod},
+           given={Randolph\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d88c64cff162d11ed40dce1f4ee06fa9}
+      \strng{fullhash}{d88c64cff162d11ed40dce1f4ee06fa9}
+      \strng{bibnamehash}{d88c64cff162d11ed40dce1f4ee06fa9}
+      \strng{authorbibnamehash}{d88c64cff162d11ed40dce1f4ee06fa9}
+      \strng{authornamehash}{d88c64cff162d11ed40dce1f4ee06fa9}
+      \strng{authorfullhash}{d88c64cff162d11ed40dce1f4ee06fa9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{New applications of evolutionary biology are transforming our understanding of cancer. The articles in this special issue provide many specific examples, such as microorganisms inducing cancers, the significance of within-tumor heterogeneity, and the possibility that lower dose chemotherapy may sometimes promote longer survival. Underlying these specific advances is a large-scale transformation, as cancer research incorporates evolutionary methods into its toolkit, and asks new evolutionary questions about why we are vulnerable to cancer. Evolution explains why cancer exists at all, how neoplasms grow, why cancer is remarkably rare, and why it occurs despite powerful cancer suppression mechanisms. Cancer exists because of somatic selection; mutations in somatic cells result in some dividing faster than others, in some cases generating neoplasms. Neoplasms grow, or do not, in complex cellular ecosystems. Cancer is relatively rare because of natural selection; our genomes were derived disproportionally from individuals with effective mechanisms for suppressing cancer. Cancer occurs nonetheless for the same six evolutionary reasons that explain why we remain vulnerable to other diseases. These four principles-cancers evolve by somatic selection, neoplasms grow in complex ecosystems, natural selection has shaped powerful cancer defenses, and the limitations of those defenses have evolutionary explanations-provide a foundation for understanding, preventing, and treating cancer.}
+      \field{isbn}{1752-4571 (Electronic)$\backslash$r1752-4571 (Linking)}
+      \field{issn}{17524571}
+      \field{journaltitle}{Evolutionary Applications}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Evolutionary foundations for cancer biology}}
+      \field{volume}{6}
+      \field{year}{2013}
+      \field{pages}{144\bibrangedash 159}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1111/eva.12034
+      \endverb
+      \verb{file}
+      \verb :home/iiser/Documents/Mendeley Desktop//Aktipis, Nesse{\_}2013{\_}Evolutionary foundations for cancer biology.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1111/eva.12034
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/eva.12034
+      \endverb
+      \keyw{Darwinian,Ecological,Evolutionary medicine,Mismatch,Neoplastic,Vulnerability,darwinian,ecological,evolutionary medicine,mismatch,neoplastic,vulnerability}
+    \endentry
+    \entry{Kareva2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f293c75c2a001a0784e550a9615c206a}{%
+           family={Kareva},
+           familyi={K\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Neoplasia Press Inc}%
+      }
+      \strng{namehash}{f293c75c2a001a0784e550a9615c206a}
+      \strng{fullhash}{f293c75c2a001a0784e550a9615c206a}
+      \strng{bibnamehash}{f293c75c2a001a0784e550a9615c206a}
+      \strng{authorbibnamehash}{f293c75c2a001a0784e550a9615c206a}
+      \strng{authornamehash}{f293c75c2a001a0784e550a9615c206a}
+      \strng{authorfullhash}{f293c75c2a001a0784e550a9615c206a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 2008, Pienta et al. (Transl Oncol. 2008;1:158-164) introduced the term ecological therapy for cancer treatment and, in particular, emphasized that destruction of the tumor microenvironment would be more effective than just killing the cells that inhabit it. Proposed here is an expansion on the idea of ecological therapy of cancer, incorporating 1) literature on species invasion, i.e., a right cancerous clone needs to be at the right place at the right time to actually invade its environment, and 2) the literature on niche construction, that is, the idea that once a tumor is formed, cancer cells they modify their microenvironment (niche construction) by changing pH through glycolysis, secreting growth factors and recruiting tumor-associated macrophages to promote cell growth, activating fibroblasts, evading predation from immune system, making the cancer that much more difficult to eradicate. Paleontological literature suggests that the largestmass extinctions occurred when environmental stress that would weaken the population was coupled with some pulse destructive event that caused extensive mortality. To have the same effect on cells in the tumor, rather than, or at least in addition to, killing the cells, one would also need to target the niche that they created for themselves.}
+      \field{issn}{19365233}
+      \field{journaltitle}{Translational Oncology}
+      \field{number}{5}
+      \field{title}{{What Can Ecology Teach Us About Cancer?}}
+      \field{volume}{4}
+      \field{year}{2011}
+      \field{pages}{266\bibrangedash 270}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1593/tlo.11154
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/PhD/Research/all{\_}reading/Kareva{\_}2011{\_}What Can Ecology Teach Us About Cancer.pdf:pdf
+      \endverb
+    \endentry
     \entry{Caulin2011}{misc}{}
       \name{author}{2}{}{%
         {{hash=edae1ffe411cba332643d646c1fe1079}{%
@@ -1924,52 +2009,100 @@
       \verb :home/vibishan/PhD/Research/all{\_}reading/Hansen, Bissell{\_}2000{\_}Tissue architecture and breast cancer the role of extracellular matrix and steroid hormones.pdf:pdf
       \endverb
     \endentry
-    \entry{Cabarcas2011a}{article}{}
-      \name{author}{3}{}{%
-        {{hash=995ac3545e345acbd5d4bf8d165486f4}{%
-           family={Cabarcas},
-           familyi={C\bibinitperiod},
-           given={Stephanie\bibnamedelima M.},
-           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=05d60dfedeb4a5e50084c015a521c7d8}{%
-           family={Mathews},
-           familyi={M\bibinitperiod},
-           given={Lesley\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=0b5761b43c7c6ab0179885e32c6db046}{%
-           family={Farrar},
+    \entry{Druso2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fbc9a2b98e2a4dbf1a5eb65edafa4223}{%
+           family={Druso},
+           familyi={D\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7c9f4c01230c3319837b95216868f6b9}{%
+           family={Fischbach},
            familyi={F\bibinitperiod},
-           given={William\bibnamedelima L.},
-           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Wiley Subscription Services, Inc., A Wiley Company}%
-      }
-      \strng{namehash}{516cf542abf0b9f52284cc40542ff5e8}
-      \strng{fullhash}{4638ee9d323b6cfdf686e2144a91afdf}
-      \strng{bibnamehash}{4638ee9d323b6cfdf686e2144a91afdf}
-      \strng{authorbibnamehash}{4638ee9d323b6cfdf686e2144a91afdf}
-      \strng{authornamehash}{516cf542abf0b9f52284cc40542ff5e8}
-      \strng{authorfullhash}{4638ee9d323b6cfdf686e2144a91afdf}
+      \strng{namehash}{d9cc6b0a0405fec544b02f7dad0c93f1}
+      \strng{fullhash}{d9cc6b0a0405fec544b02f7dad0c93f1}
+      \strng{bibnamehash}{d9cc6b0a0405fec544b02f7dad0c93f1}
+      \strng{authorbibnamehash}{d9cc6b0a0405fec544b02f7dad0c93f1}
+      \strng{authornamehash}{d9cc6b0a0405fec544b02f7dad0c93f1}
+      \strng{authorfullhash}{d9cc6b0a0405fec544b02f7dad0c93f1}
       \field{sortinit}{3}
       \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{00207136}
-      \field{journaltitle}{International Journal of Cancer}
-      \field{number}{10}
-      \field{title}{{The cancer stem cell niche-there goes the neighborhood?}}
-      \field{volume}{129}
-      \field{year}{2011}
-      \field{pages}{2315\bibrangedash 2327}
-      \range{pages}{13}
+      \field{issn}{24058033}
+      \field{journaltitle}{Trends in Cancer}
+      \field{title}{{Biophysical Properties of Extracellular Matrix: Linking Obesity and Cancer}}
+      \field{year}{2018}
       \verb{doi}
-      \verb 10.1002/ijc.26312
+      \verb 10.1016/j.trecan.2018.02.001
       \endverb
       \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/Cabarcas, Mathews, Farrar{\_}2011{\_}The cancer stem cell niche-there goes the neighborhood.pdf:pdf
+      \verb :home/vibishan/PhD/Research/all{\_}reading/Druso, Fischbach{\_}2018{\_}Biophysical Properties of Extracellular Matrix Linking Obesity and Cancer.pdf:pdf
       \endverb
-      \keyw{EMT,angiogenesis,cancer stem cell,hypoxia,inflammation,microenvironment,niche,tumor dormancy,vascular niche}
+      \verb{urlraw}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S2405803318300360
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S2405803318300360
+      \endverb
+    \endentry
+    \entry{Iyengar2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dcf29913e30f164a8a6bffa1a00900eb}{%
+           family={Iyengar},
+           familyi={I\bibinitperiod},
+           given={Neil\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a442d7f61efc5a0af86e635e3df6e8ed}{%
+           family={Gucalp},
+           familyi={G\bibinitperiod},
+           given={Ayca},
+           giveni={A\bibinitperiod}}}%
+        {{hash=23ad5b5e969caf28c678c1e0f73b3530}{%
+           family={Dannenberg},
+           familyi={D\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4ead5d4f290e0817919602a0a096bb2f}{%
+           family={Hudis},
+           familyi={H\bibinitperiod},
+           given={Clifford\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a36e5de31c0fc5ab8a32600493059ef5}
+      \strng{fullhash}{4b99d5806415e673de93ddc00dec8205}
+      \strng{bibnamehash}{4b99d5806415e673de93ddc00dec8205}
+      \strng{authorbibnamehash}{4b99d5806415e673de93ddc00dec8205}
+      \strng{authornamehash}{a36e5de31c0fc5ab8a32600493059ef5}
+      \strng{authorfullhash}{4b99d5806415e673de93ddc00dec8205}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose There is growing evidence that inflammation is a central and reversible mechanism through which obesity promotes cancer risk and progression. Methods We review recent findings regarding obesity-associated alterations in the microenvironment and the local and systemic mechanisms through which these changes support tumor growth. Results Locally, hyperadiposity is associated with altered adipose tissue function, adipocyte death, and chronic low-grade inflammation. Most individuals who are obese harbor inflamed adipose tissue, which resembles chronically injured tissue, with immune cell infiltration and remodeling. Within this distinctly altered local environment, several pathophysiologic changes are found that may promote breast and other cancers. Consistently, adipose tissue inflammation is associated with a worse prognosis in patients with breast and tongue cancers. Systemically, the metabolic syndrome, in-cluding dyslipidemia and insulin resistance, occurs in the setting of adipose inflammation and operates in concert with local mechanisms to sustain the inflamed microenvironment and promote tumor growth. Importantly, adipose inflammation and its protumor consequences can be found in some individuals who are not considered to be obese or overweight by body mass index. Conclusion The tumor-promoting effects of obesity occur at the local level via adipose inflammation and as-sociated alterations in the microenvironment, as well as systemically via circulating metabolic and inflammatory mediators associated with adipose inflammation. Accurately characterizing the obese state and identifying patients at increased risk for cancer development and progression will likely require more precise assessments than body mass index alone. Biomarkers of adipose tissue inflammation would help to identify high-risk populations. Moreover, adipose inflammation is a reversible process and represents a novel therapeutic target that warrants further study to break the obesity-cancer link.}
+      \field{issn}{0732-183X}
+      \field{journaltitle}{Journal of Clinical Oncology}
+      \field{number}{35}
+      \field{title}{{Obesity and Cancer Mechanisms: Tumor Microenvironment and Inflammation}}
+      \field{volume}{34}
+      \field{year}{2016}
+      \field{pages}{4270\bibrangedash 4276}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1200/JCO.2016.67.4283
+      \endverb
+      \verb{file}
+      \verb :home/vibishan/PhD/Research/all{\_}reading/Iyengar et al.{\_}2016{\_}Obesity and cancer mechanisms Tumor microenvironment and inflammation.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ascopubs.org/doi/10.1200/JCO.2016.67.4283
+      \endverb
+      \verb{url}
+      \verb http://ascopubs.org/doi/10.1200/JCO.2016.67.4283
+      \endverb
     \endentry
     \entry{Archetti2015}{article}{}
       \name{author}{3}{}{%
@@ -1995,8 +2128,8 @@
       \strng{authorbibnamehash}{64f22cc28356cbf32382133e97ecf071}
       \strng{authornamehash}{dc9a097b9194cc4cc5fb606888339a76}
       \strng{authorfullhash}{64f22cc28356cbf32382133e97ecf071}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The extensive intratumor heterogeneity revealed by sequencing cancer genomes is an essential determinant of tumor progression, diagnosis, and treatment. What maintains heterogeneity remains an open question because competition within a tumor leads to a strong selection for the fittest subclone. Cancer cells also coop- erate by sharing molecules with paracrine effects, such as growth factors, and heterogeneity can be maintained if subclones depend on each other for survival. Without strict interdependence be- tween subclones, however, nonproducer cells can free-ride on the growth factors produced by neighboring producer cells, a collective action problem known in game theory as the “tragedy of the commons,” which has been observed in microbial cell populations. Here, we report that similar dynamics occur in cancer cell popula- tions. Neuroendocrine pancreatic cancer (insulinoma) cells that do not produce insulin-like growth factor II (IGF-II) grow slowly in pure cultures but have a proliferation advantage in mixed cultures, where they can use the IGF-II provided by producer cells. We show that, as predicted by evolutionary game theory, producer cells do not go extinct because IGF-II acts as a nonlinear public good, cre- ating negative frequency-dependent selection that leads to a sta- ble coexistence of the two cell types. Intratumor cell heterogeneity can therefore be maintained even without strict interdependence between cell subclones. Reducing the amount of growth factors available within a tumor may lead to a reduction in growth fol- lowed by a new equilibrium, which may explain relapse in thera- pies that target growth factors.}
@@ -2082,8 +2215,8 @@
       \strng{authorbibnamehash}{03c76663f6481f30caeed3da718fec18}
       \strng{authornamehash}{03c76663f6481f30caeed3da718fec18}
       \strng{authorfullhash}{2c22465fd414a414a352daf2c545d179}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{BACKGROUND Pancreatic adenocarcinoma is one of the most lethal cancers, yet it remains understudied and poorly understood. Hyperinsulinemia has been reported to be a risk factor of pancreatic cancer, and the rapid rise of hyperinsulinemia associated with obesity and type 2 diabetes foreshadows a rise in cancer incidence. However, the actions of insulin at the various stages of pancreatic cancer progression remain poorly defined. METHODS Here, we examined the effects of a range of insulin doses on signalling, proliferation and survival in three human cell models meant to represent three stages in pancreatic cancer progression: primary pancreatic duct cells, the HPDE immortalized pancreatic ductal cell line, and the PANC1 metastatic pancreatic cancer cell line. Cells were treated with a range of insulin doses, and their proliferation/viability were tracked via live cell imaging and XTT assays. Signal transduction was assessed through the AKT and ERK signalling pathways via immunoblotting. Inhibitors of AKT and ERK signalling were used to determine the relative contribution of these pathways to the survival of each cell model. RESULTS While all three cell types responded to insulin, as indicated by phosphorylation of AKT and ERK, we found that there were stark differences in insulin-dependent proliferation, cell viability and cell survival among the cell types. High concentrations of insulin increased PANC1 and HPDE cell number, but did not alter primary duct cell proliferation in vitro. Cell survival was enhanced by insulin in both primary duct cells and HPDE cells. Moreover, we found that primary cells were more dependent on AKT signalling, while HPDE cells and PANC1 cells were more dependent on RAF/ERK signalling. CONCLUSIONS Our data suggest that excessive insulin signalling may contribute to proliferation and survival in human immortalized pancreatic ductal cells and metastatic pancreatic cancer cells, but not in normal adult human pancreatic ductal cells. These data suggest that signalling pathways involved in cell survival may be rewired during pancreatic cancer progression.}
@@ -2130,8 +2263,8 @@
       \strng{authorbibnamehash}{3010dd173c20ae814350ac41080d7840}
       \strng{authornamehash}{3010dd173c20ae814350ac41080d7840}
       \strng{authorfullhash}{3010dd173c20ae814350ac41080d7840}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1465-542X}
@@ -2178,8 +2311,8 @@
       \strng{authorbibnamehash}{85790366a43a0c5b7b3873ee7e03f32c}
       \strng{authornamehash}{b2dd1ae3fabfcc5404d0ba2581321ac2}
       \strng{authorfullhash}{85790366a43a0c5b7b3873ee7e03f32c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0013-7227}
@@ -2216,8 +2349,8 @@
       \strng{authorbibnamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
       \strng{authornamehash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
       \strng{authorfullhash}{932e3b524d2dbc756bd0f4c69bd0a2bb}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0163-769X}
@@ -2233,59 +2366,6 @@
       \endverb
       \verb{file}
       \verb :home/vibishan/PhD/Research/all{\_}reading/DICKSON, LIPPMAN{\_}1987{\_}Estrogenic Regulation of Growth and Polypeptide Growth Factor Secretion in Human Breast Carcinoma.pdf:pdf
-      \endverb
-    \endentry
-    \entry{Garcia1992}{article}{}
-      \name{author}{4}{}{%
-        {{hash=122ff93e06c60731abf23f7293ac7072}{%
-           family={Garcia},
-           familyi={G\bibinitperiod},
-           given={Marcel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7347f29041510831badbb9f41388a26d}{%
-           family={Derocq},
-           familyi={D\bibinitperiod},
-           given={Danielle},
-           giveni={D\bibinitperiod}}}%
-        {{hash=55b4fcfa9b4f971c889858049c466342}{%
-           family={Freiss},
-           familyi={F\bibinitperiod},
-           given={Gilles},
-           giveni={G\bibinitperiod}}}%
-        {{hash=aeb3381623b35db22818193383fafa65}{%
-           family={Rochefort},
-           familyi={R\bibinitperiod},
-           given={Henri},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{fullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \strng{bibnamehash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \strng{authorbibnamehash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \strng{authornamehash}{86be1e3559594513f13bc8d95c97fdbf}
-      \strng{authorfullhash}{3ea29c7c56a7c787b75fdcd3a1dc7a91}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Breast cancers containing estrogen receptors are responsive to antiestrogen treatment and have a better prognosis than estrogen receptor-negative tumors. The loss of estrogen and progesterone receptors appears to be associated with a progression to less-differentiated tumors. We transfected the human estrogen receptor into the estrogen receptor-negative metastatic breast cancer cell line MDA-MB-231 in an attempt to restore their sensitivity to antiestrogens. Two stable sublines of MDA-MB-231 cells (HC1 and HE5) expressing functional estrogen receptors were studied for their ability to grow and invade in vitro and to metastasize in athymic nude mice. The number and size of lung metastases developed by these two sublines in ovariectomized nude mice was not markedly altered by tamoxifen but was inhibited 3-fold by estradiol. Estradiol also significantly inhibited in vitro cell proliferation of these sublines and their invasiveness in Matrigel, a reconstituted basement membrane, whereas the antiestrogens 4-hydroxytamoxifen and ICI 164,384 reversed these effects. These results show that estradiol inhibits the metastatic ability of estrogen receptor-negative breast cancer cells following transfection with the estrogen receptor, whereas estrogen receptor-positive breast cancers are stimulated by estrogen, indicating that factors other than the estrogen receptor are involved in progression toward hormone independence. Reactivation or transfer of the estrogen receptor gene can therefore be considered as therapeutic approaches to hormone-independent cancers.}
-      \field{issn}{0027-8424}
-      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
-      \field{month}{12}
-      \field{number}{23}
-      \field{title}{{Activation of estrogen receptor transfected into a receptor-negative breast cancer cell line decreases the metastatic and invasive potential of the cells.}}
-      \field{volume}{89}
-      \field{year}{1992}
-      \field{pages}{11538\bibrangedash 42}
-      \range{pages}{5}
-      \verb{file}
-      \verb :home/vibishan/PhD/Research/all{\_}reading/Garcia et al.{\_}1992{\_}Activation of estrogen receptor transfected into a receptor-negative breast cancer cell line decreases the metastatic.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50587/pdf/pnas01097-0441.pdf http://www.ncbi.nlm.nih.gov/pubmed/1454845 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC50587
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50587/pdf/pnas01097-0441.pdf%20http://www.ncbi.nlm.nih.gov/pubmed/1454845%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC50587
       \endverb
     \endentry
     \entry{Rogers2017}{article}{}
@@ -2335,8 +2415,8 @@
       \strng{authorbibnamehash}{709278893afef3e2d5d2b3ee75cdd2fb}
       \strng{authornamehash}{709278893afef3e2d5d2b3ee75cdd2fb}
       \strng{authorfullhash}{04bb82046014bac80ba79111d283302c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Cancer growth is a multistage, stochastic evolutionary process. While cancer genome sequencing has been instrumental in identifying the genomic alterations that occur in human tumors, the consequences of these alterations on tumor growth remain largely unexplored. Conventional genetically engineered mouse models enable the study of tumor growth in vivo, but they are neither readily scalable nor sufficiently quantitative to unravel the magnitude and mode of action of many tumor-suppressor genes. Here, we present a method that integrates tumor barcoding with ultradeep barcode sequencing (Tuba-seq) to interrogate tumor-suppressor function in mouse models of human cancer. Tuba-seq uncovers genotype-dependent distributions of tumor sizes. By combining Tuba-seq with multiplexed CRISPR-Cas9-mediated genome editing, we quantified the effects of 11 tumor-suppressor pathways that are frequently altered in human lung adenocarcinoma. Tuba-seq enables the broad quantification of the function of tumor-suppressor genes with unprecedented resolution, parallelization, and precision.}

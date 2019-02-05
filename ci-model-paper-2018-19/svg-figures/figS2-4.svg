@@ -1660,8 +1660,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.74953319"
-     inkscape:cx="451.79433"
-     inkscape:cy="775.14466"
+     inkscape:cx="458.98885"
+     inkscape:cy="907.26397"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1678,7 +1678,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1687,76 +1687,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g32723"
-       inkscape:export-filename="/home/iiser/PhD/phd-writing/model-paper-pnas/tex-version/figS2-4.png"
+       id="g7583"
+       inkscape:export-filename="/home/iiser/PhD/phd-writing/ci-model-paper-2018-19/nature-comm-submission/figS2-4.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <text
-         id="text4262"
-         y="31.925579"
-         x="14.71834"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-         xml:space="preserve"><tspan
-           y="31.925579"
-           x="14.71834"
-           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4260"
-           sodipodi:role="line">A</tspan></text>
-      <text
-         id="text4262-3"
-         y="30.561459"
-         x="76.038727"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-         xml:space="preserve"><tspan
-           y="30.561459"
-           x="76.038727"
-           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4260-6"
-           sodipodi:role="line">B</tspan></text>
-      <text
-         id="text4262-3-7"
-         y="28.44479"
-         x="137.4221"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-         xml:space="preserve"><tspan
-           y="28.44479"
-           x="137.4221"
-           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4260-6-5"
-           sodipodi:role="line">C</tspan></text>
-      <text
-         id="text4262-3-7-3"
-         y="93.003113"
-         x="14.126229"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-         xml:space="preserve"><tspan
-           y="93.003113"
-           x="14.126229"
-           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4260-6-5-5"
-           sodipodi:role="line">D</tspan></text>
-      <text
-         id="text4262-3-7-3-6"
-         y="94.061455"
-         x="76.567894"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-         xml:space="preserve"><tspan
-           y="94.061455"
-           x="76.567894"
-           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4260-6-5-5-2"
-           sodipodi:role="line">E</tspan></text>
-      <text
-         id="text4262-3-7-3-6-9"
-         y="90.886452"
-         x="137.95125"
-         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-         xml:space="preserve"><tspan
-           y="90.886452"
-           x="137.95125"
-           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4260-6-5-5-2-1"
-           sodipodi:role="line">F</tspan></text>
       <g
          transform="matrix(0.17638889,0,0,0.17638889,11.282232,8.8837179)"
          id="axes_1"
@@ -17104,6 +17038,72 @@
            style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan23690-6-1-9-8"
            sodipodi:role="line">k=8</tspan></text>
+      <text
+         id="text5160"
+         y="23.545177"
+         x="12.804774"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           y="23.545177"
+           x="12.804774"
+           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+           id="tspan5158"
+           sodipodi:role="line">a</tspan></text>
+      <text
+         id="text5160-3"
+         y="83.941002"
+         x="11.70662"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           y="83.941002"
+           x="11.70662"
+           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+           id="tspan5158-6"
+           sodipodi:role="line">d</tspan></text>
+      <text
+         id="text5160-3-7"
+         y="22.557659"
+         x="75.735794"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           y="22.557659"
+           x="75.735794"
+           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+           id="tspan5158-6-5"
+           sodipodi:role="line">b</tspan></text>
+      <text
+         id="text5160-3-7-3"
+         y="21.499325"
+         x="137.11913"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           y="21.499325"
+           x="137.11913"
+           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+           id="tspan5158-6-5-5"
+           sodipodi:role="line">c</tspan></text>
+      <text
+         id="text5160-3-6"
+         y="84.580254"
+         x="76.003586"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           y="84.580254"
+           x="76.003586"
+           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+           id="tspan5158-6-2"
+           sodipodi:role="line">e</tspan></text>
+      <text
+         id="text5160-3-6-9"
+         y="84.051109"
+         x="136.85776"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           y="84.051109"
+           x="136.85776"
+           style="stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:round"
+           id="tspan5158-6-2-1"
+           sodipodi:role="line">f</tspan></text>
     </g>
   </g>
 </svg>
