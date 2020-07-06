@@ -21,6 +21,8 @@
 }
 %\usepackage{threeparttable}
 \usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
 % \usepackage{fancyhdr}
 % \pagestyle{fancy}
 % \fancyhf{}
@@ -60,7 +62,7 @@
 	\section{Methods}
 	\subsection{Experimental evolution protocol}
 	We begin with four independent large outbred populations (breeding population size ~ 2400) of \textit{Drosophila melanogaster} (DB1-4, short for “Dey Baseline”) in lab which in turn were derived from similar older lines (JB1-4). From each DBi (i $\in$ [1,4]), two populations called VBi (“Vagabond”, subjected to selection for dispersal) and VBCi (not subjected to selection, hence act as controls) were derived. Thus, VB and VBC populations that share the same subscript are related by ancestry. All populations with the same subscript constitute one block. Furthermore, two populations called MDi (“Malnourished Dispersers”, selected for dispersal under malnourished conditions) and MCi (corresponding control for only dispersal) were derived from each VBCi (i є [1,4]). All VB(C) and MD(C) populations are maintained on a 15-day cycle at 25$^{\circ}$C and constant light conditions. For the MD(C) populations, eggs from each new generation are reared on malnourished (N/3 Y) food before the migration assay. Briefly, the set-up consists of three components: source, path and destination. For every generation of MDi, adult flies are introduced into a source container without food or water on the 12th day post-egg collection, and allowed to disperse (currently, a path length of 15m) for 6 hours or till ~50\% of the flies reach the sink, whichever occurs first. MCi populations, at the same time, are kept in source containers under identical conditions for the same duration without undertaking migration.
-	\subsection{Dispersal experiments}
+	\subsection{Dispersal evolution}
 	Following 42-43 generations of selection according to the protocol above, assays were carried to determine if any adaptive response has developed in MD compared to MC in response to the dispersal selection regime. All experiments were performed two blocks at a time due to logistic constraints, and after one generation of relaxation to eliminate maternal effects.
 	\subsubsection{Dispersal kernel}
 	The dispersal kernel is a probability-density function, usually of the distances travelled by a population of dispersers in a given period of time \citep{Clobert2012}. The kernel is a central feature of any dispersal process and can be useful to measure as it carries information about propensity to initiate dispersal, the spatial extent of the population, and potential for change in the distribution.
@@ -94,9 +96,66 @@
 	\subsubsection{Realised fecundity}
 	14 days post egg collection, ~40 male-female pairs per treatment were kept in a vial with 6 mL normal banana jaggery food. They were then left to lay eggs for 12h in a well-lit environment maintained at 25$^{\circ}$C. After 12h, the flies were discarded and the vials were maintained under similar conditions. The number of flies eclosed per day was counted every day from the 8th day post egg collection till the 14th day under $\text{CO}_{2}$ anaesthesia.
 
-	\subsection{Statistical analysis}
-	Multi-way mixed-model ANOVAs were used for wherever applicable. All ratio data were arcsine-square root transformed and block was considered a random factor wherever it occured in the analysis. Type 3 sums of squares were used in cases of unequal sample sizes between treatments. All analyses were performed on STATISTICA.
+	\subsection{Statistical analyses}
+	Multi-way mixed-model ANOVAs were used for wherever applicable. All ratio data were arcsine-square root transformed and block was considered a random factor wherever it occured in the analysis. Type 3 sums of squares were used in cases of unequal sample sizes between treatments. All analyses were performed on R, using functions from the \texttt{lmerTest} package for fitting mixed-effects models and generating ANOVA tables.
+
 	\section{Results}
+	\subsection{Dispersal evolution}
+	Figures \ref{fig1} and \ref{fig2} summarise the findings on the evolution of dispersal traits in our fly populations. Both properties of the dispersal kernel measured here show significant responses to the selection regime. MD have higher propensity as well as ability than MC, which means that a larger fraction of the MD population at the source initiate dispersal and on average, travel longer distances than the MC flies. It could also be inferred from these two observations that MD have a larger spatial extent than MC with a flatter kernel curve over the experimental path.
+	\begin{figure}
+		\centering
+		\begin{subfigure}{0.7\textwidth}
+			\scalebox{0.5}{\input{fig1a.pdf_tex}}
+			\subcaption{\empty}
+		\end{subfigure}
+		\begin{subfigure}{0.7\textwidth}
+			\scalebox{0.5}{\input{fig1b.pdf_tex}}
+			\subcaption{\empty}
+		\end{subfigure}
+		\caption{\label{fig1} Evolution of the dispersal kernel: (a) Propensity was significantly different between the populations ($F_{(1, 5)}$ = 49.4; $p$ = 0.0007), but the sex main effect was insignificant. Propensity values were arcsine-square root transformed for the analysis. (b) Ability was significantly differ between the two populations ($F_{(1, 3)}$ = 42.071; $p$ = 0.0074), but not between the sexes.}
+	\end{figure}
+	\begin{figure}
+		\centering
+		\begin{subfigure}{0.49\textwidth}
+			\includegraphics[width=\textwidth, keepaspectratio]{fig1c.png}
+			\subcaption{\empty}
+		\end{subfigure}
+		\begin{subfigure}{0.49\textwidth}
+			\includegraphics[width=\textwidth, keepaspectratio]{fig1d.png}
+			\subcaption{\empty}
+		\end{subfigure}\\
+		\begin{subfigure}{0.49\textwidth}
+			\includegraphics[width=\textwidth, keepaspectratio]{fig1e.png}
+			\subcaption{\empty}
+		\end{subfigure}
+		\begin{subfigure}{0.49\textwidth}
+			\includegraphics[width=\textwidth, keepaspectratio]{fig1f.png}
+			\subcaption{\empty}
+		\end{subfigure}
+		\begin{subfigure}{0.49\textwidth}
+			\centering
+			\scalebox{0.6}{\input{fig2.pdf_tex}}
+			\subcaption{\empty}
+		\end{subfigure}
+		\caption{\label{fig2} Trait correlations with evolving the dispersal kernel: Body weight is not significantly different between the two populations in (a) females or (b) males; (c) Average activity count per hour was significantly higher in MD than in MC ($F_{(1, 3)}$ = 17.37; $p$ = 0.025), while (d) fraction of rest bouts was significantly lower in MD ($F_{(1, 3)}$ = 13.48; $p$ = 0.035). Rest fractions were arcsine-square root-transformed for the analysis; (e) Difference in fecundity between the two populations is unclear as the two blocks for which data are available do not show the same trends. Formal statistical analysis is awaiting data from the remaining two blocks.}
+	\end{figure}
+	\begin{figure}
+		\centering
+		\scalebox{0.7}{\input{fig3.pdf_tex}}
+		\caption{\label{fig3} Response in female body weight to dietary P:C ratios; the populations did not differ from each other although there was a significant main effect on diet ($F_{(1, 3)}$ = 24.23; $p$ = 0.00012).}
+	\end{figure}
+	\begin{figure}
+		\centering
+		\begin{subfigure}{\textwidth}
+			\scalebox{0.35}{\input{fig4a.pdf_tex}}
+			\subcaption{\empty}
+		\end{subfigure}
+		\begin{subfigure}{\textwidth}
+			\scalebox{0.35}{\input{fig4b.pdf_tex}}
+			\subcaption{\empty}
+		\end{subfigure}
+		\caption{\label{fig4} Response in (a) realised fecundity and (b) egg-to-adult survivorship to dietary P:C ratios; the two populations did not differ significantly in either of the traits, but the diet main effect was significant in realised fecundity alone ($F_{(1, 3)}$ = 55.34; $p$ = 8.42*10$^{\text{-6}}$).}
+	\end{figure}
 	\section{Future outlook}
 
 	\bibliographystyle{cell}
