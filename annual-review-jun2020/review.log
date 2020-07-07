@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.5.1)  6 JUL 2020 22:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.5.1)  7 JUL 2020 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -608,42 +608,42 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 [1
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
 
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (11.44008pt too wide) in paragraph at lines 64--65
+Overfull \hbox (11.99086pt too wide) in paragraph at lines 71--72
 \TU/Carlito(0)/m/n/12 We begin with four independent large outbred populations 
-(breeding population size   2400) of \TU/Carlito(0)/m/it/12 Drosophila 
+(breeding population size ~2400) of \TU/Carlito(0)/m/it/12 Drosophila 
  []
 
 [2]
 Missing character: There is no ֯ in font Carlito/OT:script=latn;language=dflt;m
 apping=tex-text;!
  [3]
-Overfull \hbox (24.20766pt too wide) in paragraph at lines 91--92
+Overfull \hbox (24.20766pt too wide) in paragraph at lines 98--99
 \TU/Carlito(0)/m/n/12 A cornmeal formulation was used for the experimental diet
 s as it allows finer control of protein:carbohydrate 
  []
 
 
-Overfull \hbox (12.41469pt too wide) in paragraph at lines 93--94
+Overfull \hbox (12.41469pt too wide) in paragraph at lines 100--101
 \TU/Carlito(0)/m/n/12 Exactly 30 eggs were collected per vial for 10 vials per 
 treatment. The number of flies eclosed was counted 
  []
 
-(./fig1a.pdf_tex
+[4] (./fig1a.pdf_tex
 File: fig1a.pdf Graphic file (type pdf)
 <use fig1a.pdf, page 1>
 )
-Overfull \hbox (25.9284pt too wide) in paragraph at lines 108--109
+Overfull \hbox (25.9284pt too wide) in paragraph at lines 117--118
 [][]  
  []
 
@@ -651,7 +651,7 @@ Overfull \hbox (25.9284pt too wide) in paragraph at lines 108--109
 File: fig1b.pdf Graphic file (type pdf)
 <use fig1b.pdf, page 1>
 )
-Overfull \hbox (25.9284pt too wide) in paragraph at lines 112--113
+Overfull \hbox (25.9284pt too wide) in paragraph at lines 121--122
 [][]  
  []
 
@@ -670,7 +670,7 @@ File: fig2.pdf Graphic file (type pdf)
 File: fig3.pdf Graphic file (type pdf)
 <use fig3.pdf, page 1>
 )
-Overfull \hbox (26.20909pt too wide) in paragraph at lines 144--145
+Overfull \hbox (26.20909pt too wide) in paragraph at lines 153--154
  [][] 
  []
 
@@ -678,7 +678,7 @@ Overfull \hbox (26.20909pt too wide) in paragraph at lines 144--145
 File: fig4a.pdf Graphic file (type pdf)
 <use fig4a.pdf, page 1>
 )
-Overfull \hbox (13.11476pt too wide) in paragraph at lines 150--151
+Overfull \hbox (13.11476pt too wide) in paragraph at lines 159--160
 [][]  
  []
 
@@ -686,28 +686,32 @@ Overfull \hbox (13.11476pt too wide) in paragraph at lines 150--151
 File: fig4b.pdf Graphic file (type pdf)
 <use fig4b.pdf, page 1>
 )
-Overfull \hbox (13.11476pt too wide) in paragraph at lines 154--155
+Overfull \hbox (13.11476pt too wide) in paragraph at lines 163--164
 [][]  
  []
 
-[4] (./review.bbl [5] [6] [7])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6] [7] (./review.bbl [8])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (./review.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 165.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: 74729313E451FE99761351BB42418325;1254.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
+(rerunfilecheck)             Checksum: C1C4DC5FAA08BC9F1EA54D96C8C58FAF;1327.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 13968 strings out of 479819
- 261825 string characters out of 5895847
- 581198 words of memory out of 5000000
- 30858 multiletter control sequences out of 15000+600000
+ 14014 strings out of 479819
+ 262542 string characters out of 5895847
+ 580037 words of memory out of 5000000
+ 30904 multiletter control sequences out of 15000+600000
  540542 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 43i,13n,67p,1596b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,67p,1670b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on review.pdf (8 pages).
+Output written on review.pdf (9 pages).
