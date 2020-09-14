@@ -20,6 +20,12 @@ Bonte, D., {Van Dyck}, H., Bullock, J.~M., Coulon, A., Delgado, M., Gibbs, M.,
 \newblock {Costs of dispersal}.
 \newblock {\rm Biological Reviews } \emph{87}, 290--312.
 
+\bibitem[Carvalho {\rm et~al.}, 2005]{Carvalho2005}
+Carvalho, G.~B., Kapahi, P.  and Benzer, S. (2005{\rm{}}).
+\newblock {Compensatory ingestion upon dietary restriction in Drosophila
+  melanogaster.}
+\newblock {\rm Nature Methods } \emph{2}, 813--5.
+
 \bibitem[Chadov {\rm et~al.}, 2015]{Chadov2015}
 Chadov, B.~F., Fedorova, N.~B.  and Chadova, E.~V. (2015{\rm{}}).
 \newblock {Conditional mutations in Drosophila melanogaster: On the occasion of
@@ -85,12 +91,25 @@ Musselman, L.~P., Fink, J.~L., Narzinski, K., Ramachandran, P.~V., Hathiramani,
   wild-type Drosophila}.
 \newblock {\rm Journal of Cell Science } \emph{124}, e1--e1.
 
+\bibitem[Ribeiro and Dickson, 2010]{Ribeiro2010}
+Ribeiro, C. and Dickson, B.~J. (2010{\rm{}}).
+\newblock {Sex Peptide Receptor and Neuronal TOR/S6K Signaling Modulate
+  Nutrient Balancing in Drosophila}.
+\newblock {\rm Current Biology } \emph{20}, 1000--1005.
+
 \bibitem[Ronce, 2007]{Ronce2007}
 Ronce, O. (2007{\rm{}}).
 \newblock {How Does It Feel to Be Like a Rolling Stone? Ten Questions About
   Dispersal Evolution}.
 \newblock {\rm Annual Review of Ecology, Evolution, and Systematics }
   \emph{38}, 231--253.
+
+\bibitem[Shell {\rm et~al.}, 2018]{Shell2018}
+Shell, B.~C., Schmitt, R.~E., Lee, K.~M., Johnson, J.~C., Chung, B.~Y.,
+  Pletcher, S.~D.  and Grotewiel, M. (2018{\rm{}}).
+\newblock {Measurement of solid food intake in Drosophila via
+  consumption-excretion of a dye tracer}.
+\newblock {\rm Scientific Reports } \emph{8}, 11536.
 
 \bibitem[Skorupa {\rm et~al.}, 2008]{Skorupa2008}
 Skorupa, D.~A., Dervisefendic, A., Zwiener, J.  and Pletcher, S.~D.
@@ -122,5 +141,10 @@ Vijendravarma, R.~K., Narasimha, S.  and Kawecki, T.~J. (2012{\rm{}}).
 \newblock {Evolution of foraging behaviour in response to chronic malnutrition
   in Drosophila melanogaster.}
 \newblock {\rm Proceedings. Biological sciences } \emph{279}, 3540--6.
+
+\bibitem[Wong {\rm et~al.}, 2009]{Wong2009}
+Wong, R., Piper, M. D.~W., Wertheim, B.  and Partridge, L. (2009{\rm{}}).
+\newblock {Quantification of Food Intake in Drosophila}.
+\newblock {\rm PLoS ONE } \emph{4}, e6063.
 
 \end{thebibliography}

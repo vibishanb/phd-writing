@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: review.aux
 The style file: cell.bst
 Database file #1: review.bib
-You've used 19 entries,
+You've used 23 entries,
             2116 wiz_defined-function locations,
-            657 strings with 8760 characters,
-and the built_in function-call counts, 8991 in all, are:
-= -- 890
-> -- 576
-< -- 2
-+ -- 209
-- -- 208
-* -- 956
-:= -- 1501
-add.period$ -- 57
-call.type$ -- 19
-change.case$ -- 142
-chr.to.int$ -- 18
-cite$ -- 75
-duplicate$ -- 228
-empty$ -- 491
-format.name$ -- 229
-if$ -- 1701
+            687 strings with 9604 characters,
+and the built_in function-call counts, 10695 in all, are:
+= -- 1063
+> -- 668
+< -- 3
++ -- 241
+- -- 240
+* -- 1134
+:= -- 1779
+add.period$ -- 69
+call.type$ -- 23
+change.case$ -- 166
+chr.to.int$ -- 22
+cite$ -- 91
+duplicate$ -- 276
+empty$ -- 595
+format.name$ -- 267
+if$ -- 2031
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 20
-newline$ -- 98
-num.names$ -- 57
-pop$ -- 146
+missing$ -- 24
+newline$ -- 118
+num.names$ -- 69
+pop$ -- 169
 preamble$ -- 1
-purify$ -- 161
+purify$ -- 189
 quote$ -- 0
-skip$ -- 190
+skip$ -- 231
 stack$ -- 0
-substring$ -- 564
-swap$ -- 19
+substring$ -- 680
+swap$ -- 23
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 112
+type$ -- 136
 warning$ -- 0
-while$ -- 71
+while$ -- 85
 width$ -- 0
-write$ -- 248
+write$ -- 300
