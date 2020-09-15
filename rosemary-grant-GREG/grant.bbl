@@ -1,0 +1,609 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Nakagawa}{article}{}
+      \name{author}{4}{}{%
+        {{hash=737589ed49865a9515f816d50029418d}{%
+           family={Nakagawa},
+           familyi={N\bibinitperiod},
+           given={Shinichi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=970162d1219328d76b5de925f97549bc}{%
+           family={Lagisz},
+           familyi={L\bibinitperiod},
+           given={Malgorzata},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d8a3a2235e7d15477c2be3d0ddd0a893}{%
+           family={Hector},
+           familyi={H\bibinitperiod},
+           given={Katie\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c1f5f2ddab4b04290e86127528d20ebc}{%
+           family={Spencer},
+           familyi={S\bibinitperiod},
+           given={Hamish\bibnamedelima G},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{84a26bbd1610d5d84aebd33c48e6d307}
+      \strng{fullhash}{0bc545fa9e87637718054b27fc656584}
+      \strng{bibnamehash}{0bc545fa9e87637718054b27fc656584}
+      \strng{authorbibnamehash}{0bc545fa9e87637718054b27fc656584}
+      \strng{authornamehash}{84a26bbd1610d5d84aebd33c48e6d307}
+      \strng{authorfullhash}{0bc545fa9e87637718054b27fc656584}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dietary restriction (DR) extends the lifespan of a wide range of species, although the universality of this effect has never been quantitatively examined. Here, we report the first comprehensive comparative meta-analysis of DR across studies and species. Overall , DR significantly increased lifespan, but this effect is modulated by several factors. In general, DR has less effect in extending lifespan in males and also in non-model organisms. Surprisingly, the proportion of protein intake was more important for life extension via DR than the degree of caloric restriction. Furthermore, we show that reduction in both age-dependent and age-independent mortality rates drives life extension by DR among the well-studied laboratory model species (yeast, nematode worms, fruit flies and rodents). Our results suggest that convergent adaptation to laboratory conditions better explains the observed DR-longevity relationship than evolutionary conservation although alternative explanations are possible.}
+      \field{title}{{Comparative and meta-analytic insights into life extension via dietary restriction}}
+      \verb{doi}
+      \verb 10.1111/j.1474-9726.2012.00798.x
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Nakagawa et al._Unknown_Unknown.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Skorupa2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a75ad7ec3cd3767c1d6b9283fd3022b5}{%
+           family={Skorupa},
+           familyi={S\bibinitperiod},
+           given={Danielle\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1562076e7734c4a4a22a39d95d01c190}{%
+           family={Dervisefendic},
+           familyi={D\bibinitperiod},
+           given={Azra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fe9e7018ef1fd5c35efb60d0a72a0280}{%
+           family={Zwiener},
+           familyi={Z\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51f106d223ae85af32737730ab92ba85}{%
+           family={Pletcher},
+           familyi={P\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd (10.1111)}%
+      }
+      \strng{namehash}{4a0e9e18ec4f55f8d0bbcdbe295c8c95}
+      \strng{fullhash}{ba292e5af89bd23f0eae7e61b8fdbdac}
+      \strng{bibnamehash}{ba292e5af89bd23f0eae7e61b8fdbdac}
+      \strng{authorbibnamehash}{ba292e5af89bd23f0eae7e61b8fdbdac}
+      \strng{authornamehash}{4a0e9e18ec4f55f8d0bbcdbe295c8c95}
+      \strng{authorfullhash}{ba292e5af89bd23f0eae7e61b8fdbdac}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{14749718}
+      \field{journaltitle}{Aging Cell}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{{Dietary composition specifies consumption, obesity, and lifespan in \textit{Drosophila melanogaster}}}
+      \field{volume}{7}
+      \field{year}{2008}
+      \field{pages}{478\bibrangedash 490}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1474-9726.2008.00400.x
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Skorupa et al._2008_Aging Cell.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1111/j.1474-9726.2008.00400.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1474-9726.2008.00400.x
+      \endverb
+      \keyw{Drosophila,aging,calories,dietary restriction,longevity,metabolism}
+    \endentry
+    \entry{Mair2005}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a2892963694b48e04fdfe3c883e35128}{%
+           family={Mair},
+           familyi={M\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=bd6a86753873f120fdd7537ce7efc0ba}{%
+           family={Piper},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelimb D\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=bf2d5acde626d5ec3acf23697700df7d}{%
+           family={Partridge},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{a4528f2182fb7cfdfab8cb0f3f40eba3}
+      \strng{fullhash}{2d6023f90906338b3fa9becfd202244e}
+      \strng{bibnamehash}{2d6023f90906338b3fa9becfd202244e}
+      \strng{authorbibnamehash}{2d6023f90906338b3fa9becfd202244e}
+      \strng{authornamehash}{a4528f2182fb7cfdfab8cb0f3f40eba3}
+      \strng{authorfullhash}{2d6023f90906338b3fa9becfd202244e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dietary restriction (DR) extends life span in diverse organisms, including mammals, and common mechanisms may be at work. DR is often known as calorie restriction, because it has been suggested that reduction of calories, rather than of particular nutrients in the diet, mediates extension of life span in rodents. We here demonstrate that extension of life span by DR in Drosophila is not attributable to the reduction in calorie intake. Reduction of either dietary yeast or sugar can reduce mortality and extend life span, but by an amount that is unrelated to the calorie content of the food, and with yeast having a much greater effect per calorie than does sugar. Calorie intake is therefore not the key factor in the reduction of mortality rate by DR in this species.}
+      \field{issn}{1545-7885}
+      \field{journaltitle}{PLoS biology}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Calories do not explain extension of life span by dietary restriction in Drosophila.}}
+      \field{volume}{3}
+      \field{year}{2005}
+      \field{pages}{e223}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pbio.0030223
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Mair, Piper, Partridge_2005_PLoS biology.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16000018 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1140680
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16000018%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1140680
+      \endverb
+    \endentry
+    \entry{Tatar2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=85fa7883e3b31f3ef4ecca3c788352c3}{%
+           family={Tatar},
+           familyi={T\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7b8c008392e4ef7c47f28591b7a24bb5}{%
+           family={Post},
+           familyi={P\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c03a0fbe4161c1e33c658f3c92db7148}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Kweon},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{417517ce86e98f1295914643b62a9ed2}
+      \strng{fullhash}{1778b3b4daa0f92565e73a7e3885da9d}
+      \strng{bibnamehash}{1778b3b4daa0f92565e73a7e3885da9d}
+      \strng{authorbibnamehash}{1778b3b4daa0f92565e73a7e3885da9d}
+      \strng{authornamehash}{417517ce86e98f1295914643b62a9ed2}
+      \strng{authorfullhash}{1778b3b4daa0f92565e73a7e3885da9d}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dietary restriction (DR) extends the lifespan of many animals, including Drosophila melanogaster. Recent work with flies shows that longevity is controlled by the ratio of consumed protein relative to carbohydrates. Given that reduced insulin and/or insulin-like growth factor (IGF) and target of rapamycin (TOR) signaling increase Drosophila lifespan, these pathways are candidate mediators of DR. However, this idea has ambiguous experimental support. The Nutritional Geometric Framework (NGF), which dissects the impact of nutrient protein relative to carbohydrates, may provide an approach to resolving the roles for these pathways in DR. Nutrient sensing of protein and carbohydrate may occur in the fat body through signals to hypothalamic-like neurons in the fly brain and, thus, control secretion of insulin-like peptides that regulate longevity. A long life by eating less A long-standing problem in the biology of aging is to understand how DR (see Glossary) extends life expectancy [1]. In one branch, research has aimed to uncover the cellular mechanisms whereby DR improves survival, for instance through increasing stress resistance, genomic maintenance, or protein homeostasis. By contrast, these cell-centric mechanisms must be integrated across tissues to assure longevity. The need for such coordination motivates work to understand how nutrients contribute to physiological signaling that affects survival. This question has progressed using Drosophila to uncover the nutrient components that modulate longevity assurance, and to analyze the roles of sensory and hormonal systems that systemically integrate longevity control. These data together reveal mechanisms of nutrient sensing that could stimulate new hypotheses to identify the metabolic pathways responsible for DR-induced longevity [2] and can suggest endocrine interventions that emulate the benefits of DR. [3] The nutrient lever of restricted diet Restricting food intake without malnutrition was reported to extend lifespan in rats some 80 years ago [4]. Research has since focused on deciphering which aspect of restricted-diet induces longevity, how this dietary feature is sensed, and what the mechanisms are by which it regulates aging [5]. Likewise, more than 40 years ago David et al. [6] reported that longevity of laboratory Drosophila melano-gaster was extended when adults were maintained on diluted yet freely available diets, that is, diets made in agar-based media with different combinations of yeast, sugar or molasses, cornmeal, and other carbohydrates [7,8]. As with rodents, for Drosophila, there is keen interest to understand the nutrient effectors of DR, how they are sensed and integrated, and how this affects the molecular mechanisms of survival. The order of these goals is important: before we can understand the cellular or molecular}
+      \field{issn}{10432760}
+      \field{journaltitle}{Trends in Endocrinology and Metabolism}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Nutrient control of Drosophila longevity}}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{pages}{509\bibrangedash 517}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.tem.2014.02.006
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1043276014000423
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1043276014000423
+      \endverb
+    \endentry
+    \entry{Kolss2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=614f7b4f201c7e197b03e3dd752e6dc3}{%
+           family={Kolss},
+           familyi={K\bibinitperiod},
+           given={Munjong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3ab8911bda22219eea350f0405390081}{%
+           family={Vijendravarma},
+           familyi={V\bibinitperiod},
+           given={Roshan\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c2a3cf028ccce817445da3af37ec3a35}{%
+           family={Schwaller},
+           familyi={S\bibinitperiod},
+           given={Geraldine},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a07010f300cc2f5104384dbb612863eb}{%
+           family={Kawecki},
+           familyi={K\bibinitperiod},
+           given={Tadeusz\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd (10.1111)}%
+      }
+      \strng{namehash}{2845cb77ee700a9f8623804aee5df4ec}
+      \strng{fullhash}{6904e723d364db643efa60b473524c55}
+      \strng{bibnamehash}{6904e723d364db643efa60b473524c55}
+      \strng{authorbibnamehash}{6904e723d364db643efa60b473524c55}
+      \strng{authornamehash}{2845cb77ee700a9f8623804aee5df4ec}
+      \strng{authorfullhash}{6904e723d364db643efa60b473524c55}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00143820}
+      \field{journaltitle}{Evolution}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Life-history consequences of adaptation to larval nutritional stress in Drosophila}}
+      \field{volume}{63}
+      \field{year}{2009}
+      \field{pages}{2389\bibrangedash 2401}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1558-5646.2009.00718.x
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Kolss et al._2009_Evolution.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1111/j.1558-5646.2009.00718.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1558-5646.2009.00718.x
+      \endverb
+      \keyw{Dietary restriction,experimental evolution,malnutrition,starvation,stress resistance,trade‐offs}
+    \endentry
+    \entry{Vijendravarma2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3ab8911bda22219eea350f0405390081}{%
+           family={Vijendravarma},
+           familyi={V\bibinitperiod},
+           given={Roshan\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=eb7164d0d859a145540db90cb3d8fb69}{%
+           family={Narasimha},
+           familyi={N\bibinitperiod},
+           given={Sunitha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a07010f300cc2f5104384dbb612863eb}{%
+           family={Kawecki},
+           familyi={K\bibinitperiod},
+           given={Tadeusz\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{d9e2ab79efcd23fe201bab86f13afc47}
+      \strng{fullhash}{aa2d831a2354596c2f4330bc0c462c74}
+      \strng{bibnamehash}{aa2d831a2354596c2f4330bc0c462c74}
+      \strng{authorbibnamehash}{aa2d831a2354596c2f4330bc0c462c74}
+      \strng{authornamehash}{d9e2ab79efcd23fe201bab86f13afc47}
+      \strng{authorfullhash}{aa2d831a2354596c2f4330bc0c462c74}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1471-2954}
+      \field{journaltitle}{Proceedings. Biological sciences}
+      \field{month}{9}
+      \field{number}{1742}
+      \field{title}{{Evolution of foraging behaviour in response to chronic malnutrition in Drosophila melanogaster.}}
+      \field{volume}{279}
+      \field{year}{2012}
+      \field{pages}{3540\bibrangedash 6}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1098/rspb.2012.0966
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Vijendravarma, Narasimha, Kawecki_2012_Proceedings. Biological sciences.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22696523 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3396918
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22696523%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3396918
+      \endverb
+    \endentry
+    \entry{Carvalho2005}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3679070d77361c53eea943335a88a01e}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Gil\bibnamedelima B},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=fb68bbac5b34a80a6b58ec5a7d898523}{%
+           family={Kapahi},
+           familyi={K\bibinitperiod},
+           given={Pankaj},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7b3fda4c42c4f29819ccc15d1105cc04}{%
+           family={Benzer},
+           familyi={B\bibinitperiod},
+           given={Seymour},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{47f6e113351fb89ba9be349cf9b04704}
+      \strng{fullhash}{20dceafcd0617bbb8667f68fd11a17bd}
+      \strng{bibnamehash}{20dceafcd0617bbb8667f68fd11a17bd}
+      \strng{authorbibnamehash}{20dceafcd0617bbb8667f68fd11a17bd}
+      \strng{authornamehash}{47f6e113351fb89ba9be349cf9b04704}
+      \strng{authorfullhash}{20dceafcd0617bbb8667f68fd11a17bd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dietary restriction extends the lifespan of numerous, evolutionarily diverse species. In D. melanogaster, a prominent model for research on the interaction between nutrition and longevity, dietary restriction is typically based on medium dilution, with possible compensatory ingestion commonly being neglected. Possible problems with this approach are revealed by using a method for direct monitoring of D. melanogaster feeding behavior. This demonstrates that dietary restriction elicits robust compensatory changes in food consumption. As a result, the effect of medium dilution is overestimated and, in certain cases, even fully compensated for. Our results strongly indicate that feeding behavior and nutritional composition act concertedly to determine fly lifespan. Feeding behavior thus emerges as a central element in D. melanogaster aging.}
+      \field{issn}{1548-7091}
+      \field{journaltitle}{Nature Methods}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Compensatory ingestion upon dietary restriction in Drosophila melanogaster.}}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{813\bibrangedash 5}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/nmeth798
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Carvalho, Kapahi, Benzer_2005_Nature methods.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16278649 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2745347
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16278649%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2745347
+      \endverb
+    \endentry
+    \entry{Wong2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3c1b326cdc7eadf8ca4f5118d35101a6}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bd6a86753873f120fdd7537ce7efc0ba}{%
+           family={Piper},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelimb D.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3168dfb8c2bae213d9d533be570f280e}{%
+           family={Wertheim},
+           familyi={W\bibinitperiod},
+           given={Bregje},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bf2d5acde626d5ec3acf23697700df7d}{%
+           family={Partridge},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c67ef3fc2f0e9ac5b2c474d7c4c74864}{%
+           family={Raine},
+           familyi={R\bibinitperiod},
+           given={Nigel\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{86080c3fe0e7022fa0c7b612b5aa0108}
+      \strng{fullhash}{c07edbd37ea3744f30a3dab8dbc2a824}
+      \strng{bibnamehash}{c07edbd37ea3744f30a3dab8dbc2a824}
+      \strng{authorbibnamehash}{c07edbd37ea3744f30a3dab8dbc2a824}
+      \strng{authornamehash}{86080c3fe0e7022fa0c7b612b5aa0108}
+      \strng{authorfullhash}{c07edbd37ea3744f30a3dab8dbc2a824}
+      \strng{editorbibnamehash}{c67ef3fc2f0e9ac5b2c474d7c4c74864}
+      \strng{editornamehash}{c67ef3fc2f0e9ac5b2c474d7c4c74864}
+      \strng{editorfullhash}{c67ef3fc2f0e9ac5b2c474d7c4c74864}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Measurement of food intake in the fruit fly Drosophila melanogaster is often necessary for studies of behaviour, nutrition and drug administration. There is no reliable and agreed method for measuring food intake of flies in undisturbed, steady state, and normal culture conditions. We report such a method, based on measurement of feeding frequency by proboscis-extension, validated by short-term measurements of food dye intake. We used the method to demonstrate that (a) female flies feed more frequently than males, (b) flies feed more often when housed in larger groups and (c) fly feeding varies at different times of the day. We also show that alterations in food intake are not induced by dietary restriction or by a null mutation of the fly insulin receptor substrate chico. In contrast, mutation of takeout increases food intake by increasing feeding frequency while mutation of ovoD increases food intake by increasing the volume of food consumed per proboscis-extension. This approach provides a practical and reliable method for quantification of food intake in Drosophila under normal, undisturbed culture conditions.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLoS ONE}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Quantification of Food Intake in Drosophila}}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{e6063}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0006063
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.plos.org/10.1371/journal.pone.0006063
+      \endverb
+      \verb{url}
+      \verb http://dx.plos.org/10.1371/journal.pone.0006063
+      \endverb
+    \endentry
+    \entry{Yu2016}{article}{}
+      \name{author}{8}{}{%
+        {{hash=512fbf6290ad46e1e3408d0e31b6f54f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6914f2dac03de61fee76eecb36c759d1}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=691368f26203b26b4da98d0b57500030}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e6b9dd8f01ce904f68a78154e852933}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Vivian},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ee067c6f3bec8b7a005d92f1ea46fbcb}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=89fec6bd337b9b85a65d3b48a9087218}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Guo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8d705bb6275816fc2410e4a1f116058e}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Junling},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4649c9bceeb03c05a285b3b81ee0f5e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Liming},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {eLife Sciences Publications Ltd}%
+      }
+      \strng{namehash}{57916960d88f63855cd3664a9732175b}
+      \strng{fullhash}{b18b0ee0d84e34e7a12b870426ed077d}
+      \strng{bibnamehash}{57916960d88f63855cd3664a9732175b}
+      \strng{authorbibnamehash}{57916960d88f63855cd3664a9732175b}
+      \strng{authornamehash}{57916960d88f63855cd3664a9732175b}
+      \strng{authorfullhash}{b18b0ee0d84e34e7a12b870426ed077d}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Starvation induces sustained increase in locomotion, which facilitates food localization and acquisition and hence composes an important aspect of food-seeking behavior. We investigated how nutritional states modulated starvation-induced hyperactivity in adult Drosophila. The receptor of the adipokinetic hormone (AKHR), the insect analog of glucagon, was required for starvation-induced hyperactivity. AKHR was expressed in a small group of octopaminergic neurons in the brain. Silencing AKHR+ neurons and blocking octopamine signaling in these neurons eliminated starvation-induced hyperactivity, whereas activation of these neurons accelerated the onset of hyperactivity upon starvation. Neither AKHR nor AKHR+ neurons were involved in increased food consumption upon starvation, suggesting that starvation-induced hyperactivity and food consumption are independently regulated. Single cell analysis of AKHR+ neurons identified the co-expression of Drosophila insulin-like receptor (dInR), which imposed suppressive effect on starvation-induced hyperactivity. Therefore, insulin and glucagon signaling exert opposite effects on starvation-induced hyperactivity via a common neural target in Drosophila.}
+      \field{issn}{2050-084X}
+      \field{journaltitle}{eLife}
+      \field{month}{9}
+      \field{number}{September2016}
+      \field{title}{{Regulation of starvation-induced hyperactivity by insulin and glucagon signaling in adult Drosophila}}
+      \field{volume}{5}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.7554/eLife.15693
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Yu et al._2016_eLife.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://elifesciences.org/articles/15693
+      \endverb
+      \verb{url}
+      \verb https://elifesciences.org/articles/15693
+      \endverb
+    \endentry
+    \entry{Shell2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ba92258106fba250a63d9e7bc0ff5489}{%
+           family={Shell},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ca299a64dae880e221950bcc5dfafb6d}{%
+           family={Schmitt},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=41a236729e7602ae23b94ba572cf41ad}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kristen\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=be0ddf554ff332f461d5829ea7d86dc0}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Jacob\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=812669f466554687fee7ec026d94f47e}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Brian\bibnamedelima Y.},
+           giveni={B\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=51f106d223ae85af32737730ab92ba85}{%
+           family={Pletcher},
+           familyi={P\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8c6a799f52637f2000eec21bad4008b7}{%
+           family={Grotewiel},
+           familyi={G\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{117651f0eb3f9a6f3a42f852354d1bea}
+      \strng{fullhash}{cb59942b146450e5cf42ca4e92e5e4fd}
+      \strng{bibnamehash}{117651f0eb3f9a6f3a42f852354d1bea}
+      \strng{authorbibnamehash}{117651f0eb3f9a6f3a42f852354d1bea}
+      \strng{authornamehash}{117651f0eb3f9a6f3a42f852354d1bea}
+      \strng{authorfullhash}{cb59942b146450e5cf42ca4e92e5e4fd}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the Drosophila melanogaster (fly) model is a popular platform for investigating diet-related phenomena, it can be challenging to measure the volume of agar-based food media flies consume. We addressed this challenge by developing a dye-based method called Consumption-Excretion (Con-Ex). In Con-Ex studies, flies consume solid food labeled with dye, and the volume of food consumed is reflected by the sum of the dye inside of and excreted by flies. Flies consumed-excreted measurable amounts of FD&C Blue No. 1 (Blue 1) and other dyes in Con-Ex studies, but only Blue 1 was readily detectable at concentrations that had no discernable effect on consumption-excretion. In studies with Blue 1, consumption-excretion (i) increased linearly with feeding duration out to 24 h at two different laboratory sites, (ii) was sensitive to starvation, mating status and strain, and (iii) changed in response to alteration of media composition as expected. Additionally, the volume of liquid Blue 1 consumed from capillary tubes was indistinguishable from the volume of Blue 1 excreted by flies, indicating that excreted Blue 1 reflects consumed Blue 1. Our results demonstrate that Con-Ex with Blue 1 as a food tracer is a useful method for assessing ingestion of agar-based food media in adult flies.}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Measurement of solid food intake in Drosophila via consumption-excretion of a dye tracer}}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{11536}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-018-29813-9
+      \endverb
+      \verb{file}
+      \verb :home/vibishanb/Documents/Mendeley Desktop/Shell et al._2018_Scientific Reports.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/s41598-018-29813-9
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/s41598-018-29813-9
+      \endverb
+      \keyw{Animal disease models,Behavioural methods,Feeding behaviour}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

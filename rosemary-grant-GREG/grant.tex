@@ -1,0 +1,81 @@
+\documentclass[12pt, onecolumn]{article}
+\usepackage{amsfonts, amsmath}
+
+% \usepackage{nature}
+\usepackage[backend=biber, style=nature, autocite=superscript, doi=false, isbn=false, url=false, eprint=false]{biblatex}
+\usepackage[margin=1in]{geometry}
+\addbibresource{grant.bib}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks = true, %Colours links instead of ugly boxes
+	urlcolor = blue, %Colour for external hyperlinks
+	linkcolor = red, %Colour of internal links
+	citecolor = red %Colour of citations
+}
+
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+% \fancyhf{[Vibishan]}
+\rhead{\thepage}
+\lhead{[Vibishan]}
+\date{\empty}
+\makeindex
+
+\begin{document}
+	\textsc{\large Title: Selection through protein-deficient larval malnutrition in \textit{D. melanogaster}}
+    \section*{Background}
+	Dietary restriction (DR) has a long history of experimental study in a wide range of vertebrate and invertebrate model organisms \cite{Nakagawa}. In the fruit fly system, pioneering studies have shown that dietary restriction extends lifespan significantly, apart from affecting other aspects of fly physiology \cite{Skorupa2008}. The finding that the extension effect is not calorie-specific but driven by the balance of macro-nutrients \cite{Mair2005} led to further study of physiological responses in \textit{Drosophila} to specific macro-nutrients in the diet. Here, the Nutritional Geometry Framework (NGF) has recently demonstrated that the protein and carbohydrate components of diet could have distinct effects both in terms of cell-level mechanisms of maintenance and repair, and physiological signaling \cite{Tatar2014}.
+
+	\paragraph{\empty} Corresponding to these single-generation studies, experimental evolution literature also offers substantial insight into the effects of dietary changes in fruit flies and how adaptive responses to dietary change can trade-off against other physiological traits under long-term selection. Selection experiments involving chronic larval malnutrition have shown that adaptation to poor food leads to faster development, but smaller adult body size and lower fecundity \cite{Kolss2009,Vijendravarma2012}. Importantly, the selection regime used in both these studies involved food dilution by which the concentrations of all food components were reduced by the same amount. This implies that the relative proportion of protein to carbohydrates remains unchanged in the diluted food, as with many early DR studies in \textit{Drosophila}. However, it was realised that fruit flies produce plastic responses in feeding rates depending on food quality, which could potentially compensate for the dilution of food \cite{Carvalho2005,Wong2009}. In single-generation studies, this confound has been addressed by the NGF which was able to dissect macro-nutrient specific responses, but its role in the development of adaptive change remains unclear. This is particularly important for selection studies involving dietary manipulation as it could change the nature of selection pressure applied to the system. Existing literature has explored the effects of malnutrition selection by overall food dilution; the logical counterpart to this must then be selection under an imbalanced malnutrition condition.
+
+	I therefore ask a two-part question: (i) what adaptive changes are produced by a protein-deficient selection regime?, and (ii) does the nutritional imbalance in the selection diet interact with a plastic feeding response to affect the nature and/or direction of selection imposed?
+	% \begin{figure}
+	% 	\begin{subfigure}{\textwidth}
+	% 		\centering
+	% 		\scalebox{0.5}{\input{fig1a.pdf_tex}}
+	% 		\subcaption{\empty}
+	% 	\end{subfigure}
+	% 	\begin{subfigure}{\textwidth}
+	% 		\centering
+	% 		\scalebox{0.5}{\input{fig1b.pdf_tex}}
+	% 		\subcaption{\empty}
+	% 	\end{subfigure}
+	% 	\caption{\label{fig1} Reaction norms for dietary change: (a) dry body weight and (b) realised fecundity, measured as the number of eclosing adult offspring per mating pair. Both respond identically in changes in dietary protein:carbohydrate ratios; lowY, eqY and highY are respectively 1:3, 1:1, 3:1 protein:carbohydrate, while onlyY had no sugar and only yeast. Cornmeal food consisting of corn flour, yeast, sugar and agar was used for this experiment. Blocks are independent biological replicates.}
+	% \end{figure}
+
+    \section*{Methods}
+	The lab has an ongoing long-term selection experiment running with fly populations of mating size \textasciitilde 2400. Selection is done by developing eggs on banana-jaggery medium with one-third the usual concentration of yeast (major source of dietary protein) and regular concentrations of all other components. The selected fly populations (MC) are compared with control populations (VBC) which are maintained identical to MC, except for the dietary protein deficiency. In a set of preliminary experiments, I found that selection under such deficiency has not changed the dry body weight or realised fecundity (number of eclosed adults per mating pair) of MC relative to VBC. I also found that these traits responded similarly to isocaloric food changes in both populations, suggesting that the selection regime has not affected the reaction norm for dietary changes in protein:carbohydrate ratios either.
+
+	Building on these indications, I propose to extend my investigation of the consequences of selection under a protein-deficient larval food with the following four experiments comparing MC and VBC:
+	\begin{itemize}
+		\item \textit{Drosophila} show periods of hyperactivity due to starvation \cite{Yu2016} which is part of a food-finding behavioural response and could therefore be an interesting readout for adaptive change. I plan to use the Drosophila Activity Monitoring System (DAMS, Trikinetics) to record activity counts over a 24-hour period without food or water.
+		\item Death due to dessication is a readout related to starvation and I plan to monitor the onset of mortality in 10 groups of 10 flies each placed in vials without food or water. As with starvation-induced hyperactivity, arguments can be made for either population to perform better than the other.
+		\item Small metabolite measurements can add context to the results of my earlier dry body weight comparison between MC and VBC. I plan to measure circulating glucose and trehalose, and total triglyceride content relative to protein content of mated flies shortly after eclosion, in order to assess how larval malnutrition has affected adult physiology before much compensatory feeding can happen.
+		\item Related to, but somewhat independent of, the above three, I also propose to measure the adult feeding rate, on normal as well as poor food, using a well-established dye uptake protocol with FD\&C Brilliant Blue \cite{Shell2018}. Dye uptake has proven to be a simple method that gives sufficiently reliable results for qualitative evaluation \cite{Wong2009} and could provide valuable insight into how the provided protein-deficient food in the selection regime is acting on fly physiology.
+	\end{itemize}
+
+    \section*{Significance}
+	The experiments proposed herein are part of a wider exploration of the effects of our malnutrition selection regime, which would lead to one of the final chapters in my thesis. They could enable a more comprehensive study of the selection regime and its effects on responses to isocaloric and non-isocaloric dietary changes, with a special focus on the macronutrient specificity of this response.
+
+	Where the field of DR and experimental evolution are concerned, the regime of explicit protein deficiency offers an interesting alternative to the current mainstay of overall food dilution. Much like what the NGF did for single-generation studies of DR then, this could lead to further investigation of macronutrient-specific responses beyond the immediate physiological sense, towards the development of adaptive change.
+
+    \section*{Budget}
+	My budget is devoted entirely to the procurement of kits for the measurement of small metabolites since all other experiments use simple equipment and reagents already available in the lab; the FD\&C Brilliant Blue dye is a generous gift from another group.
+	\vskip 10pt
+	\begin{tabular}{l | c  c  c }
+	\centering
+		Kit name & Catalog number & Quantity & Cost (\$) \\
+		\hline \hline
+		Sigma-Aldrich Triglyceride Assay kit & MAK040-1KT & 2 & 712 \\
+		Sigma-Aldrich Bradford Method Protein Assay kit & 2740-1KIT & 1 & 527 \\
+		Sigma-Aldrich Glucose (HK) Assay kit & GAHK20-1KT & 10 & 573 \\
+		\hline
+		& & \textbf{Total} & 1812
+	\end{tabular}
+
+	\small
+	\printbibliography
+\end{document}
