@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: review.aux
+The style file: cell.bst
+Database file #1: review.bib
+Repeated entry---line 364 of file review.bib
+ : @article{Cunningham2018
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 953 of file review.bib
+ : @article{Zhang2017a
+ :                    ,
+I'm skipping whatever remains of this entry
+You've used 21 entries,
+            2116 wiz_defined-function locations,
+            677 strings with 8341 characters,
+and the built_in function-call counts, 9117 in all, are:
+= -- 932
+> -- 475
+< -- 9
++ -- 166
+- -- 166
+* -- 939
+:= -- 1481
+add.period$ -- 61
+call.type$ -- 21
+change.case$ -- 125
+chr.to.int$ -- 21
+cite$ -- 82
+duplicate$ -- 246
+empty$ -- 565
+format.name$ -- 199
+if$ -- 1766
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 19
+newline$ -- 106
+num.names$ -- 63
+pop$ -- 120
+preamble$ -- 1
+purify$ -- 146
+quote$ -- 0
+skip$ -- 218
+stack$ -- 0
+substring$ -- 701
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 126
+warning$ -- 0
+while$ -- 74
+width$ -- 0
+write$ -- 269
+(There were 2 error messages)
