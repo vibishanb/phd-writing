@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2021.7.3)  4 JUL 2021 21:50
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2021.7.3)  5 JUL 2021 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,7 +768,13 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 44.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-] [2]
+]
+Overfull \hbox (19.60219pt too wide) in paragraph at lines 57--58
+\TU/Carlito(0)/m/n/12 raterone that target testosterone production, making them
+ impossible to treat with a castration-abiraterone 
+ []
+
+[2]
 File: f_res.png Graphic file (type bmp)
 <f_res.png>
  [3]
@@ -778,12 +784,6 @@ File: fig2.png Graphic file (type bmp)
 Overfull \hbox (12.16273pt too wide) in paragraph at lines 110--111
 []\TU/Carlito(0)/m/n/12 I am pursuing both these possibilities with a Master’s 
 student from IISER Pune. We spent the last semester 
- []
-
-
-Overfull \hbox (1.14516pt too wide) in paragraph at lines 110--111
-\TU/Carlito(0)/m/n/12 generate predictions regarding the variation of cancer ri
-sk with cell number and patterns in cell turnover 
  []
 
 [5] (./review.bbl
@@ -810,6 +810,6 @@ Here is how much of TeX's memory you used:
  26348 multiletter control sequences out of 15000+600000
  542074 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 39i,9n,67p,2004b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,9n,67p,2018b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on review.pdf (7 pages).
