@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Dispersal selection}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Work done up to 2020}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Post-pandemic data and future directions}{11}{0}{1}
+\beamer@sectionintoc {2}{Cancer theory}{19}{0}{2}
+\beamer@subsectionintoc {2}{1}{Adaptive therapy}{20}{0}{2}
+\beamer@subsectionintoc {2}{2}{Other theory work in cancer}{34}{0}{2}
