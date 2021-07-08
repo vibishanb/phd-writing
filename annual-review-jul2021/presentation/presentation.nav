@@ -34,27 +34,29 @@
 \headcommand {\beamer@framepages {21}{22}}
 \headcommand {\slideentry {2}{1}{3}{23/26}{Adaptive therapy}{0}}
 \headcommand {\beamer@framepages {23}{26}}
-\headcommand {\slideentry {2}{1}{4}{27/28}{Adaptive therapy}{0}}
-\headcommand {\beamer@framepages {27}{28}}
-\headcommand {\slideentry {2}{1}{5}{29/32}{Adaptive therapy}{0}}
-\headcommand {\beamer@framepages {29}{32}}
-\headcommand {\slideentry {2}{1}{6}{33/33}{Adaptive therapy}{0}}
-\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {2}{1}{4}{27/29}{Adaptive therapy}{0}}
+\headcommand {\beamer@framepages {27}{29}}
+\headcommand {\slideentry {2}{1}{5}{30/33}{Adaptive therapy}{0}}
+\headcommand {\beamer@framepages {30}{33}}
 \headcommand {\beamer@subsectionpages {20}{33}}
 \headcommand {\beamer@subsectionentry {0}{2}{2}{34}{Other theory work in cancer}}
 \headcommand {\slideentry {2}{2}{1}{34/34}{Other theory work in cancer}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {2}{2}{2}{35/41}{Other theory work in cancer}{0}}
-\headcommand {\beamer@framepages {35}{41}}
-\headcommand {\slideentry {2}{2}{3}{42/42}{Other theory work in cancer}{0}}
+\headcommand {\slideentry {2}{2}{2}{35/40}{Other theory work in cancer}{0}}
+\headcommand {\beamer@framepages {35}{40}}
+\headcommand {\slideentry {2}{2}{3}{41/41}{Other theory work in cancer}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@sectionpages {19}{41}}
+\headcommand {\beamer@subsectionpages {34}{41}}
+\headcommand {\sectionentry {3}{\translate {References}}{42}{\translate {References}}{0}}
+\headcommand {\slideentry {3}{0}{1}{42/42}{Other theory work in cancer}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\beamer@sectionpages {19}{42}}
-\headcommand {\beamer@subsectionpages {34}{42}}
-\headcommand {\sectionentry {3}{\translate {References}}{43}{\translate {References}}{0}}
-\headcommand {\slideentry {3}{0}{1}{43/43}{Other theory work in cancer}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\beamer@partpages {1}{44}}
-\headcommand {\beamer@subsectionpages {34}{44}}
-\headcommand {\beamer@sectionpages {19}{44}}
-\headcommand {\beamer@documentpages {44}}
-\headcommand {\gdef \inserttotalframenumber {19}}
+\headcommand {\slideentry {3}{0}{2}{44/44}{Other theory work in cancer}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {3}{0}{3}{45/46}{Other theory work in cancer}{0}}
+\headcommand {\beamer@framepages {45}{46}}
+\headcommand {\beamer@partpages {1}{46}}
+\headcommand {\beamer@subsectionpages {34}{46}}
+\headcommand {\beamer@sectionpages {19}{46}}
+\headcommand {\beamer@documentpages {46}}
+\headcommand {\gdef \inserttotalframenumber {20}}

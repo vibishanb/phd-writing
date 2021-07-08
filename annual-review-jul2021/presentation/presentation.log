@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2021.7.3)  7 JUL 2021 20:06
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2021.7.3)  8 JUL 2021 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -872,6 +872,9 @@ File: path.png Graphic file (type bmp)
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 157.
 
+Overfull \vbox (4.78874pt too high) detected at line 157
+ []
+
 [9
 
 ] [10
@@ -886,10 +889,19 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
 File: activity.pdf Graphic file (type pdf)
 <use activity.pdf, page 1>
 )
+Overfull \hbox (22.87163pt too wide) in paragraph at lines 187--187
+ [] 
+ []
+
 (./rest.pdf_tex
 File: rest.pdf Graphic file (type pdf)
 <use rest.pdf, page 1>
-) [14
+)
+Overfull \hbox (25.34514pt too wide) in paragraph at lines 187--187
+ [] 
+ []
+
+[14
 
 ] (./bw.pdf_tex
 File: bw.pdf Graphic file (type pdf)
@@ -902,10 +914,10 @@ File: bw.pdf Graphic file (type pdf)
 
 ] [18
 
-] (./presentation.toc)
-[19
+] (./presentation.toc) [19
 
-] (./presentation.toc) [20
+]
+(./presentation.toc) [20
 
 ] (./comprelease.pdf_tex
 File: comprelease.pdf Graphic file (type pdf)
@@ -927,7 +939,7 @@ File: at.pdf Graphic file (type pdf)
 <use at.pdf, page 4>
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 221.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 211.
  [21
 
 ]
@@ -961,57 +973,40 @@ File: at.pdf Graphic file (type pdf)
 
 ] [27
 
-]
-File: f_res.png Graphic file (type bmp)
-<f_res.png>
- [28
+] [28
 
 ]
-File: fig2.png Graphic file (type bmp)
-<fig2.png>
-
 [29
 
-]
-File: fig2.png Graphic file (type bmp)
-<fig2.png>
- [30
+] [30
 
-]
-File: fig2.png Graphic file (type bmp)
-<fig2.png>
- [31
+] [31
 
-]
-File: fig2.png Graphic file (type bmp)
-<fig2.png>
- [32
+] [32
 
 ] [33
 
 ] (./presentation.toc) [34
 
-] [35
+]
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 274.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) [35
 
 ] [36
 
 ] [37
 
-] [38
-
 ]
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 327.
+[38
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
-File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) [39
+] [39
 
 ] [40
 
 ] [41
-
-]
-[42
 
 ] (./presentation.bbl
 
@@ -1019,12 +1014,21 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\translate ' on input line 1.
 
 )
-Underfull \vbox (badness 6592) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43
+ [42
 
 ]
-[44]
+[43] [44
+
+] [45
+
+]
+File: f_res.png Graphic file (type bmp)
+<f_res.png>
+ [46
+
+]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -1034,21 +1038,21 @@ Underfull \vbox (badness 6592) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 343.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 343.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
  (./presentation.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 343.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 343.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D39BE6BB9B5C218A7C25C86976FE22C3.
  ) 
 Here is how much of TeX's memory you used:
- 21654 strings out of 492912
- 394572 string characters out of 6134894
- 493699 words of memory out of 5000000
- 25210 multiletter control sequences out of 15000+600000
- 37177 words of font info for 63 fonts, out of 8000000 for 9000
+ 21680 strings out of 492912
+ 395444 string characters out of 6134894
+ 494079 words of memory out of 5000000
+ 25237 multiletter control sequences out of 15000+600000
+ 38821 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,19n,65p,806b,1011s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on presentation.pdf (44 pages).
+Output written on presentation.pdf (46 pages).
